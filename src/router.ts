@@ -37,10 +37,10 @@ const router = new Router({
         import(/* webpackChunkName: "account" */ "./views/Admin/MyAccount.vue")
     },
     {
-      path: "/evento",
-      name: "evento",
+      path: "/escola",
+      name: "escola",
       component: () =>
-        import(/* webpackChunkName: "evento2" */ "./views/Evento.vue")
+        import(/* webpackChunkName: "evento2" */ "./views/Escola.vue")
     },
     {
       path: "/profile",
@@ -59,6 +59,12 @@ const router = new Router({
       name: "minicursos",
       component: () =>
         import(/* webpackChunkName: "minicurso" */ "./views/MiniCourses.vue")
+    },    
+    {
+      path: "/palestras",
+      name: "palestras",
+      component: () =>
+        import(/* webpackChunkName: "minicurso" */ "./views/Palestras.vue")
     },
     {
       path: "*",

@@ -9,22 +9,21 @@
                 <img src="assets/img/logo-clean.webp" class="logo" />
                 <img src="assets/img/logo-clean.webp" class="logo back" />
                 <div>
-                  <span class="date">11 a 14 de Novembro</span>
+                  <span class="date">09 a 11 de Maio</span>
                 </div>
                 <hr />
                 <div>
-                  <span class="jcecec">IV JCECEC e I JCR</span>
+                  <span class="jcecec">I JCPOLI</span>
                 </div>
                 <div>
                   <span class="jcecec-sub">
-                    Jornada Científica da Escola de Ciências Exatas e Computação e
-                    <br />Jornada Científica Regional
+                    Jornada Científica da Escola Politécnica                    
                   </span>
                 </div>
                 <hr />
                 <div>
                   <span id="description">
-                    NOVAS TECNOLOGIAS NA
+                    XXXXXXXXXXX NOVAS TECNOLOGIAS NA
                     <br />EDUCAÇÃO E NA INDÚSTRIA
                   </span>
                 </div>
@@ -49,11 +48,11 @@ export default class Carousel extends Vue {
 
     this.items = [
       {
-        src: "/assets/img/slider/3.jpg"
-      }
-      // {
-      //   src: "/assets/img/slider/4.jpg"
-      // },
+        src: "/assets/img/slider/3.jpeg"
+      },
+       {
+         src: "/assets/img/slider/4.jpg"
+       },
       // {
       //   src: "/assets/img/slider/1.jpg"
       // }

@@ -11,11 +11,15 @@
       </div>
       <ul>
         <router-link to="/" tag="li">Home</router-link>
-        <router-link to="/evento" tag="li">Evento</router-link>
-        <router-link to="/programacao" tag="li">Programação</router-link>
+        <router-link to="/escola" tag="li">Escola</router-link>
+        <router-link to="/programacao" tag="li">Palestras</router-link>
         <router-link to="/minicursos" tag="li">Minicursos</router-link>
+        <router-link to="/palestras" tag="li">Exposições</router-link>
+
+        <!--
         <router-link to="/jges" tag="li">JGES</router-link>
         <router-link to="/cadastro" tag="li">Inscrição</router-link>
+        -->
         <router-link to="/submissao" tag="li">Submissão</router-link>
       </ul>
     </div>
@@ -23,24 +27,22 @@
     <div class="nav-info">
       <img src="assets/img/lampada.png" alt />
       <div>
-        <span class="title">IV JCECEC e I JCR</span>
+        <span class="title">I JCPOLI</span>
         <br />
         <span>
-          Jornada Científica da Escola de
-          <br />Ciências Exatas e da Computação e
-          <br />Jornada Científica Regional
+          Jornada Científica da Escola Politécnica
         </span>
       </div>
 
       <div class="nav-date">
         <span class="desktop" :style="{textAlign: 'right'}">
-          De 11 a 14 de Novembro
+          De 9 a 11 de Maio
           <br />PUC Goiás
           <br />Goiânia-GO
         </span>
 
         <span class="mobile sm-device">
-          De 11 a 14 de Novembro
+          De 9 a 11 de Maio
           PUC Goiás
           Goiânia-GO
         </span>
@@ -55,11 +57,15 @@
     <div class="nav-container desktop">
       <ul>
         <router-link to="/" tag="li">Home</router-link>
-        <router-link to="/evento" tag="li">Evento</router-link>
-        <router-link to="/programacao" tag="li">Programação</router-link>
+        <router-link to="/escola" tag="li">Escola</router-link>
+        <router-link to="/palestras" tag="li">Palestras</router-link>
         <router-link to="/minicursos" tag="li">Minicursos</router-link>
+        <router-link to="/exposicoes" tag="li">Exposições</router-link>
+
+        <!--
         <router-link to="/jges" tag="li">JGES</router-link>
         <router-link to="/cadastro" tag="li">Inscrição</router-link>
+        -->
         <router-link to="/submissao" tag="li">Submissão</router-link>
       </ul>
     </div>

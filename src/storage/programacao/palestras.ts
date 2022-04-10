@@ -1,4 +1,3 @@
-
 export default [{
     date: "11/11",
     description: "Abertura / O meu futuro \"uma nova abordagem\"",

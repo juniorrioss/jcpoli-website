@@ -4,7 +4,7 @@
       :title="title"
       :description="description"
       :image="background"
-      offset="calc((-110/523)*100vw + 67.304015296px)"
+      offset="calc((-100/523)*100vw + 67.304015296px)"
     ></PhotoHeader>
 
     <Main>
@@ -16,7 +16,6 @@
       </div>
     </Main>
   </div>
-
 </template>
 
 <script lang="ts">
@@ -30,16 +29,15 @@ import Courses from "@/models/miniCourses";
   components: {
     PhotoHeader,
     Main,
-    MiniCourse
-  }
+    MiniCourse,
+  },
 })
 export default class MiniCourses extends Vue {
   private coursesList: any;
 
   private title = "Minicursos";
   private description = "Minicursos da jornada";
-  private background =
-    "https://cdn.pixabay.com/photo/2016/02/05/16/19/offices-1181385_960_720.jpg";
+  private background = "assets/img/lab.jpg";
 
   constructor() {
     super();

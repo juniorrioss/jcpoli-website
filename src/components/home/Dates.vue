@@ -54,22 +54,22 @@ export default class Dates extends Vue {
 
   private dates = [
     {
-      date: "30/10",
-      event: "Prazo para as submissões",
+      date: "30/04",
+      event: "Prazo para XXXXXXXXX",
       disabled: true
     },
     {
-      date: "04/11",
-      event: "Prazo para as submissões",
+      date: "04/05",
+      event: "Prazo para XXXXXXXXX",
       disabled: true
     },
     {
-      date: "05/11",
-      event: "Prazo para as submissões",
+      date: "05/05",
+      event: "Prazo para XXXXXXXXX",
       disabled: false
     },
     {
-      date: "11/11 a 14/11",
+      date: "09/05 a 11/05",
       event: "Data do evento",
       disabled: false
     }

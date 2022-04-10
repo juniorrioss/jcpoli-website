@@ -1,29 +1,40 @@
-# website
+# website I JCPOLI 2022 
 
-## Project setup
-```
-npm install
-```
+TO DO LIST
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+[ X ] Retirar aba EVENTOS
 
-### Compiles and minifies for production
-```
-npm run build
-```
+[ X ] Retirar inscrição
 
-### Run your tests
-```
-npm run test
-```
+[ X ] Aba de minicurso trocar foto do labatório
 
-### Lints and fixes files
-```
-npm run lint
-```
+[ X ] Retirar aba de jgs
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+[ X ] Alterar o caminho da aba Escola de eventos para escola
+
+[ ] Retirar Posters e Premiações
+
+[ ] Aba de exposições (descrição das amostras cultural) 
+
+[ ] Trocar layout de palestras para o layout de mini curso
+
+[ ] Receber o logo do evento (atual = lampada)
+
+[ ] Colocar foto genérica dos palestrantes
+
+[ ] Página final - comite de avaliação e cientifico
+
+[ X ] Retirar o histórico do evento e colocar aba ESCOLA
+
+[ ] Preencher o histórico da aba Escola
+
+[ ] Verificar navbar no modo mobile 
+
+
+
+
+ABAS -> HOME/ESCOLA/PALESTRAS/MINICURSO/EXPOSIÇÕES/SUBMISSÃO
+
+npm start so para visualização estática
+
+npm run serve (com dev dependecies / hot reload)

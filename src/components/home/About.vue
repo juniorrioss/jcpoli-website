@@ -2,21 +2,16 @@
   <div id="container-sobre">
     <v-layout p-3 row wrap>
       <v-flex xs12 class="text-xs-left" mt-5>
-        <h2>IV Jornada Científica da Escola de Ciências Exatas e da Computação</h2>
+        <h2>I Jornada Científica da Escola Politécnica</h2>
       </v-flex>
       <v-flex id="sobre" xs12 class="text-xs-left" mt-3>
         <p>
-          Temos o prazer de anunciar a realização da IV
-          Jornada Científica da Escola de Ciências Exatas e
-          da Computação (JCECEC) da Pontifícia Universi-
-          dade Católica de Goiás (PUC Goiás) e I Jornada
-          Científica Regional (JCR) que será realizada de
-          11 a 14 de Novembro de 2019. A IV JCECEC e
-          I JCR será a primeira internacional e vai contar
-          com pesquisadores do Canadá, Inglaterra e Portu-
-          gal. Ainda da tempo de submeter o seu trabalho
+          Temos o prazer de anunciar a realização da I
+          Jornada Científica da Escola Politécnica (JCPOLI) da Pontifícia Universidade Católica de Goiás
+          (PUC Goiás) 9 a 11 de Maio de 2022. A I JCPOLI 
+          será XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX Ainda da tempo de submeter o seu trabalho
           online em http://ecec.pucgoias.edu.br. Os melhores
-          trabalhos da IV JCECEC e I JCR serão convidados para publicação na revista da ECEC.
+          trabalhos da I JCPOLI serão convidados para publicação na revista da Escola Politécnica.
         </p>
       </v-flex>
     </v-layout>

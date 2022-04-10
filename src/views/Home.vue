@@ -17,8 +17,8 @@
                 <h5>QUANDO</h5>
               </div>
               <span id="quando">
-                De 11 a 14 de
-                <br />novembro de 2019
+                De 09 a 11 de
+                <br />maio de 2022
               </span>
               <!-- </v-flex> -->
               <!-- <v-flex> -->
@@ -58,24 +58,29 @@
           <v-layout class="subcall text-left">
             <v-flex>
               <p class="text-justify">
-                A IV JCECEC e I Jornada Científica Regional (JCR) será realizada de 11 a 14 de Novembro de
-                2019. A IV JCECEC e I JCR será a primeira internacional e vai contar com pesquisadores de três paises.
+                A I JCPOLI será realizada de 9 a 11 de Maio de 2022. 
+                XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+                A IV JCECEC e I JCR será a primeira internacional e vai contar com pesquisadores de três paises.
                 Nessa edição conta-se com a participação do Instituto Federal de Goiás (IFG).
               </p>
             </v-flex>
           </v-layout>
+          
           <v-layout row wrap class="button-actions">
+          <!--
             <v-flex offset-md3 xs12 md3>
               <v-btn @click="goToSubscription" color="primary" large>Faça sua inscrição</v-btn>
             </v-flex>
-            <v-flex xs12 md3>
-              <v-btn @click="goToSubmission" large class="btn-submission">Submeta seu artigo</v-btn>
+          -->
+            <v-flex>
+              <v-btn @click="goToSubmission" large class="btn-submission" color='primary'>Submeta seu artigo</v-btn>
             </v-flex>
+          
           </v-layout>
           <v-layout class="line rights-reserved">
             <v-flex>
               <hr />
-              <p>&copy; 4º Jornada Científica da Escola de Ciências Exatas e da Computação - JCECEC 2019</p>
+              <p>&copy; 1º Jornada Científica da Escola Politécnica - JCPOLI 2022</p>
             </v-flex>
           </v-layout>
         </v-container>
