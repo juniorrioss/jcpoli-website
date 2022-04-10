@@ -30,6 +30,11 @@ TO DO LIST
 
 [ ] Verificar navbar no modo mobile 
 
+[ ] Acrescentar as pessoas do novo comitê
+
+[ ] Retirar os patrocinadores
+
+[ ] Dividir em secções as palestras (área 2/ área 3/ [TALVEZ])
 
 
 
