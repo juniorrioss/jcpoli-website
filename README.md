@@ -1,4 +1,4 @@
-# website I JCPOLI 2022 
+# website I JCPOLI 2022
 
 TO DO LIST
 
@@ -14,7 +14,7 @@ TO DO LIST
 
 [ ] Retirar Posters e Premiações
 
-[ ] Aba de exposições (descrição das amostras cultural) 
+[ ] Aba de exposições (descrição das amostras cultural)
 
 [ ] Trocar layout de palestras para o layout de mini curso
 
@@ -28,15 +28,13 @@ TO DO LIST
 
 [ ] Preencher o histórico da aba Escola
 
-[ ] Verificar navbar no modo mobile 
+[ ] Verificar navbar no modo mobile
 
 [ ] Acrescentar as pessoas do novo comitê
 
 [ ] Retirar os patrocinadores
 
-[ ] Dividir em secções as palestras (área 2/ área 3/ [TALVEZ])
-
-
+[ ] Dividir em secções as palestras (área 2/ área 3/ [talvez])
 
 ABAS -> HOME/ESCOLA/PALESTRAS/MINICURSO/EXPOSIÇÕES/SUBMISSÃO
 
