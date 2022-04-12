@@ -16,7 +16,7 @@ TO DO LIST
 
 [ ] Aba de exposições (descrição das amostras cultural)
 
-[ ] Trocar layout de palestras para o layout de mini curso
+[ X ] Trocar layout de palestras para o layout de mini curso
 
 [ ] Receber o logo do evento (atual = lampada)
 
@@ -32,7 +32,7 @@ TO DO LIST
 
 [ ] Acrescentar as pessoas do novo comitê
 
-[ ] Retirar os patrocinadores
+[ X ] Retirar os patrocinadores
 
 [ ] Dividir em secções as palestras (área 2/ área 3/ [talvez])
 

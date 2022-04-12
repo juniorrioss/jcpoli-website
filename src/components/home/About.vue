@@ -16,17 +16,18 @@
         </p>
       </v-flex>
       <v-flex xs12 class="text-xs-left" mt-5>
-        <h2>TCC</h2>
+        <h2>Trabalhos de conclusão de curso</h2>
       </v-flex>
       <v-flex id="sobre" xs12 class="text-xs-left" mt-3>
         <p>
-          Temos o prazer de anunciar a realização da I Jornada Científica da
-          Escola Politécnica (JCPOLI) da Pontifícia Universidade Católica de
-          Goiás (PUC Goiás) 9 a 11 de Maio de 2022. A I JCPOLI será
-          XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX Ainda da tempo de
-          submeter o seu trabalho online em http://ecec.pucgoias.edu.br. Os
-          melhores trabalhos da I JCPOLI serão convidados para publicação na
-          revista da Escola Politécnica.
+          Nesta edição da Jornada serão aceitos artigos de alunos de conclusão
+          de curso. Os artigos aceitos e publicados nos anais da I Jornada
+          Científica da Escola Politécnica podem substituir a
+          monografia/dissertação para a conclusão do Trabalho de Conclusão de
+          Curso (TCC) para os alunos da Escola Politécnica da PUC Goiás. Os
+          autores dos artigos devem ser o(s) aluno(s), o(s) orientador(es) e
+          co-orientador(es). A submissão de artigos deve ser feita para o e-mail
+          <a href="mailto:jcpoli@pucgoias.edu.br">jcpoli@pucgoias.edu.br</a>.
         </p>
       </v-flex>
     </v-layout>

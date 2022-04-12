@@ -11,6 +11,8 @@
       </div>
     </div>
     <v-divider></v-divider>
+
+    REMOCAO DOS APOIADORES
     <h6>Apoio</h6>
     <div class="row mt-5">
       <div class="col-md-6 text-center mb-5">
@@ -29,8 +31,7 @@
 </template>
 
 <script>
-export default {};
+export default {}
 </script>
 
-<style lang="scss">
-</style>
+<style lang="scss"></style>

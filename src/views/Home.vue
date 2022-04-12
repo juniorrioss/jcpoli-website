@@ -51,7 +51,7 @@
     <Main>
       <Speakers :speakers="speakersList" :paginate="1" />
 
-      <Supporters />
+      <!-- <Supporters /> -->
     </Main>
 
     <div mt-5 mb-5 id="inscricoes" class="footer-subscription">

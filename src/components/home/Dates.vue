@@ -14,15 +14,15 @@
         no-data-text="Nenhum dado cadastrado"
       >
         <template v-slot:items="props">
-        <tr>
-          <td class="text-xs-center">
-            <del v-if="props.item.disabled">{{ props.item.date }}</del>
-            <span v-else>{{ props.item.date }}</span>
-          </td>
-          <td class="text-xs-center">
-            <del v-if="props.item.disabled">{{ props.item.event }}</del>
-            <span v-else>{{ props.item.event }}</span>
-          </td>
+          <tr>
+            <td class="text-xs-center">
+              <del v-if="props.item.disabled">{{ props.item.date }}</del>
+              <span v-else>{{ props.item.date }}</span>
+            </td>
+            <td class="text-xs-center">
+              <del v-if="props.item.disabled">{{ props.item.event }}</del>
+              <span v-else>{{ props.item.event }}</span>
+            </td>
           </tr>
         </template>
       </v-data-table>
@@ -31,7 +31,7 @@
 </template>
 
 <script lang="ts">
-import { Component, Vue, Prop } from "vue-property-decorator";
+import { Component, Vue, Prop } from 'vue-property-decorator'
 
 @Component({
   components: {}
@@ -39,44 +39,44 @@ import { Component, Vue, Prop } from "vue-property-decorator";
 export default class Dates extends Vue {
   private headers = [
     {
-      text: "data",
-      align: "left",
-      value: "date",
+      text: 'data',
+      align: 'left',
+      value: 'date',
       sortable: false
     },
     {
-      text: "data2",
-      align: "right",
-      value: "date",
+      text: 'data2',
+      align: 'right',
+      value: 'date',
       sortable: false
     }
-  ];
+  ]
 
   private dates = [
     {
-      date: "30/04",
-      event: "Prazo para XXXXXXXXX",
-      disabled: true
-    },
-    {
-      date: "04/05",
-      event: "Prazo para XXXXXXXXX",
-      disabled: true
-    },
-    {
-      date: "05/05",
-      event: "Prazo para XXXXXXXXX",
+      date: '04 a 29 de Abril',
+      event: 'Período para encaminhamento dos artigos',
       disabled: false
     },
     {
-      date: "09/05 a 11/05",
-      event: "Data do evento",
+      date: 'até 06 de Maio',
+      event: 'Período para avaliação, revisão e correção dos artigos',
+      disabled: false
+    },
+    {
+      date: 'até 9 de maio',
+      event: 'Prazo para envio do pôster para publicação',
+      disabled: false
+    },
+    {
+      date: '11 de Maio',
+      event: 'Apresentação do artigos na I Jornada',
       disabled: false
     }
-  ];
+  ]
 
   constructor() {
-    super();
+    super()
   }
 }
 </script>
@@ -86,7 +86,7 @@ export default class Dates extends Vue {
   font-size: 20px;
   color: #0065a0;
   font-weight: 600;
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .datas td {
