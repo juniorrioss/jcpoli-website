@@ -16,7 +16,7 @@ TO DO LIST
 
 [ ] Aba de exposições (descrição das amostras cultural)
 
-[ ] Trocar layout de palestras para o layout de mini curso
+[ X ] Trocar layout de palestras para o layout de mini curso
 
 [ ] Receber o logo do evento (atual = lampada)
 
