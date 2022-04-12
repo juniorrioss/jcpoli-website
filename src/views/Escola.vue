@@ -27,7 +27,7 @@
         <Speakers :speakers="speakers" :paginate="1" />
       </Paragraph>
 
-      <Supporters />
+      <!--<Supporters /> -->
     </Main>
   </div>
 </template>
