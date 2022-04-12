@@ -2,7 +2,12 @@
   <v-layout row wrap class="jcecec-slider">
     <v-flex xs12>
       <v-carousel hide-controls hide-delimiters height="900">
-        <v-carousel-item v-for="(item,i) in items" :key="i" :src="item.src" hide-controls>
+        <v-carousel-item
+          v-for="(item, i) in items"
+          :key="i"
+          :src="item.src"
+          hide-controls
+        >
           <v-container fill-height>
             <v-layout align-center fill-height justify-center>
               <div class="banner">
@@ -17,14 +22,13 @@
                 </div>
                 <div>
                   <span class="jcecec-sub">
-                    Jornada Científica da Escola Politécnica                    
+                    Jornada Científica da Escola Politécnica
                   </span>
                 </div>
                 <hr />
                 <div>
                   <span id="description">
-                    XXXXXXXXXXX NOVAS TECNOLOGIAS NA
-                    <br />EDUCAÇÃO E NA INDÚSTRIA
+                    Cultura, Inovação e Empreendedorismo
                   </span>
                 </div>
               </div>
@@ -37,26 +41,26 @@
 </template>
 
 <script lang="ts">
-import { Component, Vue } from "vue-property-decorator";
+import { Component, Vue } from 'vue-property-decorator'
 
 @Component
 export default class Carousel extends Vue {
-  private items: any;
+  private items: any
 
   constructor() {
-    super();
+    super()
 
     this.items = [
       {
-        src: "/assets/img/slider/3.jpeg"
+        src: '/assets/img/slider/3.jpeg'
       },
-       {
-         src: "/assets/img/slider/4.jpg"
-       },
+      {
+        src: '/assets/img/slider/4.jpg'
+      }
       // {
       //   src: "/assets/img/slider/1.jpg"
       // }
-    ];
+    ]
   }
 }
 </script>
