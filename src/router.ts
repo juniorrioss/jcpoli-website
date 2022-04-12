@@ -59,6 +59,12 @@ const router = new Router({
       name: "minicursos",
       component: () =>
         import(/* webpackChunkName: "minicurso" */ "./views/MiniCourses.vue")
+    },
+    {
+      path: "/exposicoes",
+      name: "exposicoes",
+      component: () =>
+        import(/* webpackChunkName: "exposicoes" */ "./views/Exposicoes.vue")
     },    
     {
       path: "/palestras",
@@ -71,11 +77,15 @@ const router = new Router({
       component: () =>
         import(/* webpackChunkName: "ops" */ "./views/four04.vue")
     },
+
+    /* REMOVE PATH JGES
     {
       path: "/jges",
       component: () =>
-        import(/* webpackChunkName: "jges" */ "./views/JGES.vue")
+        import(/* webpackChunkName: "jges"  "./views/JGES.vue")
     },
+    */
+   
     {
       path: "/programacao",
       component: () =>
