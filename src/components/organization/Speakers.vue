@@ -1,9 +1,16 @@
 <template>
   <div>
-    <v-carousel interval="30000" light hide-delimiters height="auto">
-      <v-carousel-item v-for="(page, p_index) in speakersPaginated" :key="p_index">
+    <v-carousel interval="3000" light hide-delimiters height="auto">
+      <v-carousel-item
+        v-for="(page, p_index) in speakersPaginated"
+        :key="p_index"
+      >
         <div class="speakers">
-          <Speaker v-for="(speaker, index) in page.array" :key="index" :speaker="speaker" />
+          <Speaker
+            v-for="(speaker, index) in page.array"
+            :key="index"
+            :speaker="speaker"
+          />
         </div>
       </v-carousel-item>
     </v-carousel>
@@ -11,8 +18,8 @@
 </template>
 
 <script lang="ts">
-import { Component, Vue, Prop } from "vue-property-decorator";
-import Speaker from "@/components/organization/Speaker.vue";
+import { Component, Vue, Prop } from 'vue-property-decorator'
+import Speaker from '@/components/organization/Speaker.vue'
 
 @Component({
   components: {
@@ -20,36 +27,36 @@ import Speaker from "@/components/organization/Speaker.vue";
   }
 })
 export default class Speakers extends Vue {
-  @Prop(Array) private speakers: any;
-  @Prop(Number) private paginate: number;
+  @Prop(Array) private speakers: any
+  @Prop(Number) private paginate: number
 
-  private speakersPaginated: any = null;
+  private speakersPaginated: any = null
 
   constructor() {
-    super();
+    super()
 
-    if (!this.paginate) this.paginate = 2;
+    if (!this.paginate) this.paginate = 2
 
     if (this.paginate) {
       let pages =
         ((this.speakers.length / this.paginate) | 0) +
-        (this.speakers.length % this.paginate);
-      this.speakersPaginated = [];
+        (this.speakers.length % this.paginate)
+      this.speakersPaginated = []
 
       for (let i = 0; i < pages; i++) {
         this.speakersPaginated.push(
           (() => {
-            let objectsPerPage: any = [];
+            let objectsPerPage: any = []
 
             for (let j = 0; j < this.paginate; j++)
               if (this.speakers.length)
-                objectsPerPage.push(this.speakers.shift());
+                objectsPerPage.push(this.speakers.shift())
 
             return {
               array: objectsPerPage
-            };
+            }
           })()
-        );
+        )
       }
     }
   }
@@ -73,4 +80,3 @@ export default class Speakers extends Vue {
   left: -50px;
 }
 </style>
-

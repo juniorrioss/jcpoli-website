@@ -9,13 +9,13 @@
       <v-flex xs12 md8>
         <div class="name-speaker">
           <span class="name">
-            <h4>{{name}}</h4>
+            <h4>{{ name }}</h4>
           </span>
         </div>
-        <div class="institution">{{institution}}</div>
-        <div class="speaking">{{speaking}}</div>
+        <div class="institution">{{ institution }}</div>
+        <div class="speaking">{{ speaking }}</div>
         <div class="description">
-          <p>{{description}}</p>
+          <p>{{ description }}</p>
         </div>
         <div class="more">
           <v-btn color="primary">Leia completo</v-btn>
@@ -26,18 +26,18 @@
 </template>
 
 <script lang="ts">
-import { Component, Vue, Prop } from "vue-property-decorator";
+import { Component, Vue, Prop } from 'vue-property-decorator'
 
 @Component
 export default class Speakers extends Vue {
-  @Prop(String) private name: string;
-  @Prop(String) private institution: string;
-  @Prop(String) private speaking: string;
-  @Prop(String) private description: string;
-  @Prop(String) private img: string;
+  @Prop(String) private name: string
+  @Prop(String) private institution: string
+  @Prop(String) private speaking: string
+  @Prop(String) private description: string
+  @Prop(String) private img: string
 
   constructor() {
-    super();
+    super()
   }
 }
 </script>
@@ -85,7 +85,7 @@ img {
 .institution,
 .speaking,
 .description {
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-weight: normal;
   font-style: normal;
   font-size: 16px;
@@ -110,8 +110,6 @@ img {
 }
 
 h4 {
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 </style>
-
-

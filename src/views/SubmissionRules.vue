@@ -230,14 +230,6 @@
                       CEUR Workshop Proceedings, Tunis, Tunisia (2014).
                     </li>
                   </ul>
-                  <v-btn
-                    type="submit"
-                    color="primary"
-                    href="/assets/JCECEC_template.docx"
-                  >
-                    BAIXAR TEMPLATE
-                    <v-icon right dark>cloud_download</v-icon>
-                  </v-btn>
                 </v-card-text>
               </v-card>
             </v-expansion-panel-content>
@@ -545,7 +537,29 @@
           </v-expansion-panel>
         </div>
         <div class="col-md-5">
-          <!--<Login /> -->
+          <div class="info-arquivo">
+            <h4>Template de artigo:</h4>
+            <v-btn
+              type="submit"
+              color="primary"
+              href="/assets/JCECEC_template.docx"
+            >
+              ACESSAR TEMPLATE
+              <v-icon right dark>cloud_download</v-icon>
+            </v-btn>
+          </div>
+
+          <div class="info-arquivo">
+            <h4>Edital completo:</h4>
+            <v-btn
+              type="submit"
+              color="primary"
+              href="/assets/edital_JCPOLI.pdf"
+            >
+              ACESSAR EDITAL
+              <v-icon right dark>cloud_download</v-icon>
+            </v-btn>
+          </div>
         </div>
       </div>
     </div>
@@ -621,5 +635,9 @@ export default class SubmissionRules extends mixins(LoaderMixin) {
 .titles {
   font-size: 16px !important;
   font-weight: 500;
+}
+
+.info-arquivo {
+  margin-top: 3rem;
 }
 </style>

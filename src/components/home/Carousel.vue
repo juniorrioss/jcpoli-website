@@ -28,7 +28,7 @@
                 <hr />
                 <div>
                   <span id="description">
-                    Cultura, Inovação e Empreendedorismo
+                    CULTURA, INOVAÇÃO e EMPREENDEDORISMO
                   </span>
                 </div>
               </div>
