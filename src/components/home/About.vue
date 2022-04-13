@@ -20,14 +20,17 @@
       </v-flex>
       <v-flex id="sobre" xs12 class="text-xs-left" mt-3>
         <p>
-          Nesta edição da Jornada serão aceitos artigos de alunos de conclusão
-          de curso. Os artigos aceitos e publicados nos anais da I Jornada
-          Científica da Escola Politécnica podem substituir a
-          monografia/dissertação para a conclusão do Trabalho de Conclusão de
-          Curso (TCC) para os alunos da Escola Politécnica da PUC Goiás. Os
-          autores dos artigos devem ser o(s) aluno(s), o(s) orientador(es) e
-          co-orientador(es). A submissão de artigos deve ser feita para o e-mail
-          <a href="mailto:jcpoli@pucgoias.edu.br">jcpoli@pucgoias.edu.br</a>.
+          Nesta edição da Jornada serão aceitos artigos de alunos de Trabalho de
+          Conclusão de Curso – TCC II. Os artigos aceitos e publicados nos anais
+          da I Jornada Científica da Escola Politécnica (I Jornada) podem
+          substituir a monografia/dissertação para a conclusão do TCC II para os
+          alunos da Escola Politécnica da PUC Goiás, excetuando os cursos de
+          Arquitetura e Urbanismo e Design. Os autores dos artigos devem ser
+          o(s) aluno(s), o(s) orientador(es) e co-orientador(es). A submissão de
+          artigos deve ser feita para o e-mail
+          <a href="mailto:politecnica.jc@pucgoias.edu.br"
+            >politecnica.jc@pucgoias.edu.br</a
+          >.
         </p>
       </v-flex>
     </v-layout>
