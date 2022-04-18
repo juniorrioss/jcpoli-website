@@ -1,6 +1,6 @@
 <template>
   <div class="navbar-h mx-auto">
-    <input type="checkbox" id="open-mmenu" :style="{display:'none'}" />
+    <input type="checkbox" id="open-mmenu" :style="{ display: 'none' }" />
     <div class="mobile menu-mobile">
       <div>
         <dir>
@@ -12,9 +12,9 @@
       <ul>
         <router-link to="/" tag="li">Home</router-link>
         <router-link to="/escola" tag="li">Escola</router-link>
-        <router-link to="/programacao" tag="li">Palestras</router-link>
+        <router-link to="/palestras" tag="li">Palestras</router-link>
         <router-link to="/minicursos" tag="li">Minicursos</router-link>
-        <router-link to="/palestras" tag="li">Exposições</router-link>
+        <router-link to="/exposicoes" tag="li">Exposições</router-link>
 
         <!--
         <router-link to="/jges" tag="li">JGES</router-link>
@@ -25,8 +25,9 @@
     </div>
 
     <div class="nav-info">
-      <img src="assets/img/lampada.png" alt />
-      <div>
+      <div id="logo-nav-bar">
+        <a href="/"><img src="assets/img/lampada.png" alt/></a>
+
         <span class="title">I JCPOLI</span>
         <br />
         <span>
@@ -35,16 +36,13 @@
       </div>
 
       <div class="nav-date">
-        <span class="desktop" :style="{textAlign: 'right'}">
+        <span class="desktop" :style="{ textAlign: 'right' }">
           De 9 a 11 de Maio
-          <br />PUC Goiás
-          <br />Goiânia-GO
+          <br />PUC Goiás <br />Goiânia-GO
         </span>
 
         <span class="mobile sm-device">
-          De 9 a 11 de Maio
-          PUC Goiás
-          Goiânia-GO
+          De 9 a 11 de Maio PUC Goiás Goiânia-GO
         </span>
       </div>
 
@@ -73,13 +71,17 @@
 </template>
 
 <script lang="ts">
-import { Component, Prop, Vue } from "vue-property-decorator";
+import { Component, Prop, Vue } from 'vue-property-decorator'
 
 @Component
 export default class NavBar extends Vue {}
 </script>
 
-<style scoped >
+<style scoped>
+#logo-nav-bar {
+  text-align: left;
+}
+
 .navbar-h {
   position: relative;
   padding: 20px 0;
@@ -136,7 +138,7 @@ export default class NavBar extends Vue {}
 .navbar-h .nav-container > ul li {
   position: relative;
   padding: 15px 45px;
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Montserrat', sans-serif;
   color: #576574;
   transition: all 50ms ease;
   height: 51px;
@@ -173,7 +175,7 @@ export default class NavBar extends Vue {}
     display: grid;
     grid-template-columns: auto 1fr auto;
     grid-template-rows: repeat(2, auto);
-    grid-template-areas: "lg t1 mn" "lg t2 mn";
+    grid-template-areas: 'lg t1 mn' 'lg t2 mn';
   }
   .navbar-h .nav-info label {
     margin: 0;
