@@ -4,7 +4,7 @@
       :title="title"
       :description="description"
       :image="background"
-      offset="calc((-100/523)*100vw + 67.304015296px)"
+      offset="calc((-150/500)*100vw + 67.304015296px)"
     ></PhotoHeader>
 
     <Main>
@@ -19,30 +19,28 @@
 </template>
 
 <script lang="ts">
-import { Component, Vue, Prop } from "vue-property-decorator";
-import PhotoHeader from "../components/organization/PhotoHeader.vue";
-import Main from "../components/organization/Main.vue";
-import MiniCourse from "../components/miniCourse/index.vue";
-import {Palestra_list} from "@/storage/programacao/palestras_new";
-
-
+import { Component, Vue, Prop } from 'vue-property-decorator'
+import PhotoHeader from '../components/organization/PhotoHeader.vue'
+import Main from '../components/organization/Main.vue'
+import MiniCourse from '../components/miniCourse/index.vue'
+import { Palestra_list } from '@/storage/programacao/palestras_new'
 
 @Component({
   components: {
     PhotoHeader,
     Main,
-    MiniCourse,
-  },
+    MiniCourse
+  }
 })
 export default class Palestras extends Vue {
-  private coursesList: any;
+  private coursesList: any
 
-  private title = "Palestras";
-  private description = "Palestras da jornada";
-  private background = "assets/img/slider/6.jpg";
+  private title = 'Palestras'
+  private description = 'Palestras da jornada'
+  private background = 'assets/img/slider/6.jpg'
 
   constructor() {
-    super();
+    super()
 
     this.coursesList = Palestra_list
   }
