@@ -3,20 +3,21 @@
     <div>
       <h2 class="mt-3">COMITÊ CIENTÍFICO</h2>
       <hr />
-      <div
-        class="text-center"
-        v-for="(organizador, index) in cientific"
-        :key="index"
-      >
-        <a
-          href="javascript:void(0);"
-          :class="{ 'no-dialog': !organizador.participantes }"
-          @click="showInfo(organizador)"
-          >{{ organizador.coordenador }}</a
+      <div class="comite-container">
+        <div
+          class="text-center"
+          v-for="(organizador, index) in cientific"
+          :key="index"
         >
-        <p class="text-center font-italic">{{ organizador.area }}</p>
+          <a
+            href="javascript:void(0);"
+            :class="{ 'no-dialog': !organizador.participantes }"
+            @click="showInfo(organizador)"
+            >{{ organizador.coordenador }}</a
+          >
+          <p class="text-center font-italic">{{ organizador.area }}</p>
+        </div>
       </div>
-
       <Comissao
         :organizacao="comite"
         :showDialog="showComissao"
@@ -27,18 +28,20 @@
     <div>
       <h2 class="mt-3">COMITÊ DE ORGANIZAÇÃO</h2>
       <hr />
-      <div
-        class="text-center"
-        v-for="(organizador, index) in organizacao"
-        :key="index"
-      >
-        <a
-          href="javascript:void(0);"
-          :class="{ 'no-dialog': !organizador.participantes }"
-          @click="showInfo(organizador)"
-          >{{ organizador.coordenador }}</a
+      <div class="comite-container">
+        <div
+          class="text-center"
+          v-for="(organizador, index) in organizacao"
+          :key="index"
         >
-        <p class="text-center font-italic">{{ organizador.area }}</p>
+          <a
+            href="javascript:void(0);"
+            :class="{ 'no-dialog': !organizador.participantes }"
+            @click="showInfo(organizador)"
+            >{{ organizador.coordenador }}</a
+          >
+          <p class="text-center font-italic">{{ organizador.area }}</p>
+        </div>
       </div>
 
       <Comissao
@@ -121,7 +124,21 @@ hr {
   background: linear-gradient(
     to right,
     #4286f4,
-    #373b44
+    /*#373b44*/ #4c4ca5
   ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.comite-container {
+  column-count: 2;
+}
+
+@media (max-width: 800px) {
+  .organization-container {
+    flex-direction: column;
+  }
+
+  .comite-container {
+    margin-bottom: 3rem;
+  }
 }
 </style>
