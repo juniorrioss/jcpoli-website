@@ -38,7 +38,7 @@ import { Palestras_Cursos } from '@/storage/programacao/palestras_new'
   }
 })
 export default class Palestras extends Vue {
-  private coursesList: any
+  private all_palestras: any
 
   private title = 'Palestras'
   private description = 'Palestras da jornada'
