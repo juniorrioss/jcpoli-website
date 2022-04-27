@@ -9,7 +9,7 @@
 
     <Main>
       <div class="courses-list">
-        <div v-for="(props, index) in todas_palestras" :key="index">
+        <div v-for="(props, index) in all_palestras" :key="index">
           <h3 class="section-course">{{ props.curso }}</h3>
           <div v-for="(course, index) in props.palestras" :key="index">
             <MiniCourse :course="course"></MiniCourse>
@@ -28,7 +28,7 @@ import Main from '../components/organization/Main.vue'
 import MiniCourse from '../components/miniCourse/index.vue'
 import SectionCourse from '../components/organization/SectionCourse.vue'
 
-import { todas_palestras } from '@/storage/programacao/palestras_new'
+import { Palestras_Cursos } from '@/storage/programacao/palestras_new'
 
 @Component({
   components: {
@@ -47,7 +47,7 @@ export default class Palestras extends Vue {
   constructor() {
     super()
 
-    this.todas_palestras = todas_palestras
+    this.all_palestras = Palestras_Cursos
   }
 }
 </script>
