@@ -1,4 +1,66 @@
-export const Courses_Computacao = [
+
+const Courses_Agronomia = [
+  {
+    title: "Mapeamento com uso de Drones (40 vagas)",
+    instructor: "Murilo Raphael Cardoso",
+    institution: "SEMAD (Goiás)",
+    desc: `Apenas 40 vagas`,
+    date: "11/05",
+    time: "14:00-16:45",
+    place: "Espaço de Palestras ITS (Campus II)"
+  }, 
+  
+]
+
+const Courses_Civil = [
+  {
+    title: "Inspeção em obras de infraestrutura: pontes, viadutos, barragens e usinas hidrelétricas",
+    instructor: "Profa. Rosana Lucas de Melo Brandão",
+    institution: "PUC Goiás",
+    desc: `XXXXXXX`,
+    date: "09/05",
+    time: "10:00-12:00",
+    place: "Auditório 3, área II"
+  }, 
+  {
+    title: "Criação de apresentações de trabalhos científicos",
+    instructor: "Profa Luri Sabina Cosme da Silva Matos",
+    institution: "PUC Goiás",
+    desc: `XXXXXXX`,
+    date: "09/05",
+    time: "15:00-16:30",
+    place: "Online: Microsoft Teams"
+  },  
+  {
+    title: "Smath Studio: aplicações em cálculos de Engenharia",
+    instructor: "Prof. Me. Antônio Manuel Corado Pombo Fernandes",
+    institution: "PUC Goiás",
+    desc: `Requisito: Realizar download e instalação prévia do Smath Studio pelo link https://en.smath.com/view/SMathStudio/summary `,
+    date: "10/05",
+    time: "14:00-18:00",
+    place: "Online: Microsoft Teams"
+  },
+  {
+    title: "Simulação de degradação e ensaios de desempenho como ferramentas para a inspeção predial",
+    instructor: "Prof. Me. Antônio Manuel Corado Pombo Fernandes",
+    institution: "PUC Goiás",
+    desc: `XXXXXXXXXXXXX`,
+    date: "11/05",
+    time: "10:00-12:00",
+    place: "Auditório 3, área II"
+  },
+  {
+    title: "Inspeção em protótipos",
+    instructor: "Prof. Me. Antônio Manuel Corado Pombo Fernandes",
+    institution: "PUC Goiás",
+    desc: `XXXXXXXXXXXXX`,
+    date: "11/05",
+    time: "15:00-16:00",
+    place: "Teatro de Arena, área III"
+  },
+]
+
+const Courses_Computacao = [
   {
     title: '"Na minha máquina funciona": Desenvolvendo em docker para nunca mais ter este problemas',
     instructor: "Luan Fernandes Barcelos",
@@ -24,7 +86,7 @@ export const Courses_Computacao = [
   },
 ]
 
-export const Courses_Producao = [
+const Courses_Producao = [
   {
     title: "OFICINA: Interpretação de Mapa Fluxo de Valor - uma abordagem prática",
     instructor: "Enga. de Produção Mariana do Prado e Silva",
@@ -36,7 +98,7 @@ export const Courses_Producao = [
   },
 ]
 
-export const Courses_Caer = [
+const Courses_Caer = [
   {
     title: "Planejamento de Voo",
     instructor: "Salmen Chaquip Bukzem",
@@ -55,4 +117,29 @@ export const Courses_Caer = [
     time: "13:30-17:00",
     place: "AUD.2, Área II",
   },
+]
+
+
+export const miniCourses_Section = [
+  {
+    curso: "Agronomia",
+    minicurso: Courses_Agronomia,
+  },
+  {
+    curso: "CAER",
+    minicurso: Courses_Caer
+  },
+  {
+    curso: "Civil",
+    minicurso: Courses_Civil
+  },
+  {
+    curso: "Computacao",
+    minicurso: Courses_Computacao
+  },
+  {
+    curso: "Producao",
+    minicurso: Courses_Producao
+  },
+
 ]
