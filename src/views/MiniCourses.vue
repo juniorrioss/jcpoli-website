@@ -23,7 +23,7 @@ import { Component, Vue, Prop } from "vue-property-decorator";
 import PhotoHeader from "../components/organization/PhotoHeader.vue";
 import Main from "../components/organization/Main.vue";
 import MiniCourse from "../components/miniCourse/index.vue";
-import Courses from "@/models/miniCourses";
+import { Courses_Computacao } from "@/models/miniCourses";
 
 @Component({
   components: {
@@ -42,7 +42,7 @@ export default class MiniCourses extends Vue {
   constructor() {
     super();
 
-    this.coursesList = Courses;
+    this.coursesList = Courses_Computacao;
   }
 }
 </script>
