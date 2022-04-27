@@ -154,4 +154,76 @@ const Courses = [
   }
 ];
 
-export default Courses;
+const Agronomia_couses = [
+  {
+    title: "Mapeamento com uso de Drones (40 vagas)",
+    instructor: "Murilo Raphael Cardoso",
+    institution: "SEMAD (Goiás)",
+    desc: `Apenas 40 vagas`,
+    date: "11/05",
+    time: "14:00-16:45",
+    place: "Espaço de Palestras ITS (Campus II)"
+  }, 
+  
+]
+
+const Civil_courses = [
+  {
+    title: "Inspeção em obras de infraestrutura: pontes, viadutos, barragens e usinas hidrelétricas",
+    instructor: "Profa. Rosana Lucas de Melo Brandão",
+    institution: "PUC Goiás",
+    desc: `XXXXXXX`,
+    date: "09/05",
+    time: "10:00-12:00",
+    place: "Auditório 3, área II"
+  }, 
+  {
+    title: "Criação de apresentações de trabalhos científicos",
+    instructor: "Profa Luri Sabina Cosme da Silva Matos",
+    institution: "PUC Goiás",
+    desc: `XXXXXXX`,
+    date: "09/05",
+    time: "15:00-16:30",
+    place: "Online: Microsoft Teams"
+  },  
+  {
+    title: "Smath Studio: aplicações em cálculos de Engenharia",
+    instructor: "Prof. Me. Antônio Manuel Corado Pombo Fernandes",
+    institution: "PUC Goiás",
+    desc: `Requisito: Realizar download e instalação prévia do Smath Studio pelo link https://en.smath.com/view/SMathStudio/summary `,
+    date: "10/05",
+    time: "14:00-18:00",
+    place: "Online: Microsoft Teams"
+  },
+  {
+    title: "Simulação de degradação e ensaios de desempenho como ferramentas para a inspeção predial",
+    instructor: "Prof. Me. Antônio Manuel Corado Pombo Fernandes",
+    institution: "PUC Goiás",
+    desc: `XXXXXXXXXXXXX`,
+    date: "11/05",
+    time: "10:00-12:00",
+    place: "Auditório 3, área II"
+  },
+  {
+    title: "Inspeção em protótipos",
+    instructor: "Prof. Me. Antônio Manuel Corado Pombo Fernandes",
+    institution: "PUC Goiás",
+    desc: `XXXXXXXXXXXXX`,
+    date: "11/05",
+    time: "15:00-16:00",
+    place: "Teatro de Arena, área III"
+  },
+]
+
+export const miniCourses_Section = [
+  {
+    curso: "Agronomia",
+    minicurso: Agronomia_couses,
+  },
+  {
+    curso: "Civil",
+    minicurso: Civil_courses
+  },
+
+]
+
