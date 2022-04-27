@@ -1,160 +1,5 @@
-const Courses = [
-  {
-    title: "Metodologias ageis um conceito cada vez mais em foco",
-    instructor: "Vinícius de Pádua Bertoldo Costa",
-    institution: "PUC Goiás",
-    desc: `Estatísticas alarmantes mostram que os projetos de TI chegam a custar 400% mais que o previsto,
-        realizando apenas 25% dos benefícios prometidos. Manifesto Ágil nos faz sempre lembrar, indivíduos e
-        interações são mais importantes que processos e ferramentas; responder a mudanças é mais importante que
-        documentação; colaboração com o cliente é mais importante que negociação de contratos; e que software
-        funcionando é mais importante que seguir um plano. Embora a modelagem seja uma técnica importante em
-        desenvolvimento de software inclusive em metodologias ágeis, frequentemente é subestimada ou mal
-        entendida. Na luta contra o desenvolvimento centrado em processos burocráticos e contra o desenvolvimento
-        baseado em ferramentas, a modelagem acabou sendo atacada também.`,
-    date: "12/11",
-    time: "14:00-18:00",
-    place: "LAB101-C, Área II"
-  },
-  {
-    title: "Fluig e ferramentas da plataforma",
-    instructor: "Felipe Olah Braz",
-    institution: "Totvs",
-    desc: `O Fluig é uma plataforma WEB com (app mobile) concebida pela TOTVS no ano 2013 com
-        finalidade de apoiar as empresas no mapeamento, gestão de processos, gestão de documentos e comunicação
-        entre colaboradores. Através dos recursos oferecidos viabiliza e proporciona as empresas a redução de
-        custos, otimização dos processos e melhor qualidade na segurança das informações. O objetivo deste
-        minicurso é realizar uma abordagem teórica e prática sobre a plataforma os recursos oferecidos e a aplicação
-        deles no mercado.`,
-    date: "12/11",
-    time: "14:00-18:00",
-    place: "LAB102-C, Área II"
-  },
-  {
-    title: "Introdução à ciência de dados",
-    instructor: "Anderson da Silva Soares",
-    institution: "Instituto de Informática – UFG",
-    desc: `Introdução abrangente sobre o que é Ciência de Dados e porque a profissão de Cientista de Dados
-        está em alta demanda em todo o mundo. Você vai aprender a relação entre Ciência de Dados e Big Data, os
-        principais conceitos ligados a Data Science e as profissões relacionadas.`,
-    date: "12/11",
-    time: "14:00-18:00",
-    place: "LAB103-C, Área II"
-  },
-  {
-    title: "Utilizando Python em Pentesting",
-    instructor: "Msc. Rafael Leal Martins",
-    institution: "PUC Goiás",
-    desc: `Python é uma linguagem de programação multiplataforma fácil de aprender que tem várias
-        bibliotecas de terceiros. Muitas ferramentas de hacking de código aberto são escritas em Python e podem ser
-        facilmente integradas no seu script. Este curso tem como objetivo apresentar scripts Python para apresentar
-        práticas de Ethical Hacking.`,
-    date: "12/11",
-    time: "14:00-18:00",
-    place: "LAB104-C, Área II"
-  },
-  {
-    title: "Micropython com ESP32",
-    instructor: "Msc. Daniel Corrêa da Silva",
-    institution: "PUC Goiás",
-    desc: `O MicroPython é uma implementação gratuita e de código aberto do Python 3 otimizada para
-    rodar em um microcontrolador com com baixos recursos computacionais, oferecendo um sistema
-    operacional Python de baixo nível com uma Interface de Linha de Comando (CLI). A proposta é instalar o
-    MicroPython sobre a plataforma ESP32 para que se possa programar a suas diversas interfaces eletrônicas:
-    entradas digitais / saídas digitais e analógicas (GPIO) e comunicação WiFi.`,
-    date: "12/11",
-    time: "14:00-18:00",
-    place: "LAB105-C, Área II"
-  },
-  {
-    title: "Introdução a visão computacional",
-    instructor: "Prof. Dr. Gustavo Teodoro Laureano",
-    institution: "Instituto de Informática – UFG",
-    desc: `Introdução à Visão Computacional. Percepção e Inteligência. Processos em Visão Computacional.
-    Relação 3D – 2D em aquisição. Imagem, Visão e modelagem de câmeras. Múltiplas Vistas. Características
-    Intrínsecas. Visão estéreo. Movimento e rastreamento de objetos. Reconhecimento de Objetos. Aplicações e
-    Efeitos Especiais.`,
-    date: "13/11",
-    time: "14:00-18:00",
-    place: "LAB101-C, Área II"
-  },
-  {
-    title: "Python para Ciência de Dados",
-    instructor: "Analista de Sistemas Cristiano Borges de Oliveira",
-    institution: "IBM Brasil",
-    desc: `Noções básicas do Python, seu primeiro programa, tipos de dados, expressões e variáveis,
-    operações de strings, estruturas de dados python, listas e tuplas, conjuntos, dicionários, fundamentos da
-    programação em python, condições e comandos condicionais em cascata, laços, funções, objetos e classes,
-    trabalhando com dados em python.`,
-    date: "13/11",
-    time: "14:00-18:00",
-    place: "LAB102-C, Área II"
-  },
-  {
-    title: "Introdução a FPGA",
-    instructor: "Msc. Gustavo Sigueira Vinhal",
-    institution: "PUC Goiás",
-    desc: `PGA (Field Programmable Gate Array) são dispositivos de hardware amplamente utilizados em
-    computação de alto desempenho. Também conhecidos como hardwares reconfiguráveis, esse tipo de
-    arquitetura oferece a possibilidade de construção de hardware a nível de programação. Assim, permitem a
-    criação de dispositivos dedicados para aplicações específicas para ganho de desempenho.
-    Este minicurso visa dar uma ampla visão sobre FPGA. Serão apresentados conceitos básicos da plataforma e
-    da linguagem de programação VHDL, necessária para programação do dispositivo.`,
-    date: "13/11",
-    time: "14:00-18:00",
-    place: "LAB103-C, Área II"
-  },
-  {
-    title: "Introdução à Internet das coisas",
-    instructor: "Msc. Ludmilla Reis Pinheiro dos Santos",
-    institution: "PUC Goiás",
-    desc: `Atualmente há diversos dispositivos conectados à Internet com capacidade de monitoramento,
-    processamento, atuação e comunicação entre si, com usuários e máquinas. Este minicurso apresentará uma
-    introdução à Internet das Coisas (IoT), algumas plataformas que possibilitam o controle de dispositivos reais
-    e os desafios na utilização dessa tecnologia. Será realizado uma implementação prática, empregando os
-    principais conceitos de IoT.`,
-    date: "14/11",
-    time: "14:00-18:00",
-    place: "LAB101-C, Área II"
-  },
-  {
-    title: "Conhecendo o Docker",
-    instructor: "Msc. Daniel Vitor de Lucena",
-    institution: "IFG",
-    desc: `Nesse minicurso vamos abordar os fundamentos do Docker. Apresentar os princípios, práticas,
-    comandos, ferramentas e como ele pode ser um meio para facilitar a entrega e melhorar a disponibilidade das
-    aplicações.`,
-    date: "14/11",
-    time: "14:00-18:00",
-    place: "LAB103-C, Área II"
-  },
-  {
-    title: "Introdução à inteligência artificial",
-    instructor: "Msc. Ricardo Augusto Pereira Franco",
-    institution:
-      "Escola de Engenharia Elétrica, Mecânica e de Computação (EMC) da Universidade Federal de Goiás (UFG)",
-    desc: `As redes neurais, também conhecidas como redes neurais artificiais, possuem a capacidade de
-    aprender uma tarefa a partir da experiência com ou sem um professor. Uma rede neural, composta por uma
-    certa quantidade de neurônios interligados, possui o objetivo de assemelhar seu funcionamento ao do cérebro
-    humano. As redes neurais possuem bases em muitas disciplinas: Neurociência, Matemática, Estatística,
-    Física, Ciência da Computação e Engenharia. Assim, nesse minicurso será apresentado assuntos introdutórios
-    em relação à inteligência artificial, ao aprendizado de máquina e às redes neurais.`,
-    date: "14/11",
-    time: "14:00-18:00",
-    place: "LAB104-C, Área II"
-  },
-  {
-    title: "Desmistificando recursos do Android",
-    instructor: "Adriano Souza, Alberto Felisberto, Arthur Guimarães, Felipe Manso, Giulliana Camozzi, Guilherme Thums, Lucas Marques, Moisés Vidal, Pedro Silva, Rodrigo Queiroz, Sade Escobar, Vítor Ferreira, Wanderson Silva, Welder Miranda, Zanderlan Neto",
-    institution:
-      "PUC Goiás",
-    desc: `Os alunos da turma CMP1552 irão demonstrar como é simples utilizar alguns recursos especiais do Android para dispositivos móveis como Notifications, Serviços em background, Face ID, Uso de Localização, GPS, Vídeo e Fotos, Mapas, Sensores de movimento e Wearbles. Nesta palestra os alunos irão demonstrar como conseguiram pesquisar e implementar estes recursos em aplicações reais para dispositivos móveis, além de apresentar demonstrações de apps criados por eles com o uso desses recursos temáticos.`,
-    date: "12/11",
-    time: "19:00-22:00",
-    place: "LAB101-C, Área II"
-  }
-];
 
-const Agronomia_couses = [
+const Courses_Agronomia = [
   {
     title: "Mapeamento com uso de Drones (40 vagas)",
     instructor: "Murilo Raphael Cardoso",
@@ -167,7 +12,7 @@ const Agronomia_couses = [
   
 ]
 
-const Civil_courses = [
+const Courses_Civil = [
   {
     title: "Inspeção em obras de infraestrutura: pontes, viadutos, barragens e usinas hidrelétricas",
     instructor: "Profa. Rosana Lucas de Melo Brandão",
@@ -215,15 +60,86 @@ const Civil_courses = [
   },
 ]
 
+const Courses_Computacao = [
+  {
+    title: '"Na minha máquina funciona": Desenvolvendo em docker para nunca mais ter este problemas',
+    instructor: "Luan Fernandes Barcelos",
+    institution: "Syncode Systemas",
+    desc: `Motivação de uso e introdução ao docker. Criando containers a partir de imagens oficiais. 
+        Criando suas próprias imágens. Comunicação de maquina local com docker e docker com docker. 
+        Encerramento com exemplo de uso real.`,
+    date: "09/05",
+    time: "17:00-18:30",
+    place: "LAB101-C, Área II",
+  },
+
+//======================= DIA 11/05 ==============================//
+
+  {
+    title: 'Atividade: Maratona de Programação',
+    instructor: "Prof Alexandre/Prof.ª Carmen",
+    institution: "PUC Goiás",
+    desc: ``,
+    date: "11/05",
+    time: "18:00-22:00",
+    place: "LAB-C, Área II",
+  },
+]
+
+const Courses_Producao = [
+  {
+    title: "OFICINA: Interpretação de Mapa Fluxo de Valor - uma abordagem prática",
+    instructor: "Enga. de Produção Mariana do Prado e Silva",
+    institution: "IFG - Senador Canedo",
+    desc: `Apresentação de UX, da empresa e de vagas.`,
+    date: "10/05",
+    time: "08:00-09:30",
+    place: "AUD.2, Área II",
+  },
+]
+
+const Courses_Caer = [
+  {
+    title: "Planejamento de Voo",
+    instructor: "Salmen Chaquip Bukzem",
+    institution: "PUC Goiás",
+    desc: ``,
+    date: "10/05",
+    time: "13:30-17:00",
+    place: "AUD.2, Área II",
+  },
+  {
+    title: "Estrutura do Espaço Aéreo Brasileiro",
+    instructor: "Salmen Chaquip Bukzem",
+    institution: "PUC Goiás",
+    desc: ``,
+    date: "11/05",
+    time: "13:30-17:00",
+    place: "AUD.2, Área II",
+  },
+]
+
+
 export const miniCourses_Section = [
   {
     curso: "Agronomia",
-    minicurso: Agronomia_couses,
+    minicurso: Courses_Agronomia,
+  },
+  {
+    curso: "CAER",
+    minicurso: Courses_Caer
   },
   {
     curso: "Civil",
-    minicurso: Civil_courses
+    minicurso: Courses_Civil
+  },
+  {
+    curso: "Computacao",
+    minicurso: Courses_Computacao
+  },
+  {
+    curso: "Producao",
+    minicurso: Courses_Producao
   },
 
 ]
-
