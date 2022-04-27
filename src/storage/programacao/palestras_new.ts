@@ -334,7 +334,12 @@ const Palestras_Civil = [
 
 ]
 
-export const todas_palestras = [
+export const Palestras_Cursos = [
+
+  {
+    curso: 'Agronomia',
+    palestras: Palestras_Agronomia,
+  },
   {
     curso: 'Ciências Aeronáuticas',
     palestras: Palestras_Caer,
@@ -344,23 +349,19 @@ export const todas_palestras = [
     palestras: Palestras_Computacao,
   },
   {
-    curso: 'Design',
-    palestras: Palestras_Design,
-  },
+    curso: 'Civil',
+    palestras: Palestras_Civil,
+  },   
   {
     curso: 'Engenharia de Produção',
     palestras: Palestras_Producao,
-  },
+  }, 
+  {
+    curso: 'Design',
+    palestras: Palestras_Design,
+  },  
   {
     curso: 'Mestrado',
     palestras: Palestras_Mestrado,
-  },
-  {
-    curso: 'Agronomia',
-    palestras: Palestras_Agronomia,
-  },
-  {
-    curso: 'Civil',
-    palestras: Palestras_Civil,
-  },
+  },  
 ]
