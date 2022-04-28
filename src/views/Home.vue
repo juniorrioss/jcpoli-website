@@ -65,10 +65,8 @@
           <v-layout class="subcall text-left">
             <v-flex>
               <p class="text-justify">
-                A I JCPOLI será realizada de 9 a 11 de Maio de 2022. Com tema
-                principal: Cultura, Inovação e Empreendedorismo. Com a
-                possibilidade de publicar artigos que substituirá a monografia
-                para a conclusão do TCC II JCECEC.
+                A I JCPOLI será realizada de 9 a 11 de Maio de 2022, com tema: 
+                Cultura, Inovação e Empreendedorismo.
               </p>
             </v-flex>
           </v-layout>

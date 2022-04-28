@@ -90,9 +90,9 @@
                     vetores em letras minúsculas e negrito (x), escalares em
                     letras minúsculas e itálico (x). A escrita de equações
                     deverão ser acompanhadas de um número sequencial ao longo do
-                    texto. A referência a equações no texto deve ser feita pela
+                    texto. A referência as equações no texto deve ser feita pela
                     palavra equação começando com letra maiúscula com o número
-                    da equação entre parênteses. Exemplo Equação (1), Equação
+                    da equação entre parênteses, Exemplo Equação (1), Equação
                     (2), etc.
                   </p>
                   <h6>Citação e Referências</h6>
@@ -248,38 +248,40 @@
                   </p>
                   <p>
                     2. Serão consideradas somente contribuições científicas
-                    inéditas, originais e enquadradas no escopo do Congresso,
+                    inéditas, originais e enquadradas no escopo da Jornada,
                     sendo vedado ao autor submeter trabalhos já divulgados e
                     pesquisas em fase de planejamento, tais como:
                   </p>
                   <ul class="my-2" id="aceitacao">
                     <li>
                       simples descrição de projeto, intenção de trabalho ou
-                      trabalho com resultados preliminares
+                      trabalho com resultados preliminares;
                     </li>
-                    <li>resumo de trabalho já publicado.</li>
-                    <li>resumo de revisão bibliográfica.</li>
+                    <li>resumo de trabalho já publicado;</li>
+                    <li>resumo de revisão bibliográfica;</li>
                     <li>
                       resumos baseados em um mesmo trabalho de investigação e
-                      fragmentados com resultados emdiferentes resumos, com ou
+                      fragmentados com resultados em diferentes resumos, com ou
                       sem primeiros autores diferentes.
                     </li>
                   </ul>
                   <p>
                     3. Pelo menos um dos autores deverá estar inscrito na
-                    JCECEC. Cada inscrito poderá apresentar até doistrabalhos.
+                    I JCPOLI. Cada inscrito poderá apresentar até dois trabalhos.
                   </p>
                   <p>
                     4. Cabe ao autor indicar o eixo temático do seu trabalho. Em
                     cada área existem duas opções para o autorenquadrar seu
                     trabalho: Estudante de Graduação ou Profissional. Os
-                    trabalhos serão avaliados e expostossegundo o enquadramento
-                    do autor
+                    trabalhos serão avaliados e expostos segundo o enquadramento
+                    do autor.
                   </p>
-                  4.1 Eixos Temáticos para submissão de Trabalhos
+                  4.1 Eixos Temáticos para submissão de Trabalhos 
                   <ul id="temas">
-                    <li>Química</li>
-                    <li>Ensino de Química</li>
+                  <!-- Mudar para o nome de todos os cursos, manter iniciaçao cientifica , engenharia de produçao e sistemas, mestrado . big data, inteligencia artificial
+                  -->
+                    <li>Engenharia de Produção e Sistemas</li>
+                    <li>Big Data</li>
                     <li>Física</li>
                     <li>Ensino de Física</li>
                     <li>Matemática</li>
@@ -309,7 +311,7 @@
                       ou pesquisadores de quaisquer níveis.
                     </li>
                     <li>
-                      rabalho desenvolvido no âmbito das bolsas do PIBIC, PIBID
+                      Trabalho desenvolvido no âmbito das bolsas do PIBIC, PIBID
                       ou PIBIT. Trabalhos oriundos dessas bolsas, o(s) autor(es)
                       deve(m) citar nas conclusões a Instituição/local do
                       Programa que está(ão) vinculado(s).
@@ -373,7 +375,7 @@
                   <p>
                     9. Observações quanto à submissão de resumos: O respeito aos
                     direitos autorais é de total responsabilidade dos autores do
-                    trabalho. Em caso de comprovado o plagio os autores
+                    trabalho. Em caso de comprovado o plágio os autores
                     responsáveis ficaram sujeitos a sanções impostas pela
                     Comissão de Organização. O trabalho deve ter rigorosa
                     revisão gramatical, ortográfica, de digitação, de conteúdo e
@@ -384,11 +386,11 @@
                   </p>
                   <p>
                     10. Somente serão aceitas as submissões de trabalhos quando
-                    houver pelo menos um autor devidamente inscrito na JCECEC.
+                    houver pelo menos um autor devidamente inscrito na JCPOLI.
                   </p>
                   <p>
-                    11. Trabalhos com nenhum dos autores inscritos na JCECEC
-                    serão descartados.
+                    11. Trabalhos com nenhum dos autores inscritos na JCPOLI
+                    serão desconsiderados.
                   </p>
                   <p>
                     12. Depois de enviado o trabalho via e-mail será impossível
@@ -396,7 +398,7 @@
                   </p>
                   <p>
                     13. Todos os trabalhos aceitos deverão ser apresentados na
-                    JCECEC por meio de pôsteres ou oral.
+                    JCPOLI por meio de pôsteres ou oral.
                   </p>
                 </v-card-text>
               </v-card>
@@ -445,13 +447,11 @@
                 <v-card-text class="grey lighten-3">
                   <p>
                     1. A Comissão Científica selecionará e convidará os
-                    trabalhos que deveram ser apresentarem via oral os demais
-                    serão apresentados na forma de pôster.
+                    trabalhos que deveram ser apresentarem via oral.
                   </p>
                   <p>
                     2. O resultado desta seleção será publicado e informado aos
-                    selecionado (via e-mail) uma semana depois do prazo final
-                    para o envio do aceite dos trabalhos.
+                    selecionados (via e-mail).
                   </p>
                   <p>
                     3. A apresentação dos trabalhos orais deverá ocorrer em
@@ -474,14 +474,14 @@
                     1. Todos os Certificados de apresentação de trabalhos são
                     disponibilizados no site da PUC após a realização do evento.
                   </p>
-                  <p>
+                  <!--<p>
                     2. O responsável da seção de pôsteres fará a verificação da
                     presença do pôster e de pelo menos um dos autores, que terá
                     que assinar a lista de presença. Sem a assinatura do autor o
                     certificado do trabalho não é liberado.
-                  </p>
+                  </p>-->
                   <p>
-                    3. Os Certificados estarão disponíveis para impressão no
+                    2. Os Certificados estarão disponíveis para impressão no
                     site da PUC pelo período de 60 (sessenta) dias após o
                     evento. Depois desse prazo não mais será possível obter o
                     certificado.
@@ -490,50 +490,7 @@
               </v-card>
             </v-expansion-panel-content>
 
-            <v-expansion-panel-content>
-              <template v-slot:header>
-                <div class="d-flex">
-                  <div class="titles">
-                    <v-icon class="mr-2">fas fa-award</v-icon>Premiações
-                  </div>
-                </div>
-              </template>
-              <v-card>
-                <v-card-text class="grey lighten-3">
-                  <p>
-                    1. A ECEC oferece aos apresentadores de trabalhos 3
-                    modalidades de prêmios.
-                  </p>
-                  <ul class="my-2" id="aceitacao">
-                    <li>Prêmio Cientista ECEC Euler</li>
-                    <li>Prêmio Cientista ECEC Gauss</li>
-                    <li>Prêmio ECEC Marie Curie</li>
-                  </ul>
-                  <p>
-                    2. Os trabalhos cujos autores estejam ausentes na data da
-                    apresentação são excluídos do processo de premiação da
-                    JCECEC.
-                  </p>
-                  <p>
-                    3. A JCECEC confere o Prêmio Cientista ECEC Euler ao melhor
-                    trabalho apresentado na forma oral.
-                  </p>
-                  <p>
-                    4. A JCECEC confere o Prêmio Cientista ECEC Gauss ao melhor
-                    trabalho apresentado na forma de pôster.
-                  </p>
-                  <p>
-                    5. A JCECEC confere o prêmio ECEC Marie Curie ao melhor
-                    trabalho inscritos na categoria Iniciação Científica.
-                  </p>
-                  <p>
-                    6. Todos os trabalhos premiados serão convidados a publicar
-                    um artigo completo na Revista da Escola de Ciências Exatas e
-                    da Computação – RECEC.
-                  </p>
-                </v-card-text>
-              </v-card>
-            </v-expansion-panel-content>
+            
           </v-expansion-panel>
         </div>
         <div class="col-md-5">

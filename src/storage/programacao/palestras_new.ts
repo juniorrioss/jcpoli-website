@@ -6,7 +6,7 @@ export const Palestras_Computacao = [
     desc: `Apresentação de UX, da empresa e de vagas.`,
     date: "09/05",
     time: "08:00-09:30",
-    place: "Online", //CONFIRMAR A PLATAFORMA
+    place: "Online: YouTube", //CONFIRMAR A PLATAFORMA
   },
   {
     title: "",
@@ -15,7 +15,7 @@ export const Palestras_Computacao = [
     desc: ``,
     date: "09/05",
     time: "19:00-20:30",
-    place: "AUD.1, Área II",
+    place: "Presencial: Auditório 1, Área II",
   },
   {
     title:
@@ -27,7 +27,7 @@ export const Palestras_Computacao = [
         de metrô de uma grande capital brasileira e quais seriam as consequências disso caso tivesse sido feito por um hacker malicioso.`,
     date: "09/05",
     time: "20:30-22:00",
-    place: "AUD.1, Área II",
+    place: "Auditório 1, Área II",
   },
 
   //======================= DIA 10/05 ==============================//
@@ -52,7 +52,7 @@ export const Palestras_Computacao = [
         ferramentas que as modelagens estratégica e tática oferecem para conceber softwares mais manuteníveis e com mais bem escritos. `,
     date: "10/05",
     time: "20:30-22:00",
-    place: "AUD.2, Área II",
+    place: "Auditório 2, Área II",
   },
   {
     title: "O que é o DevOps?",
@@ -73,7 +73,7 @@ export const Palestras_Computacao = [
     desc: ``,
     date: "11/05",
     time: "19:00-20:30",
-    place: "AUD.2, Área II",
+    place: "Auditório 2, Área II",
   },
 ]
 
@@ -82,10 +82,10 @@ export const Palestras_Producao = [
     title: "Avaliação de Máquinas conforme NBR 14.653-5",
     instructor: "Ricardo Vitoy",
     institution: "PUC Goiás",
-    desc: `Apresentação de UX, da empresa e de vagas.`,
+    desc: ``,
     date: "09/05",
     time: "08:00-09:30",
-    place: "AUD.2, Área II",
+    place: "Auditório 2, Área II",
   },
 
   //======================= DIA 10/05 ==============================//
@@ -94,10 +94,10 @@ export const Palestras_Producao = [
     title: "Mesa redonda: Desafios de Empreender na Engenharia",
     instructor: "Eng. Eduardo Bessa",
     institution: "Donuts à Bessa",
-    desc: `Apresentação de UX, da empresa e de vagas.`,
+    desc: ``,
     date: "10/05",
     time: "10:00-11:30",
-    place: "AUD.2, Área II",
+    place: "Auditório 2, Área II",
   },
 
   //======================= DIA 11/05 ==============================//
@@ -106,10 +106,10 @@ export const Palestras_Producao = [
     title: "Teoria das restrições: desde a Meta até a Correte Crítica",
     instructor: "Vitor Hugo Martins e Resende",
     institution: "PUC Goiás",
-    desc: `Apresentação de UX, da empresa e de vagas.`,
+    desc: ``,
     date: "11/05",
     time: "8:00-9:30",
-    place: "AUD.3, Área II",
+    place: "Auditório 3, Área II",
   },
 ]
 
@@ -189,7 +189,7 @@ export const Palestras_Mestrado = [
          de órgãos e tecidos para transplantes.`,
     date: "09/05",
     time: "10:00-12:00",
-    place: "AUD.2, Área II",
+    place: "Auditório 2, Área II",
   },
   {
     title: "Impactante - A responsabilidade da Impressão 3D na humanidade",
@@ -217,7 +217,7 @@ export const todas_palestras = [
     palestras: Palestras_Caer,
   },
   {
-    curso: 'Ciências da Computação',
+    curso: 'Ciência da Computação',
     palestras: Palestras_Computacao,
   },
   {

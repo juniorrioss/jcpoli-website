@@ -23,7 +23,7 @@
     <Organization />
     <Main>
       <Paragraph title="palestrantes">
-        <Speakers :speakers="speakers" :paginate="2" />
+        <Speakers :speakers="speakers" :paginate="1" />
       </Paragraph>
 
       <!--<Supporters /> -->
