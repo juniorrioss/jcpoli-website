@@ -30,9 +30,7 @@
                 <h5>ONDE</h5>
               </div>
               <div>
-                <v-flex class="onde"
-                  >Escola de Ciências Exatas e da Computação</v-flex
-                >
+                <v-flex class="onde">Escola Politécnica</v-flex>
                 <v-flex class="onde"
                   >Pontifícia Universidade Católica de Goiás</v-flex
                 >
@@ -65,10 +63,9 @@
           <v-layout class="subcall text-left">
             <v-flex>
               <p class="text-justify">
-                A I JCPOLI será realizada de 9 a 11 de Maio de 2022. Com tema
-                principal: Cultura, Inovação e Empreendedorismo. Com a
-                possibilidade de publicar artigos que substituirá a monografia
-                para a conclusão do TCC II JCECEC.
+                A I JCPOLI será realizada de 9 a 11 de Maio de 2022, com tema
+                principal: Cultura, Inovação e Empreendedorismo. Havendo a
+                possibilidade de publicar artigos que substituirá a monografia.
               </p>
             </v-flex>
           </v-layout>
