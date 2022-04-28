@@ -3,12 +3,178 @@
     <PhotoHeader
       title="Escola"
       image="/assets/img/puc_sub.jpeg"
-      description="Histórico da Escola Politécnica"
+      description="Informações da Escola"
     ></PhotoHeader>
 
     <Main>
-      <Paragraph title="Histórico">
-        Histórico do evento descrito aqui
+      <Paragraph title="Cursos">
+        A Escola Politécnica da Pontifícia Universidade Católica de Goiás (PUC
+        Goiás) foi criada em agosto de 2021 com a junção de três escolas: Escola
+        de Artes e Arquitetura, Escola de Ciências Exatas e da Computação e
+        Escola de Engenharia. Atualmente são oferecidos 18 cursos de graduação,
+        sendo 12 presenciais, 4 semipresenciais e 2 ensino à distância
+        <ul class="list-cursos">
+          <h5>Presenciais</h5>
+          <li>
+            <a
+              href="https://www.pucgoias.edu.br/cursos/graduacao/agronomia/"
+              target="_blank"
+              >Agronomia</a
+            >
+          </li>
+          <li>
+            <a
+              href="https://www.pucgoias.edu.br/cursos/graduacao/analise-e-desenvolvimento-de-sistemas/"
+              target="_blank"
+            >
+              Análise e Desenvolvimento de Sistemas
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://www.pucgoias.edu.br/cursos/graduacao/arquitetura-e-urbanismo/"
+              target="_blank"
+            >
+              Arquitetura e Urbanismo
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://www.pucgoias.edu.br/cursos/graduacao/ciencias-aeronauticas/"
+              target="_blank"
+            >
+              Ciências Aeronáuticas
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://www.pucgoias.edu.br/cursos/graduacao/ciencia-da-computacao/"
+              target="_blank"
+            >
+              Ciência da Computação
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://www.pucgoias.edu.br/cursos/graduacao/design/"
+              target="_blank"
+            >
+              Design
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://www.pucgoias.edu.br/cursos/graduacao/engenharia-de-alimentos/"
+              target="_blank"
+            >
+              Engenharia de Alimentos
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://www.pucgoias.edu.br/cursos/graduacao/engenharia-civil/"
+              target="_blank"
+            >
+              Engenharia Civil
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://www.pucgoias.edu.br/cursos/graduacao/engenharia-de-controle-e-automacao/"
+              target="_blank"
+            >
+              Engenharia de Controle e Automação
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://www.pucgoias.edu.br/cursos/graduacao/engenharia-de-computacao/"
+              target="_blank"
+            >
+              Engenharia de Computação
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://www.pucgoias.edu.br/cursos/graduacao/engenharia-eletrica/"
+              target="_blank"
+            >
+              Engenharia Elétrica
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://www.pucgoias.edu.br/cursos/graduacao/engenharia-de-producao/"
+              target="_blank"
+            >
+              Engenharia de Produção
+            </a>
+          </li>
+
+          <h5>SemiPresenciais</h5>
+          <li>
+            <a
+              href="https://ead.pucgoias.edu.br/cursos-graduacao/engenharia-civil-ead"
+              target="_blank"
+            >
+              Engenharia Civil
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://ead.pucgoias.edu.br/cursos-graduacao/engenharia-de-controle-e-automacao-ead"
+              target="_blank"
+            >
+              Engenharia de Controle e Automação
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://ead.pucgoias.edu.br/cursos-graduacao/engenharia-mecanica-ead"
+              target="_blank"
+            >
+              Engenharia Mecânica
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://ead.pucgoias.edu.br/cursos-graduacao/engenharia-de-producao-ead"
+              target="_blank"
+            >
+              Engenharia de Produção
+            </a>
+          </li>
+
+          <h5>Ensino à Distância</h5>
+          <li>
+            <a
+              href="https://ead.pucgoias.edu.br/cursos-graduacao/analise-e-desenvolvimento-de-sistemas-ead"
+              target="_blank"
+            >
+              Análise e Desenvolvimento de Sistemas
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://www.pucgoias.edu.br/cursos/graduacao/big-data-e-inteligencia-artificial-ead/"
+              target="_blank"
+            >
+              Big Data e Inteligência Artificial
+            </a>
+          </li>
+        </ul>
+
+        Além de oferecer os seus próprios cursos, a Escola Politécnica também é
+        responsável pela área de Física, Matemática e Química com a criação do
+        Núcleo de Pesquisa, Ensino e Extensão de Ciências Exatas. A Escola
+        Politécnica oferece o programa de pós-graduação intitulado Mestrado de
+        Engenharia de Produção e Sistemas (MEPROS), criado em 2009. Atualmente
+        oferece vários cursos de especializações e extensão.
+        <br />
+        Um dos principais objetivos da Escola é a qualificação da pesquisa e a
+        Jornada Científica tem por objetivo oportunizar e estimular os
+        discentes, egressos, docentes de graduação e pós-graduação a
+        participarem da produção e divulgação do conhecimento científico.
       </Paragraph>
 
       <Paragraph title="Tema da I JCPOLI">
@@ -23,7 +189,7 @@
     <Organization />
     <Main>
       <Paragraph title="palestrantes">
-        <Speakers :speakers="speakers" :paginate="2" />
+        <Speakers :speakers="speakers" :paginate="1" />
       </Paragraph>
 
       <!--<Supporters /> -->
@@ -176,4 +342,20 @@ export default class Escola extends Vue {
 }
 </script>
 
-<style scoped></style>
+<style scoped>
+.list-cursos {
+  background-color: whitesmoke;
+  column-count: 2;
+  padding: 0.5rem;
+}
+
+.list-cursos h5 {
+  margin: 2rem 0;
+  color: black;
+}
+
+.list-cursos a {
+  font-weight: bold;
+  font-size: 1.1rem;
+}
+</style>
