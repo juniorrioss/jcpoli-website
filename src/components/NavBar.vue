@@ -26,7 +26,7 @@
 
     <div class="nav-info">
       <div id="logo-nav-bar">
-        <a href="/"><img src="assets/img/lampada.png" alt/></a>
+        <a href="/"><img id="logo" src="assets/img/logo.png" alt/></a>
 
         <span class="title">I JCPOLI</span>
         <br />
@@ -37,12 +37,12 @@
 
       <div class="nav-date">
         <span class="desktop" :style="{ textAlign: 'right' }">
-          De 9 a 11 de Maio
+          De 9 a 11 de Maio/2022
           <br />PUC Goiás <br />Goiânia-GO
         </span>
 
         <span class="mobile sm-device">
-          De 9 a 11 de Maio PUC Goiás Goiânia-GO
+          De 9 a 11 de Maio/2022 PUC Goiás Goiânia-GO
         </span>
       </div>
 
@@ -78,6 +78,10 @@ export default class NavBar extends Vue {}
 </script>
 
 <style scoped>
+#logo {
+  height: 5rem;
+}
+
 #logo-nav-bar {
   text-align: left;
 }
