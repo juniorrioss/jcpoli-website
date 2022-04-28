@@ -1,7 +1,7 @@
 
 const Courses_Agronomia = [
   {
-    title: "Mapeamento com uso de Drones (40 vagas)",
+    title: "Mapeamento com uso de Drones",
     instructor: "Murilo Raphael Cardoso",
     institution: "SEMAD (Goiás)",
     desc: `Apenas 40 vagas`,
@@ -126,7 +126,7 @@ export const miniCourses_Section = [
     minicurso: Courses_Agronomia,
   },
   {
-    curso: "CAER",
+    curso: 'Ciências Aeronáuticas',
     minicurso: Courses_Caer
   },
   {
