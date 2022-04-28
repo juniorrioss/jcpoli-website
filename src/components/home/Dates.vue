@@ -64,11 +64,6 @@ export default class Dates extends Vue {
       disabled: false
     },
     {
-      date: 'até 9 de maio',
-      event: 'Prazo para envio do pôster para publicação',
-      disabled: false
-    },
-    {
       date: '11 de Maio',
       event: 'Apresentação do artigos na I Jornada',
       disabled: false
