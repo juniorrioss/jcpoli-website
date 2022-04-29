@@ -119,12 +119,12 @@ hr {
   background: -webkit-linear-gradient(
     to right,
     #4286f4,
-    #373b44
+    #3077f0
   ); /* Chrome 10-25, Safari 5.1-6 */
   background: linear-gradient(
     to right,
     #4286f4,
-    /*#373b44*/ #4c4ca5
+    /*#373b44*/ #3077f0
   ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
@@ -134,7 +134,11 @@ hr {
 
 @media (max-width: 800px) {
   .organization-container {
+    font-size: 0.9rem;
     flex-direction: column;
+  }
+  .organization-container h2 {
+    font-size: 1.5rem;
   }
 
   .comite-container {

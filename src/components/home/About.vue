@@ -10,8 +10,7 @@
           Escola Politécnica (JCPOLI) da Pontifícia Universidade Católica de
           Goiás (PUC Goiás) realizada de 9 a 11 de Maio de 2022. A I JCPOLI terá
           como tema Cultura, Inovação e Empreendedorismo, oferecendo palestras,
-          minucursos e exposições. Os melhores trabalhos da I JCPOLI serão
-          convidados para publicação na revista da Escola Politécnica.
+          minucursos e exposições.
         </p>
       </v-flex>
       <v-flex xs12 class="text-xs-left" mt-5>
@@ -21,12 +20,12 @@
         <p>
           Nesta edição da Jornada serão aceitos artigos de alunos de Trabalho de
           Conclusão de Curso – TCC II. Os artigos aceitos e publicados nos anais
-          da I Jornada Científica da Escola Politécnica (I Jornada) podem
-          substituir a monografia/dissertação para a conclusão do TCC II para os
-          alunos da Escola Politécnica da PUC Goiás, excetuando os cursos de
-          Arquitetura e Urbanismo e Design. Os autores dos artigos devem ser
-          o(s) aluno(s), o(s) orientador(es) e co-orientador(es). A submissão de
-          artigos deve ser feita para o e-mail
+          da I Jornada Científica da Escola Politécnica podem substituir a
+          escrita da monografia para a conclusão do TCC II para os alunos da
+          Escola Politécnica da PUC Goiás, exceto os cursos de Arquitetura e
+          Urbanismo e Design, dada a especificidade do caráter projetual destes.
+          Os autores dos artigos devem ser o(s) aluno(s), o(s) orientador(es) e
+          co-orientador(es). A submissão de artigos deve ser feita para o e-mail
           <a href="mailto:politecnica.jc@pucgoias.edu.br"
             >politecnica.jc@pucgoias.edu.br</a
           >.

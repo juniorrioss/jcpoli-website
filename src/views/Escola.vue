@@ -3,27 +3,191 @@
     <PhotoHeader
       title="Escola"
       image="/assets/img/puc_sub.jpeg"
-      description="Histórico da Escola Politécnica"
+      description="Informações da Escola"
     ></PhotoHeader>
 
     <Main>
-      <Paragraph title="Histórico">
-        Histórico do evento descrito aqui
-      </Paragraph>
+      <Paragraph title="Cursos">
+        A Escola Politécnica da Pontifícia Universidade Católica de Goiás (PUC
+        Goiás) foi criada em agosto de 2021 com a junção de três escolas: Escola
+        de Artes e Arquitetura, Escola de Ciências Exatas e da Computação e
+        Escola de Engenharia. Atualmente são oferecidos 18 cursos de graduação,
+        sendo 12 presenciais, 4 semipresenciais e 2 ensino à distância
 
-      <Paragraph title="Tema da I JCPOLI">
-        A IV JCECEC e I Jornada Científica Regional (JCR) será realizada de 9 a
-        11 de Maio de 2022. A I JCPOLI será a
-        XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. Nessa edição conta-se
-        com a participação do XXXXXXXXXXXXXXXXXXXXXX.
-        XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+        <div class="list-container">
+          <ul class="list-cursos">
+            <h5>Presenciais</h5>
+            <a
+              href="https://www.pucgoias.edu.br/cursos/graduacao/agronomia/"
+              target="_blank"
+            >
+              >
+              <li>
+                Agronomia
+              </li>
+            </a>
+            <a
+              href="https://www.pucgoias.edu.br/cursos/graduacao/analise-e-desenvolvimento-de-sistemas/"
+              target="_blank"
+            >
+              <li>
+                Análise e Desenvolvimento de Sistemas
+              </li>
+            </a>
+            <a
+              href="https://www.pucgoias.edu.br/cursos/graduacao/arquitetura-e-urbanismo/"
+              target="_blank"
+            >
+              <li>
+                Arquitetura e Urbanismo
+              </li>
+            </a>
+            <a
+              href="https://www.pucgoias.edu.br/cursos/graduacao/ciencias-aeronauticas/"
+              target="_blank"
+            >
+              <li>
+                Ciências Aeronáuticas
+              </li>
+            </a>
+            <a
+              href="https://www.pucgoias.edu.br/cursos/graduacao/ciencia-da-computacao/"
+              target="_blank"
+            >
+              <li>
+                Ciência da Computação
+              </li>
+            </a>
+            <a
+              href="https://www.pucgoias.edu.br/cursos/graduacao/design/"
+              target="_blank"
+            >
+              <li>
+                Design
+              </li>
+            </a>
+            <a
+              href="https://www.pucgoias.edu.br/cursos/graduacao/engenharia-de-alimentos/"
+              target="_blank"
+            >
+              <li>
+                Engenharia de Alimentos
+              </li>
+            </a>
+            <a
+              href="https://www.pucgoias.edu.br/cursos/graduacao/engenharia-civil/"
+              target="_blank"
+            >
+              <li>
+                Engenharia Civil
+              </li>
+            </a>
+            <a
+              href="https://www.pucgoias.edu.br/cursos/graduacao/engenharia-de-controle-e-automacao/"
+              target="_blank"
+            >
+              <li>
+                Engenharia de Controle e Automação
+              </li>
+            </a>
+            <a
+              href="https://www.pucgoias.edu.br/cursos/graduacao/engenharia-de-computacao/"
+              target="_blank"
+            >
+              <li>
+                Engenharia de Computação
+              </li>
+            </a>
+            <a
+              href="https://www.pucgoias.edu.br/cursos/graduacao/engenharia-eletrica/"
+              target="_blank"
+            >
+              <li>
+                Engenharia Elétrica
+              </li>
+            </a>
+            <a
+              href="https://www.pucgoias.edu.br/cursos/graduacao/engenharia-de-producao/"
+              target="_blank"
+            >
+              <li>
+                Engenharia de Produção
+              </li>
+            </a>
+          </ul>
+          <ul class="list-cursos">
+            <h5>SemiPresenciais</h5>
+            <a
+              href="https://ead.pucgoias.edu.br/cursos-graduacao/engenharia-civil-ead"
+              target="_blank"
+            >
+              <li>
+                Engenharia Civil
+              </li>
+            </a>
+            <a
+              href="https://ead.pucgoias.edu.br/cursos-graduacao/engenharia-de-controle-e-automacao-ead"
+              target="_blank"
+            >
+              <li>
+                Engenharia de Controle e Automação
+              </li>
+            </a>
+            <a
+              href="https://ead.pucgoias.edu.br/cursos-graduacao/engenharia-mecanica-ead"
+              target="_blank"
+            >
+              <li>
+                Engenharia Mecânica
+              </li>
+            </a>
+            <a
+              href="https://ead.pucgoias.edu.br/cursos-graduacao/engenharia-de-producao-ead"
+              target="_blank"
+            >
+              <li>
+                Engenharia de Produção
+              </li>
+            </a>
+          </ul>
+          <ul class="list-cursos">
+            <h5>Ensino à Distância</h5>
+            <a
+              href="https://ead.pucgoias.edu.br/cursos-graduacao/analise-e-desenvolvimento-de-sistemas-ead"
+              target="_blank"
+            >
+              <li>
+                Análise e Desenvolvimento de Sistemas
+              </li>
+            </a>
+            <a
+              href="https://www.pucgoias.edu.br/cursos/graduacao/big-data-e-inteligencia-artificial-ead/"
+              target="_blank"
+            >
+              <li>
+                Big Data e Inteligência Artificial
+              </li>
+            </a>
+          </ul>
+        </div>
+        Além de oferecer os seus próprios cursos, a Escola Politécnica também é
+        responsável pela área de Física, Matemática e Química com a criação do
+        Núcleo de Pesquisa, Ensino e Extensão de Ciências Exatas. A Escola
+        Politécnica oferece o programa de pós-graduação intitulado Mestrado de
+        Engenharia de Produção e Sistemas (MEPROS), criado em 2009. Atualmente
+        oferece vários cursos de especializações e extensão.
+        <br />
+        Um dos principais objetivos da Escola é a qualificação da pesquisa e a
+        Jornada Científica tem por objetivo oportunizar e estimular os
+        discentes, egressos, docentes de graduação e pós-graduação a
+        participarem da produção e divulgação do conhecimento científico.
       </Paragraph>
     </Main>
 
     <Organization />
     <Main>
       <Paragraph title="palestrantes">
-        <Speakers :speakers="speakers" :paginate="2" />
+        <Speakers :speakers="speakers" :paginate="1" />
       </Paragraph>
 
       <!--<Supporters /> -->
@@ -170,10 +334,176 @@ export default class Escola extends Vue {
           time: '10:00 - 12:00',
           place: 'Auditório 2, área II'
         }
+      },
+
+      {
+        name: 'Filipe Fraga',
+        institution: 'SENAI Ítalo Bologna',
+        speaking:
+          'O mercado de automação industrial e como conseguir oportunidades',
+        description: `Mestre em Sistemas Mecatrônicos pela Universidade de Brasília (UnB), Graduação em Engenharia de Controle e Automação pela Pontifícia Universidade Católica de Goiás (PUC-GO). Atualmente como Coordenador de Pesquisa (Núcleo de Estudo, Pesquisa e Extensão - NEPE) e Docente de Nível Superior pela Faculdade SENAI Ítalo Bologna. Pesquisador no ramo de robótica, visão computacional, automação e IA. Experiência em Industria nos setores de Manutenção/Utilidades e projetos industriais voltados para automação.   
+`,
+        subjectResume: `
+
+`,
+        img: '/assets/img/speakers/Filipe_Fraga.jpg',
+        customSize: '100%',
+        datentime: {
+          date: '10/05',
+          time: '09:00 - 10:00',
+          place: 'YouTube'
+        }
+      },
+
+      {
+        name: 'Maycon Silva',
+        institution: 'Head of Innovation Lab',
+        speaking: '',
+        description: `Maycon Silva é responsável pelo Innovation Lab e está focado em acompanhar as últimas tendências tecnológicas e promove a transferência de conhecimento para as equipes, parceiros e colaboradores de nossos clientes. Maycon tem e seu portifólio serviços de planejamento e criação de centros tecnológicos de excelência (CoEs), renovações tecnológicas, análise e definição de arquitetura, desenvolvimento de aplicativos, entre outros.   
+`,
+        subjectResume: `
+
+`,
+        img: '',
+        customSize: '100%',
+        datentime: {
+          date: '10/05',
+          time: '19:00 - 20:30',
+          place: 'Auditório 2, Área II'
+        }
+      },
+
+      {
+        name: 'Ávinner Prado',
+        institution: 'NATO Arquitetura',
+        speaking:
+          'A importância da interdisciplinaridade nos projetos e nos negócios',
+        description: `Ávinner Prado, arquiteto e urbanista pela UFG - Universidade Federal de Goiás, empreendedor desde quando se entende por gente, empresário com empresas na área de arquitetura, design, engenharia e tecnologia. Sócio-Diretor na NATO, com foco no desenvolvimento de processos e novos negócios. 
+`,
+        subjectResume: `A importância da interdisciplinaridade nos projetos e nos negócios. 
+
+    Mais do que desenvolver projetos, solucionamos problemas, criamos oportunidades de negócios e impactamos a vida das pessoas. Quando temos um time com diferentes habilidades, trabalhando juntos em prol de um objetivo em comum, criamos mais possibilidades e diferenciais estratégicos.
+`,
+        img: '',
+        customSize: '100%',
+        datentime: {
+          date: '10/05',
+          time: '19:00 - 20:30',
+          place: 'Microsoft Teams'
+        }
+      },
+
+      {
+        name: 'Paulo Gustavo Perini',
+        institution: 'NATO Arquitetura',
+        speaking:
+          'A importância da interdisciplinaridade nos projetos e nos negócios',
+        description: `Paulo Gustavo Perini, arquiteto e urbanista pela UFG - Universidade Federal de Goiás, criativo e solucionador desde criança, empresário com empresas na área de arquitetura, design, engenharia e tecnologia. Sócio-Diretor na NATO, com foco na criação de atmosferas. 
+`,
+        subjectResume: `A importância da interdisciplinaridade nos projetos e nos negócios. 
+
+    Mais do que desenvolver projetos, solucionamos problemas, criamos oportunidades de negócios e impactamos a vida das pessoas. Quando temos um time com diferentes habilidades, trabalhando juntos em prol de um objetivo em comum, criamos mais possibilidades e diferenciais estratégicos.
+`,
+        img: '',
+        customSize: '100%',
+        datentime: {
+          date: '10/05',
+          time: '19:00 - 20:30',
+          place: 'Microsoft Teams'
+        }
+      },
+
+      {
+        name: 'Vitor Paulo David da Silva Filho',
+        institution: 'Hand Talk',
+        speaking: 'O que são e o que fazem os Ux/Ui Designers',
+        description: `Ux Designer focado em acessibilidade, Bacharelado em Design e MBA em Mídia Sociais. Designer carioca com muita determinação em aprender e crescer. Busco no Ux a oportunidade de impactar de forma positiva a vida das pessoas. Atualmente foco em Acessibilidade para realmente poder focar nas pessoas e criar produtos inclusivos.
+`,
+        subjectResume: `Nesta palestra iremos conversar um pouco sobre a área de atuação do Ux/Ui Design. Como é o dia a dia desses profissionais e o que é necessário para se tornar um Ux/Ui Designer. 
+`,
+        img: '',
+        customSize: '100%',
+        datentime: {
+          date: '10/05',
+          time: '20:30 - 22:00',
+          place: 'YouTube'
+        }
+      },
+      {
+        name: 'Alexandre Pontes de Queiroz',
+        institution: 'Invillia/Pagseguro',
+        speaking: 'O que são e o que fazem os Ux/Ui Designers',
+        description: `Sou desenvolvedor back-end, com 2 anos de experiência em desenvolvimento web. Trabalho em algumas aplicações com grande tráfego (da ordem de milhões de visitas diárias). Possuo sólidos conhecimentos em programação orientada a objetos, containers (Docker, Kubernetes), Java (Spring Boot, Spring Data JPA, Spring Cloud, Spring Security), uso de tecnologias de Mensageria (RabbitMQ, Kafka) e de Observabilidade (New Relic, Splunk). Tenho interesse em escalabilidade de aplicações, infraestrutura, melhores práticas de desenvolvimento, bem como TDD e técnicas associadas como Clean Code e SOLID. 
+              Trabalho há mais de 1 ano na Invillia em parceria com a Pagseguro. De outubro de 2019 a março de 2020 fui estagiário em documentação e testes de software na Siagri Software para o Agronegócio (hoje com o nome de Aliare). 
+              Graduado na PUC GOIÁS no curso de Tecnologia em Análise e Desenvolvimento de Sistemas. 
+              Cursando Especialização Lato-Sensu em Engenharia de Software com Java no Instituto INFNET/Rio de Janeiro.  
+`,
+        subjectResume: `O objetivo do tema a ser abordado é despertar nos discentes e docentes da academia a necessidade de estudo sistemático no que tange a modelagem de sistemas usando a metodologia Domain-Driven Design (DDD). Abordaremos as motivações do uso desta metodologia em contextos de manutenção de softwares legados e de projetos criados do zero. Falaremos também de como usar as ferramentas que as modelagens estratégica e tática oferecem para conceber softwares mais manuteníveis e com mais bem escritos.
+`,
+        img: '',
+        customSize: '100%',
+        datentime: {
+          date: '10/05',
+          time: '20:30 - 22:00',
+          place: 'Auditório 2, Área II'
+        }
       }
     ]
   }
 }
 </script>
 
-<style scoped></style>
+<style scoped>
+.list-container {
+  /*position: relative;
+  width: 70vw;
+  left: calc(-15vw + 15%);
+  */
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-content: space-around;
+  max-height: 50vh;
+
+  padding: 0.5rem;
+  margin: 2rem 0;
+
+  text-align: center;
+}
+
+@media screen and (max-width: 576px) {
+  .list-container {
+    padding: 0;
+    max-height: 100vh;
+  }
+
+  .list-cursos {
+    padding: 0;
+  }
+}
+
+.list-container h5 {
+  margin: 2rem 0;
+  color: black;
+}
+
+.list-cursos li {
+  background-color: #014c72;
+  margin-bottom: 0.5rem;
+  border-radius: 0.3rem;
+  width: 25rem;
+
+  transition: transform 0.4s;
+}
+
+.list-cursos li:hover {
+  transform: scale(1.1);
+}
+
+.list-cursos a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  font-size: 1.1rem;
+}
+</style>

@@ -30,9 +30,7 @@
                 <h5>ONDE</h5>
               </div>
               <div>
-                <v-flex class="onde"
-                  >Escola de Ciências Exatas e da Computação</v-flex
-                >
+                <v-flex class="onde">Escola Politécnica</v-flex>
                 <v-flex class="onde"
                   >Pontifícia Universidade Católica de Goiás</v-flex
                 >
@@ -64,11 +62,10 @@
           </v-layout>
           <v-layout class="subcall text-left">
             <v-flex>
-              <p class="text-justify">
-                A I JCPOLI será realizada de 9 a 11 de Maio de 2022. Com tema
-                principal: Cultura, Inovação e Empreendedorismo. Com a
-                possibilidade de publicar artigos que substituirá a monografia
-                para a conclusão do TCC II JCECEC.
+              <p class="text-justify text-center">
+                A I JCPOLI será realizada de 9 a 11 de Maio de 2022, com tema:
+                Cultura, Inovação e Empreendedorismo. É com alegria que o
+                convidamos para enviar um artigo para o comitê científico.
               </p>
             </v-flex>
           </v-layout>
@@ -244,6 +241,101 @@ export default class Home extends Vue {
           date: '09/05',
           time: '10:00 - 12:00',
           place: 'Auditório 2, área II'
+        }
+      },
+
+      {
+        name: 'Maycon Silva',
+        institution: 'Head of Innovation Lab',
+        speaking: '',
+        description: `Maycon Silva é responsável pelo Innovation Lab e está focado em acompanhar as últimas tendências tecnológicas e promove a transferência de conhecimento para as equipes, parceiros e colaboradores de nossos clientes. Maycon tem e seu portifólio serviços de planejamento e criação de centros tecnológicos de excelência (CoEs), renovações tecnológicas, análise e definição de arquitetura, desenvolvimento de aplicativos, entre outros.   
+`,
+        subjectResume: `
+
+`,
+        img: '',
+        customSize: '100%',
+        datentime: {
+          date: '10/05',
+          time: '19:00 - 20:30',
+          place: 'Auditório 2, Área II'
+        }
+      },
+
+      {
+        name: 'Ávinner Prado',
+        institution: 'NATO Arquitetura',
+        speaking:
+          'A importância da interdisciplinaridade nos projetos e nos negócios',
+        description: `Ávinner Prado, arquiteto e urbanista pela UFG - Universidade Federal de Goiás, empreendedor desde quando se entende por gente, empresário com empresas na área de arquitetura, design, engenharia e tecnologia. Sócio-Diretor na NATO, com foco no desenvolvimento de processos e novos negócios. 
+`,
+        subjectResume: `A importância da interdisciplinaridade nos projetos e nos negócios. 
+
+    Mais do que desenvolver projetos, solucionamos problemas, criamos oportunidades de negócios e impactamos a vida das pessoas. Quando temos um time com diferentes habilidades, trabalhando juntos em prol de um objetivo em comum, criamos mais possibilidades e diferenciais estratégicos.
+`,
+        img: '',
+        customSize: '100%',
+        datentime: {
+          date: '10/05',
+          time: '19:00 - 20:30',
+          place: 'Microsoft Teams'
+        }
+      },
+
+      {
+        name: 'Paulo Gustavo Perini',
+        institution: 'NATO Arquitetura',
+        speaking:
+          'A importância da interdisciplinaridade nos projetos e nos negócios',
+        description: `Paulo Gustavo Perini, arquiteto e urbanista pela UFG - Universidade Federal de Goiás, criativo e solucionador desde criança, empresário com empresas na área de arquitetura, design, engenharia e tecnologia. Sócio-Diretor na NATO, com foco na criação de atmosferas. 
+`,
+        subjectResume: `A importância da interdisciplinaridade nos projetos e nos negócios. 
+
+    Mais do que desenvolver projetos, solucionamos problemas, criamos oportunidades de negócios e impactamos a vida das pessoas. Quando temos um time com diferentes habilidades, trabalhando juntos em prol de um objetivo em comum, criamos mais possibilidades e diferenciais estratégicos.
+`,
+        img: '',
+        customSize: '100%',
+        datentime: {
+          date: '10/05',
+          time: '19:00 - 20:30',
+          place: 'Microsoft Teams'
+        }
+      },
+
+      {
+        name: 'Vitor Paulo David da Silva Filho',
+        institution: 'Hand Talk',
+        speaking: 'O que são e o que fazem os Ux/Ui Designers',
+        description: `Ux Designer focado em acessibilidade, Bacharelado em Design e MBA em Mídia Sociais. Designer carioca com muita determinação em aprender e crescer. Busco no Ux a oportunidade de impactar de forma positiva a vida das pessoas. Atualmente foco em Acessibilidade para realmente poder focar nas pessoas e criar produtos inclusivos.
+`,
+        subjectResume: `Nesta palestra iremos conversar um pouco sobre a área de atuação do Ux/Ui Design. Como é o dia a dia desses profissionais e o que é necessário para se tornar um Ux/Ui Designer. 
+`,
+        img: '',
+        customSize: '100%',
+        datentime: {
+          date: '10/05',
+          time: '20:30 - 22:00',
+          place: 'YouTube'
+        }
+      },
+
+      {
+        name: 'Alexandre Pontes de Queiroz',
+        institution: 'Invillia/Pagseguro',
+        speaking: 'O que são e o que fazem os Ux/Ui Designers',
+        description: `Sou desenvolvedor back-end, com 2 anos de experiência em desenvolvimento web. Trabalho em algumas aplicações com grande tráfego (da ordem de milhões de visitas diárias). Possuo sólidos conhecimentos em programação orientada a objetos, containers (Docker, Kubernetes), Java (Spring Boot, Spring Data JPA, Spring Cloud, Spring Security), uso de tecnologias de Mensageria (RabbitMQ, Kafka) e de Observabilidade (New Relic, Splunk). Tenho interesse em escalabilidade de aplicações, infraestrutura, melhores práticas de desenvolvimento, bem como TDD e técnicas associadas como Clean Code e SOLID. 
+              Trabalho há mais de 1 ano na Invillia em parceria com a Pagseguro. De outubro de 2019 a março de 2020 fui estagiário em documentação e testes de software na Siagri Software para o Agronegócio (hoje com o nome de Aliare). 
+              Graduado na PUC GOIÁS no curso de Tecnologia em Análise e Desenvolvimento de Sistemas. 
+              Cursando Especialização Lato-Sensu em Engenharia de Software com Java no Instituto INFNET/Rio de Janeiro.  
+`,
+        subjectResume: `O objetivo do tema a ser abordado é despertar nos discentes e docentes da academia a necessidade de estudo sistemático no que tange a modelagem de sistemas usando a metodologia Domain-Driven Design (DDD). Abordaremos as motivações do uso desta metodologia em contextos de manutenção de softwares legados e de projetos criados do zero. Falaremos também de como usar as ferramentas que as modelagens estratégica e tática oferecem para conceber softwares mais manuteníveis e com mais bem escritos.
+`,
+        img: '',
+        customSize: '100%',
+        datentime: {
+          date: '10/05',
+          time: '20:30 - 22:00',
+          place: 'Auditório 2, Área II'
         }
       }
     ]

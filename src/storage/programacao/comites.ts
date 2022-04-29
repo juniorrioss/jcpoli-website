@@ -59,7 +59,16 @@ export const ComiteListOrganization =
     {
       coordenador: 'LUDMILLA REIS PINHEIRO DOS SANTOS',
       area: 'Membro do Núcleo de Apoio Pedagógico (NAP)'
+    },    
+    {
+      coordenador: 'Eric Souza Dantas',
+      area: 'Estagiário da Jornada Científica'
     },
+    {
+      coordenador: 'WALCY SANTOS REZENDE RIOS',
+      area: 'Estagiário da Jornada Científica'
+    },
+    
   ]
 
 export const ComiteListCientific = 
@@ -77,6 +86,10 @@ export const ComiteListCientific =
       area: 'Pós-Doutorado em Agronomia - UNESP'
     },
     {
+      coordenador: 'Marcos Lajovic Carneiro',
+      area: 'Pós-Doutorado em Engenharia Elétrica - UBO'
+    },
+    {
       coordenador: 'Arlindo Rodrigues Galvão Filho',
       area: 'Doutorado em Ciência da Computação - UFG',
       
@@ -92,11 +105,8 @@ export const ComiteListCientific =
     {
       coordenador: 'José Luiz De Freitas Júnior',
       area: 'Doutorado em Engenharia Elétrica - UFU'
-    },    
-    {
-      coordenador: 'Marcos Lajovic Carneiro',
-      area: 'Doutorado em Engenharia Elétrica - UnB'
-    },
+    },   
+    
     {
       coordenador: 'Maria José Pereira Dantas',
       area: 'Doutorado em Engenharia Elétrica - UnB'

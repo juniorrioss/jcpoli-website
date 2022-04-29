@@ -1,5 +1,5 @@
 
-export const Palestras_Computacao = [
+const Palestras_Computacao = [
   {
     title: "",
     instructor: "Isis",
@@ -7,7 +7,7 @@ export const Palestras_Computacao = [
     desc: `Apresentação de UX, da empresa e de vagas.`,
     date: "09/05",
     time: "08:00-09:30",
-    place: "Online", //CONFIRMAR A PLATAFORMA
+    place: "YouTube", //CONFIRMAR A PLATAFORMA
   },
   {
     title: "",
@@ -16,7 +16,7 @@ export const Palestras_Computacao = [
     desc: ``,
     date: "09/05",
     time: "19:00-20:30",
-    place: "AUD.1, Área II",
+    place: "Auditório 1, Área II",
   },
   {
     title:
@@ -28,7 +28,7 @@ export const Palestras_Computacao = [
         de metrô de uma grande capital brasileira e quais seriam as consequências disso caso tivesse sido feito por um hacker malicioso.`,
     date: "09/05",
     time: "20:30-22:00",
-    place: "AUD.1, Área II",
+    place: "Auditório 1, Área II",
   },
 
   //======================= DIA 10/05 ==============================//
@@ -41,7 +41,7 @@ export const Palestras_Computacao = [
         e o que é necessário para se tornar um Ux/Ui Designer.`,
     date: "10/05",
     time: "20:30-22:00",
-    place: "Online", //CONFIRMAR A PLATAFORMA
+    place: "YouTube", 
   },
   {
     title: "Domain-Driven Design - Principais Conceitos e algumas provocações",
@@ -53,7 +53,7 @@ export const Palestras_Computacao = [
         ferramentas que as modelagens estratégica e tática oferecem para conceber softwares mais manuteníveis e com mais bem escritos. `,
     date: "10/05",
     time: "20:30-22:00",
-    place: "AUD.2, Área II",
+    place: "Auditório 2, Área II",
   },
   {
     title: "O que é o DevOps?",
@@ -62,7 +62,16 @@ export const Palestras_Computacao = [
     desc: ``,
     date: "10/05",
     time: "19:00-20:30",
-    place: "Online", //CONFIRMAR A PLATAFORMA
+    place: "YouTube",
+  },
+  {
+    title: "XXXXXXXXXXXXXXXX",
+    instructor: "Maycon Silva",
+    institution: "Head of Innovation Lab",
+    desc: ``,
+    date: "10/05",
+    time: "19:00-20:30",
+    place: "Auditório 2, Área II",
   },
 
   //======================= DIA 11/05 ==============================//
@@ -74,19 +83,31 @@ export const Palestras_Computacao = [
     desc: ``,
     date: "11/05",
     time: "19:00-20:30",
-    place: "AUD.2, Área II",
+    place: "Auditório 2, Área II",
+  },
+  {
+    title: "Tendências na Simulação: casos e oportunidades",
+    instructor: "Michael Machado",
+    institution: "Senior Partner da FlexSim Brasil em Campinas-SP",
+    desc: `Simulação iniciou há alguns anos no Brasil como um assunto obscuro e que gerava um certo desconforto para as pessoas por se tratar de um hard skill 
+        que demandava muito conhecimento em programação para gerar soluções reativas no planejamento industrial, logístico e na área de saúde. Nos últimos anos, 
+        temos visto uma vertente bastante alterada com o surgimento de soluções modernas, que podem fazer com que métodos de Machine Learning e soluções de AI, 
+        quando trabalham em conjunto com simulação, podem desenvolver uma solução proativa e preventiva no planejamento operacional das empresas.`,
+    date: "11/05",
+    time: "19:00-20:30",
+    place: "YouTube",
   },
 ]
 
-export const Palestras_Producao = [
+const Palestras_Producao = [
   {
     title: "Avaliação de Máquinas conforme NBR 14.653-5",
     instructor: "Ricardo Vitoy",
     institution: "PUC Goiás",
-    desc: `Apresentação de UX, da empresa e de vagas.`,
+    desc: ``,
     date: "09/05",
     time: "08:00-09:30",
-    place: "AUD.2, Área II",
+    place: "Auditório 2, Área II",
   },
 
   //======================= DIA 10/05 ==============================//
@@ -95,10 +116,10 @@ export const Palestras_Producao = [
     title: "Mesa redonda: Desafios de Empreender na Engenharia",
     instructor: "Eng. Eduardo Bessa",
     institution: "Donuts à Bessa",
-    desc: `Apresentação de UX, da empresa e de vagas.`,
+    desc: ``,
     date: "10/05",
     time: "10:00-11:30",
-    place: "AUD.2, Área II",
+    place: "Auditório 2, Área II",
   },
 
   //======================= DIA 11/05 ==============================//
@@ -107,27 +128,14 @@ export const Palestras_Producao = [
     title: "Teoria das restrições: desde a Meta até a Correte Crítica",
     instructor: "Vitor Hugo Martins e Resende",
     institution: "PUC Goiás",
-    desc: `Apresentação de UX, da empresa e de vagas.`,
+    desc: ``,
     date: "11/05",
     time: "8:00-9:30",
-    place: "AUD.3, Área II",
+    place: "Auditório 3, Área II",
   },
 ]
 
-export const Palestras_Design = [
-  {
-    title:
-      "Experiências de Arquitetura e Design em sintonia – O design de mobiliário e o ambiente ",
-    instructor:
-      "Fernando Felipe, Thiago Ribeiro, Vanessa Machado (egressos do curso de Design da PUC Goiás), Vanusa Machado, Guilherme Barbosa (egressos do curso de Arquitetura e Urbanismo da PUC Goiás)",
-    institution: "Plano D Design de produtos e Moov arquitetura e interiores",
-    desc: `A palestra aborda o case do desenvolvimento de peças com design autoral e projeto inovador para a ambientação de um 
-        espaço Casa Cor trabalhado por meio da arquitetura de ambientes. Receberemos os egressos de ambos os cursos para falarem 
-        de suas experiências profissionais e da ligação importante entre as áreas de atuação e de formação originais da PUC Goiás. `,
-    date: "09/05",
-    time: "08:30-10:00",
-    place: ", Área III", // CONFIRMAR LOCAL
-  },
+const Palestras_Design = [
   {
     title:
       "Povos primordiais – o resgate inédito da imagem de etnias desaparecidas",
@@ -153,7 +161,7 @@ export const Palestras_Design = [
         atividades profissionais e acadêmicas internacionalmente.`,
     date: "10/05",
     time: "08:30-10:00",
-    place: "Online: YouTube",
+    place: "YouTube",
   },
   {
     title:
@@ -164,11 +172,11 @@ export const Palestras_Design = [
         atividades profissionais e acadêmicas internacionalmente.`,
     date: "10/05",
     time: "10:30-12:00",
-    place: "Online: YouTube",
+    place: "YouTube",
   },
 ]
 
-export const Palestras_Caer = [
+const Palestras_Caer = [
   {
     title: "Agência Nacional de Aviação Civil ",
     instructor: "José Assumpção Rodrigues de Almeida",
@@ -176,11 +184,11 @@ export const Palestras_Caer = [
     desc: ``,
     date: "09/05",
     time: "10:00-11:30",
-    place: "Online: YouTube",
+    place: "YouTube",
   },
 ]
 
-export const Palestras_Mestrado = [
+const Palestras_Mestrado = [
   {
     title: "Processo de Doação de Órgãos e Tecidos para Transplantes",
     instructor: "Katiúscia Christiane Freitas",
@@ -190,7 +198,7 @@ export const Palestras_Mestrado = [
          de órgãos e tecidos para transplantes.`,
     date: "09/05",
     time: "10:00-12:00",
-    place: "AUD.2, Área II",
+    place: "Auditório 2, Área II",
   },
   {
     title: "Impactante - A responsabilidade da Impressão 3D na humanidade",
@@ -208,7 +216,7 @@ export const Palestras_Mestrado = [
     desc: `Experiências da empresa com o mercado de impressão 3D, seus produtos, oportunidades e mercado de trabalho.`,
     date: "11/05",
     time: "10:00-11:30",
-    place: "Online: YouTube",
+    place: "YouTube",
   },
 ]
 
@@ -225,6 +233,15 @@ const Palestras_Agronomia = [
   date: "09/05",
   time: "08:00-09:30",
   place: "Online: Microsoft Teams"
+  },
+  {
+    title: "Empreendedorismo: Controle Biológico de Pragas",
+    instructor: "Rizia da Silva Andrade",
+    institution: "Biogyn Soluções Entomológicas",
+    desc: `XXXXXXX`,
+    date: "09/05",
+    time: "10:00-11:30",
+    place: "Microsoft Teams"
   },
   {
     title: "Gestão e Manejo de Irrigação",
@@ -334,6 +351,76 @@ const Palestras_Civil = [
 
 ]
 
+const Palestras_ArquiteturaUrbanismo = [
+  {
+    title: "Experiências de Arquitetura e Design em sintonia – O design de mobiliário e o ambiente ",
+    instructor: "Fernando Felipe, Thiago Ribeiro, Vanessa Machado (egressos do curso de Design da PUC Goiás), Vanusa Machado, Guilherme Barbosa (egressos do curso de Arquitetura e Urbanismo da PUC Goiás)",
+    institution: "Plano D Design de produtos e Moov arquitetura e interiores",
+    desc: `A palestra aborda o case do desenvolvimento de peças com design autoral e projeto inovador para a ambientação de um 
+        espaço Casa Cor trabalhado por meio da arquitetura de ambientes. Receberemos os egressos de ambos os cursos para falarem 
+        de suas experiências profissionais e da ligação importante entre as áreas de atuação e de formação originais da PUC Goiás. `,
+    date: "09/05",
+    time: "08:30-10:00",
+    place: ", Área III", // CONFIRMAR LOCAL
+  },
+  {
+    title: "A importância da interdisciplinaridade nos projetos e nos negócios",
+  instructor: "Ávinner Prado e Paulo Gustavo Perini",
+  institution: "NATO Arquitetura",
+  desc: `A importância da interdisciplinaridade nos projetos e nos negócios. 
+      Mais do que desenvolver projetos, solucionamos problemas, criamos oportunidades de negócios e impactamos a vida das 
+      pessoas. Quando temos um time com diferentes habilidades, trabalhando juntos em prol de um objetivo em comum, criamos mais possibilidades e diferenciais estratégicos. 
+  `,
+  date: "10/05",
+  time: "19:00-20:30",
+  place: "Microsoft Teams"
+  },
+  {
+    title: "Arquitetura Hospitalar",
+  instructor: "Tereza Cristina da Silva Paes Ferreira Del Papa",
+  institution: "Paes Del Papa Arquitetura",
+  desc: `As práticas profissionais da Arquitetura Hospitalar – um campo de atuação e o mercado de trabalho segundo a experiência da arquiteta urbanista.
+  `,
+  date: "11/05",
+  time: "10:00-11:30",
+  place: "Auditório 2, Área II"
+  },
+]
+
+const Palestras_ControleAutomacao = [
+  {
+    title: "O mercado de automação industrial e como conseguir oportunidades",
+    instructor: "Filipe Fraga",
+    institution: "SENAI Ítalo Bologna",
+    desc: `XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX`,
+    date: "10/05",
+    time: "09:00-10:00",
+    place: "YouTube",
+  },
+  {
+    title: "Automação Residencial Uma Realidade de Futuro",
+    instructor: "José Hosanan Inácio",
+    institution: "Megasoft Informática",
+    desc: `Abordagem dos conceitos de automação, internet das coisas, algumas novidades atuais e a tendência do mercado.`,
+    date: "10/05",
+    time: "10:00-11:30",
+    place: "Auditório 3, Área II",
+  },
+]
+
+const Palestras_IniciacaoCientifica = [
+  {
+    title: "Aplicações da otimização em problemas de engenharia",
+    instructor: "Wanderlei Malaquias Pereira Junior",
+    institution: "Universidade Federal de Catalão (UFCAT)",
+    desc: `Quem nunca ouviu a palavra "otimização"?! Ou talvez a frase "vou otimizar o meu tempo!!!". 
+     abstratos de otimização já são empregados na humanidade desde os tempos mais remotos, porém o advento da computação científica permitiu que estes métodos pudessem ser amplamente estudados e testados, inclusive em problemas reais. Portanto esta palestra tem como objetivo esclarecer alguns conceitos de otimização, apresentar algumas aplicações no campo da engenharia e apresentar ferramentas que permitem o uso destes métodos. `,
+    date: "10/05",
+    time: "17:00-18:30",
+    place: "Microsoft Teams",
+  },
+]
+
 export const Palestras_Cursos = [
 
   {
@@ -341,16 +428,24 @@ export const Palestras_Cursos = [
     palestras: Palestras_Agronomia,
   },
   {
+    curso: 'Arquitetura e Urbanismo',
+    palestras: Palestras_ArquiteturaUrbanismo,
+  },
+  {
     curso: 'Ciências Aeronáuticas',
     palestras: Palestras_Caer,
   },
   {
-    curso: 'Ciências da Computação',
+    curso: 'Ciência da Computação',
     palestras: Palestras_Computacao,
   },
   {
     curso: 'Civil',
     palestras: Palestras_Civil,
+  },
+  {
+    curso: 'Engenharia de Controle e Automação',
+    palestras: Palestras_ControleAutomacao,
   },   
   {
     curso: 'Engenharia de Produção',
@@ -363,5 +458,9 @@ export const Palestras_Cursos = [
   {
     curso: 'Mestrado',
     palestras: Palestras_Mestrado,
+  },
+  {
+    curso: 'Iniciação Ciêntifica',
+    palestras: Palestras_IniciacaoCientifica,
   },  
 ]
