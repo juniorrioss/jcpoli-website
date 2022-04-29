@@ -4,7 +4,7 @@ const Courses_Agronomia = [
     title: "Mapeamento com uso de Drones",
     instructor: "Murilo Raphael Cardoso",
     institution: "SEMAD (Goiás)",
-    desc: `Apenas 40 vagas`,
+    desc: ``,
     date: "11/05",
     time: "14:00-16:45",
     place: "Espaço de Palestras ITS (Campus II)"
