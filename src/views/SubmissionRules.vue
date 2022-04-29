@@ -12,7 +12,7 @@
                 </div>
               </template>
               <v-card>
-                <v-card-text class="grey lighten-3">
+                <v-card-text class="grey lighten-3 text-justify">
                   <ul class="my-2" id="aceitacao">
                     <li>
                       <b>Arquivo digital em Word</b>
@@ -60,14 +60,15 @@
                           e depois) de 12 pt;
                         </li>
                         <li>
-                          <i><b>Título Secundário:</b></i> com maiúsculas nas primeiras
-                          letras, negrito e itálico, além de espaçamento entre
-                          parágrafos (antes e depois) de 12 pt;
+                          <i><b>Título Secundário:</b></i> com maiúsculas nas
+                          primeiras letras, negrito e itálico, além de
+                          espaçamento entre parágrafos (antes e depois) de 12
+                          pt;
                         </li>
                         <li>
-                          <i>Título Terciário:</i> com maiúsculas nas primeiras letras,
-                          itálico, além de espaçamento entre parágrafos (antes e
-                          depois) de 12 pt;
+                          <i>Título Terciário:</i> com maiúsculas nas primeiras
+                          letras, itálico, além de espaçamento entre parágrafos
+                          (antes e depois) de 12 pt;
                         </li>
                         <li>
                           Título Quaternário: com maiúsculas nas primeiras
@@ -241,7 +242,7 @@
                 </div>
               </template>
               <v-card>
-                <v-card-text class="grey lighten-3">
+                <v-card-text class="grey lighten-3 text-justify">
                   <p>
                     1. Os trabalhos apresentados no evento serão publicados nos
                     Anais Virtuais.
@@ -266,8 +267,8 @@
                     </li>
                   </ul>
                   <p>
-                    3. Pelo menos um dos autores deverá estar inscrito na
-                    I JCPOLI. Cada inscrito poderá apresentar até dois trabalhos.
+                    3. Pelo menos um dos autores deverá estar inscrito na I
+                    JCPOLI. Cada inscrito poderá apresentar até dois trabalhos.
                   </p>
                   <p>
                     4. Cabe ao autor indicar o eixo temático do seu trabalho. Em
@@ -276,7 +277,7 @@
                     trabalhos serão avaliados e expostos segundo o enquadramento
                     do autor.
                   </p>
-                  4.1 Eixos Temáticos para submissão de Trabalhos: 
+                  4.1 Eixos Temáticos para submissão de Trabalhos:
                   <ul id="temas">
                     <li>Análise e Desenvolvimento de Sistemas;</li>
                     <li>Agronomia;</li>
@@ -289,7 +290,7 @@
                     <li>Engenharia de Alimentos;</li>
                     <li>Engenharia de Controle e Automação;</li>
                     <li>Engenharia Elétrica;</li>
-                    <li>Engenharia Mecânica;</li> 
+                    <li>Engenharia Mecânica;</li>
                     <li>Engenharia Civil;</li>
                     <li>Engenharia de Produção;</li>
                     <li>Iniciação Científica;</li>
@@ -448,7 +449,7 @@
                 </div>
               </template>
               <v-card>
-                <v-card-text class="grey lighten-3">
+                <v-card-text class="grey lighten-3 text-justify">
                   <p>
                     1. A Comissão Científica selecionará e convidará os
                     trabalhos que deveram ser apresentarem via oral.
@@ -473,7 +474,7 @@
                 </div>
               </template>
               <v-card>
-                <v-card-text class="grey lighten-3">
+                <v-card-text class="grey lighten-3 text-justify">
                   <p>
                     1. Todos os Certificados de apresentação de trabalhos são
                     disponibilizados no site da PUC após a realização do evento.
@@ -493,12 +494,9 @@
                 </v-card-text>
               </v-card>
             </v-expansion-panel-content>
-
-            
           </v-expansion-panel>
         </div>
         <div class="col-md-5">
-
           <div class="info-arquivo">
             <h4>Orientações ao Aluno:</h4>
             <v-btn
@@ -536,7 +534,7 @@
           </div>
 
           <div class="info-arquivo">
-            <h4>Edital completo de artigo:</h4>
+            <h4>Edital para submissão de artigo:</h4>
             <v-btn
               type="submit"
               color="primary"
@@ -545,8 +543,7 @@
               ACESSAR EDITAL
               <v-icon right dark>cloud_download</v-icon>
             </v-btn>
-          </div>         
-
+          </div>
         </div>
       </div>
     </div>
