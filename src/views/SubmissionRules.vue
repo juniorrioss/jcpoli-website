@@ -498,7 +498,7 @@
         </div>
         <div class="col-md-5">
           <div class="info-arquivo">
-            <h4>Orientações ao Aluno e Professor:</h4>
+            <h4>Orientações aos Professores e Alunos:</h4>
             <v-btn
               type="submit"
               color="primary"
