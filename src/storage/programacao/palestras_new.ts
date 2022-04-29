@@ -139,7 +139,7 @@ const Palestras_Design = [
   {
     title:
       "Povos primordiais – o resgate inédito da imagem de etnias desaparecidas",
-    instructor: "Marcos Costa de Freitas",
+    instructor: "Marcos Costa de Freitas e Maria Cristina Nunes F. Neto",
     institution: "Marcos Costa – designer, artista e professor independente",
     desc: `A palestra aborda o mesmo tema da exposição que deve abrir na mesma data. Será uma mesa redonda com mediação feita 
         pela coordenadora do curso de Design, Genilda Alexandria, sobre o trabalho de pesquisa, levantamento histórico e reprodução 
@@ -147,7 +147,7 @@ const Palestras_Design = [
         vínculo com o fazer científico e com a conexão antropológica do tema. `,
     date: "09/05",
     time: "10:30-12:00",
-    place: ", Área III", // CONFIRMAR LOCAL
+    place: "Auditório Marisa Roriz, Área III",
   },
 
   //======================= DIA 10/05 ==============================//

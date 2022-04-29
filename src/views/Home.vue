@@ -245,6 +245,25 @@ export default class Home extends Vue {
       },
 
       {
+        name: 'Filipe Fraga',
+        institution: 'SENAI Ítalo Bologna',
+        speaking:
+          'O mercado de automação industrial e como conseguir oportunidades',
+        description: `Mestre em Sistemas Mecatrônicos pela Universidade de Brasília (UnB), Graduação em Engenharia de Controle e Automação pela Pontifícia Universidade Católica de Goiás (PUC-GO). Atualmente como Coordenador de Pesquisa (Núcleo de Estudo, Pesquisa e Extensão - NEPE) e Docente de Nível Superior pela Faculdade SENAI Ítalo Bologna. Pesquisador no ramo de robótica, visão computacional, automação e IA. Experiência em Industria nos setores de Manutenção/Utilidades e projetos industriais voltados para automação.   
+`,
+        subjectResume: `
+
+`,
+        img: '/assets/img/speakers/Filipe_Fraga.jpg',
+        customSize: '100%',
+        datentime: {
+          date: '10/05',
+          time: '09:00 - 10:00',
+          place: 'YouTube'
+        }
+      },
+
+      {
         name: 'Maycon Silva',
         institution: 'Head of Innovation Lab',
         speaking: '',
@@ -337,7 +356,44 @@ export default class Home extends Vue {
           time: '20:30 - 22:00',
           place: 'Auditório 2, Área II'
         }
-      }
+      },
+
+      {
+        name: 'Marcos Costa de Freitas',
+        institution: 'Marcos Costa – designer, artista e professor independente, e PUC Goiás',
+        speaking: 'Povos primordiais – o resgate inédito da imagem de etnias desaparecidas',
+        description: `Mestre em História pela PUC-GO na área de concentração de Cultura e Poder; Bacharel em Artes Visuais / Comunicação Visual,
+               pela Universidade Federal de Goiás. Professor no ensino superior de design há 23 anos. Atuou como coordenador por 13 anos, 
+               participou da elaboração de Planos de Desenvolvimento Institucional e Projetos Pedagógicos de vários cursos, atuou em CPA, CONSUP, CIPA e Conselho Técnico Científico de diversas IES. 
+               Foi membro da Comissão Assessora de Área do Exame Nacional de Desempenho dos Estudantes — Enade, de Tecnologia em Design Gráfico 2018 e 2019.
+               Foi docente na UFG, PUC-GO e Faculdade Senac GO. Desenvolve pesquisas e trabalhos visuais a partir do resgate da imagem de povos originários do Brasil.   
+`,
+        subjectResume: `A palestra aborda o mesmo tema da exposição que deve abrir na mesma data. Será uma mesa redonda com mediação feita pela coordenadora do curso de Design, Genilda Alexandria, sobre o trabalho de pesquisa, levantamento histórico e reprodução artística em carvão dos desenhos de Marcos Costa. A participação do IGPA fará o evento interdisciplinar, fortalecendo o vínculo com o fazer científico e com a conexão antropológica do tema.
+`,
+        img: '/assets/img/speakers/Marcos_Costa.jpg',
+        customSize: '100%',
+        datentime: {
+          date: '09/05',
+          time: '10:30 - 12:00',
+          place: 'Auditório Marisa Roriz, Área III'
+        }
+      },
+      {
+        name: 'Maria Cristina Nunes F. Neto',
+        institution: '',
+        speaking: 'Povos primordiais – o resgate inédito da imagem de etnias desaparecidas',
+        description: `Graduada em História pela Universidade Federal de Uberlândia (1995), Mestrado em História pela Universidade Estadual de Campinas (1998) e Doutorado em História pela Universidade Estadual de Campinas (2002). Atualmente é professora adjunto da Pontifícia Universidade Católica de Goiás (PUC-GO), no Mestrado de História, nos cursos de graduação de História e Relações Internacionais.   
+`,
+        subjectResume: `A palestra aborda o mesmo tema da exposição que deve abrir na mesma data. Será uma mesa redonda com mediação feita pela coordenadora do curso de Design, Genilda Alexandria, sobre o trabalho de pesquisa, levantamento histórico e reprodução artística em carvão dos desenhos de Marcos Costa. A participação do IGPA fará o evento interdisciplinar, fortalecendo o vínculo com o fazer científico e com a conexão antropológica do tema.
+`,
+        img: '/assets/img/speakers/Maria_Cristina.jpg',
+        customSize: '100%',
+        datentime: {
+          date: '09/05',
+          time: '10:30 - 12:00',
+          place: 'Auditório Marisa Roriz, Área III'
+        }
+      },
     ]
   }
 
@@ -346,7 +402,7 @@ export default class Home extends Vue {
   }
 
   private goToSubmission() {
-    this.$router.push('/submissao')
+    this.$router.push('/orientacoes')
   }
 }
 </script>
