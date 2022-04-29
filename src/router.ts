@@ -25,10 +25,10 @@ const router = new Router({
         import(/* webpackChunkName: "about" */ "./views/SignUp/Confirm.vue")
     },
     {
-      path: "/submissao",
-      name: "submissao",
+      path: "/orientacoes",
+      name: "orientacoes",
       component: () =>
-        import(/* webpackChunkName: "submissions" */ "./views/SubmissionRules.vue")
+        import(/* webpackChunkName: "orientacoes" */ "./views/SubmissionRules.vue")
     },
     {
       path: "/conta",
