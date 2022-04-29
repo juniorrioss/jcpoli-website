@@ -332,7 +332,7 @@ export default class Escola extends Vue {
         datentime: {
           date: '09/05',
           time: '10:00 - 12:00',
-          place: 'Auditório 2, área II'
+          place: 'Auditório 1, área II'
         }
       },
 
@@ -384,7 +384,7 @@ export default class Escola extends Vue {
 
     Mais do que desenvolver projetos, solucionamos problemas, criamos oportunidades de negócios e impactamos a vida das pessoas. Quando temos um time com diferentes habilidades, trabalhando juntos em prol de um objetivo em comum, criamos mais possibilidades e diferenciais estratégicos.
 `,
-        img: '',
+        img: '/assets/img/speakers/Ávinner_Prado_Provisorio.jpg',
         customSize: '100%',
         datentime: {
           date: '10/05',
@@ -404,7 +404,7 @@ export default class Escola extends Vue {
 
     Mais do que desenvolver projetos, solucionamos problemas, criamos oportunidades de negócios e impactamos a vida das pessoas. Quando temos um time com diferentes habilidades, trabalhando juntos em prol de um objetivo em comum, criamos mais possibilidades e diferenciais estratégicos.
 `,
-        img: '',
+        img: '/assets/img/speakers/Paulo_Gustavo_Provisorio.jpg',
         customSize: '100%',
         datentime: {
           date: '10/05',
@@ -432,7 +432,7 @@ export default class Escola extends Vue {
       {
         name: 'Alexandre Pontes de Queiroz',
         institution: 'Invillia/Pagseguro',
-        speaking: 'O que são e o que fazem os Ux/Ui Designers',
+        speaking: 'Domain-Driven Design - Principais Conceitos e algumas provocações',
         description: `Sou desenvolvedor back-end, com 2 anos de experiência em desenvolvimento web. Trabalho em algumas aplicações com grande tráfego (da ordem de milhões de visitas diárias). Possuo sólidos conhecimentos em programação orientada a objetos, containers (Docker, Kubernetes), Java (Spring Boot, Spring Data JPA, Spring Cloud, Spring Security), uso de tecnologias de Mensageria (RabbitMQ, Kafka) e de Observabilidade (New Relic, Splunk). Tenho interesse em escalabilidade de aplicações, infraestrutura, melhores práticas de desenvolvimento, bem como TDD e técnicas associadas como Clean Code e SOLID. 
               Trabalho há mais de 1 ano na Invillia em parceria com a Pagseguro. De outubro de 2019 a março de 2020 fui estagiário em documentação e testes de software na Siagri Software para o Agronegócio (hoje com o nome de Aliare). 
               Graduado na PUC GOIÁS no curso de Tecnologia em Análise e Desenvolvimento de Sistemas. 
@@ -440,7 +440,7 @@ export default class Escola extends Vue {
 `,
         subjectResume: `O objetivo do tema a ser abordado é despertar nos discentes e docentes da academia a necessidade de estudo sistemático no que tange a modelagem de sistemas usando a metodologia Domain-Driven Design (DDD). Abordaremos as motivações do uso desta metodologia em contextos de manutenção de softwares legados e de projetos criados do zero. Falaremos também de como usar as ferramentas que as modelagens estratégica e tática oferecem para conceber softwares mais manuteníveis e com mais bem escritos.
 `,
-        img: '',
+        img: '/assets/img/speakers/Alexandre_Queiroz_Provisorio.jpg',
         customSize: '100%',
         datentime: {
           date: '10/05',
@@ -450,7 +450,7 @@ export default class Escola extends Vue {
       },
       {
         name: 'Marcos Costa de Freitas',
-        institution: 'Marcos Costa – designer, artista e professor independente, e PUC Goiás',
+        institution: 'Marcos Costa – designer, artista e professor independente e PUC Goiás',
         speaking: 'Povos primordiais – o resgate inédito da imagem de etnias desaparecidas',
         description: `Mestre em História pela PUC-GO na área de concentração de Cultura e Poder; Bacharel em Artes Visuais / Comunicação Visual,
                pela Universidade Federal de Goiás. Professor no ensino superior de design há 23 anos. Atuou como coordenador por 13 anos, 
@@ -482,6 +482,54 @@ export default class Escola extends Vue {
           date: '09/05',
           time: '10:30 - 12:00',
           place: 'Auditório Marisa Roriz, Área III'
+        }
+      },
+      {
+        name: 'Sylvia Madeira',
+        institution: 'Coordenadora de UX design na Gauge/Stefanini Group',
+        speaking: 'Qual a função do UX design em uma empresa?',
+        description: `Bacharel em Publicidade e propaganda-Comunicação Social, Pós Graduação Administração, Gama Academy UX Design; Voluntária: Ponto Focal do Medium LTUX – Redatora e Editora de Conteúdo (Ladies UX).
+        `,
+        subjectResume: `Apresentação de UX, da empresa e de vagas.
+        `,
+        img: '',
+        customSize: '100%',
+        datentime: {
+          date: '09/05',
+          time: 'YouTube'
+        }
+      },
+      {
+        name: 'José Assumpção Rodrigues de Almeida',
+        institution: 'Superintendente de Tecnologia da Informação da ANAC',
+        speaking: 'Agência Nacional de Aviação Civil',
+        description: `Possui mestrado em Engenharia de Produção pela Universidade de São Paulo – USP (2009). Graduação em Engenharia de Produção pela Universidade de São Paulo – USP (2006). Atualmente é Gerente de Sistemas e Informações da Superintendência de Tecnologia da Informação da Agência Nacional de Aviação Civil - ANAC (2018-presente), e instrutor das disciplinas de Gestão de Processos com Foco em Inovação (2017-presente) e Análise e Melhoria de Processos (2012-presente) da Escola Nacional de Administração Pública - ENAP. Possui cargo efetivo de Especialista em Regulação de Aviação Civil da ANAC (2010-presente). Anteriormente foi Gerente Técnico de Escritório de Processos (2015-2018) e Gerente Técnico de Planejamento Institucional (2014-2015) da Superintendência de Planejamento Institucional da ANAC, Gerente Técnico de Processos e Capacitação (2012-2014) da Superintendência de Infraestrutura Aeroportuária da ANAC, Professor Substituto da Universidade Estadual Júlio de Mesquita Filho - UNESP (2008-2009), Gerente de Projetos de Manufatura Enxuta (2007-2009) da Proenx Consultoria e Treinamento Empresarial e Coordenador de Projetos de Manufatura Enxuta (2006-2007) da Hominiss Lean Consulting. Tem experiência na área de Gestão de Processos, Fluxos de Informação, Melhoria Organizacional, Desenvolvimento de Sistemas, Lean Office, Governança de Dados, Gestão por Competências e Regulação Pública.
+        `,
+        subjectResume: `
+        `,
+        img: '',
+        customSize: '100%',
+        datentime: {
+          date: '09/05',
+          time: '10:00 - 11:30 ',
+          place: 'YouTube'
+        }
+      },
+      {
+        name: 'Luan Fernandes Barcelos',
+        institution: 'Syncode Sistemas e Tecnologia',
+        speaking: `"Na minha máquina funciona": Desenvolvendo em docker para nunca mais ter estes problemas.
+        `,
+        description: `Graduando em análise e desenvolvimento de sistemas na PUC-GO e Programador Backend Trainee com 2 anos de experiencia em desenvolvimento backend de aplicações web em python e infra. Experiencia em desenvolvimento e uso de linux.
+        `,
+        subjectResume: `Motivação de uso e introdução ao docker. Criando containers a partir de imagens oficiais. Criando suas próprias imágens. Comunicação de máquina local com docker e docker com docker. Encerramento com exemplo de uso real.
+        `,
+        img: '/assets/img/speakers/Luan_Fernandes_Provisorio.jpg',
+        customSize: '100%',
+        datentime: {
+          date: '09/05',
+          time: '17:00 - 18:30',
+          place: 'Laboratório 101, bloco C, Área II'
         }
       },
     ]

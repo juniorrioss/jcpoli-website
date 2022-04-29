@@ -1,13 +1,13 @@
 
 const Palestras_Computacao = [
   {
-    title: "",
-    instructor: "Isis",
-    institution: "Analista de RH da Gauge",
+    title: "Qual a função do UX design em uma empresa?",
+    instructor: "Sylvia Madeira",
+    institution: "Coordenadora de UX design na Gauge/Stefanini Group",
     desc: `Apresentação de UX, da empresa e de vagas.`,
     date: "09/05",
     time: "08:00-09:30",
-    place: "YouTube", //CONFIRMAR A PLATAFORMA
+    place: "YouTube", 
   },
   {
     title: "",
@@ -140,7 +140,7 @@ const Palestras_Design = [
     title:
       "Povos primordiais – o resgate inédito da imagem de etnias desaparecidas",
     instructor: "Marcos Costa de Freitas e Maria Cristina Nunes F. Neto",
-    institution: "Marcos Costa – designer, artista e professor independente",
+    institution: "Marcos Costa – designer, artista e professor independente e PUC Goiás",
     desc: `A palestra aborda o mesmo tema da exposição que deve abrir na mesma data. Será uma mesa redonda com mediação feita 
         pela coordenadora do curso de Design, Genilda Alexandria, sobre o trabalho de pesquisa, levantamento histórico e reprodução 
         artística em carvão dos desenhos de Marcos Costa. A participação do IGPA fará o evento interdisciplinar, fortalecendo o 
@@ -198,7 +198,7 @@ const Palestras_Mestrado = [
          de órgãos e tecidos para transplantes.`,
     date: "09/05",
     time: "10:00-12:00",
-    place: "Auditório 2, Área II",
+    place: "Auditório 1, Área II",
   },
   {
     title: "Impactante - A responsabilidade da Impressão 3D na humanidade",
@@ -232,7 +232,7 @@ const Palestras_Agronomia = [
   `,
   date: "09/05",
   time: "08:00-09:30",
-  place: "Online: Microsoft Teams"
+  place: "Microsoft Teams"
   },
   {
     title: "Empreendedorismo: Controle Biológico de Pragas",
@@ -354,14 +354,19 @@ const Palestras_Civil = [
 const Palestras_ArquiteturaUrbanismo = [
   {
     title: "Experiências de Arquitetura e Design em sintonia – O design de mobiliário e o ambiente ",
-    instructor: "Fernando Felipe, Thiago Ribeiro, Vanessa Machado (egressos do curso de Design da PUC Goiás), Vanusa Machado, Guilherme Barbosa (egressos do curso de Arquitetura e Urbanismo da PUC Goiás)",
+    instructor: `Fernando Felipe, 
+    Thiago Ribeiro, 
+    Vanessa Machado (egressos do curso de Design da PUC Goiás), 
+    Vanusa Machado, 
+    Guilherme Barbosa (egressos do curso de Arquitetura e Urbanismo da PUC Goiás)
+    `,
     institution: "Plano D Design de produtos e Moov arquitetura e interiores",
     desc: `A palestra aborda o case do desenvolvimento de peças com design autoral e projeto inovador para a ambientação de um 
         espaço Casa Cor trabalhado por meio da arquitetura de ambientes. Receberemos os egressos de ambos os cursos para falarem 
         de suas experiências profissionais e da ligação importante entre as áreas de atuação e de formação originais da PUC Goiás. `,
     date: "09/05",
     time: "08:30-10:00",
-    place: ", Área III", // CONFIRMAR LOCAL
+    place: "Auditório Marisa Roriz, Área III",
   },
   {
     title: "A importância da interdisciplinaridade nos projetos e nos negócios",

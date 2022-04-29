@@ -64,7 +64,7 @@ const Courses_Computacao = [
   {
     title: '"Na minha máquina funciona": Desenvolvendo em docker para nunca mais ter este problemas',
     instructor: "Luan Fernandes Barcelos",
-    institution: "Syncode Systemas",
+    institution: "Syncode Sistemas e Tecnologia",
     desc: `Motivação de uso e introdução ao docker. Criando containers a partir de imagens oficiais. 
         Criando suas próprias imágens. Comunicação de maquina local com docker e docker com docker. 
         Encerramento com exemplo de uso real.`,
