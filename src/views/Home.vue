@@ -62,9 +62,10 @@
           </v-layout>
           <v-layout class="subcall text-left">
             <v-flex>
-              <p class="text-justify">
+              <p class="text-justify text-center">
                 A I JCPOLI será realizada de 9 a 11 de Maio de 2022, com tema:
-                Cultura, Inovação e Empreendedorismo.
+                Cultura, Inovação e Empreendedorismo. É com alegria que o
+                convidamos para enviar um artigo para o comitê científico.
               </p>
             </v-flex>
           </v-layout>
