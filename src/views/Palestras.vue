@@ -56,7 +56,7 @@ export default class Palestras extends Vue {
   private description = 'Palestras da jornada'
   private background = 'assets/img/slider/6.jpg'
 
-  filterPalestras(e) {
+  filterPalestras(e: any) {
     let data = e.target.innerText
     this.filtered_palestras = this.all_palestras.map(item => {
       let palestras = item.palestras.filter(aux => {
