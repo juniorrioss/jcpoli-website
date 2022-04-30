@@ -11,8 +11,10 @@
           <v-container fill-height>
             <v-layout align-center fill-height justify-center>
               <div class="banner">
-                <img src="assets/img/logo-clean.webp" class="logo" />
+                <!--<img src="assets/img/logo-clean.webp" class="logo" />
                 <img src="assets/img/logo-clean.webp" class="logo back" />
+                <img src="assets/img/logo.png" class="logo-opacity" />-->
+
                 <div>
                   <span class="date">09 a 11 de Maio</span>
                 </div>
@@ -67,9 +69,13 @@ export default class Carousel extends Vue {
 
 <style scoped>
 .banner {
-  padding: 30px 120px;
   background-color: #2364adc4;
   color: #fff;
+}
+
+.logo-opacity {
+  opacity: 30%;
+  height: 10rem;
 }
 
 @media screen and (max-width: 576px) {
@@ -97,13 +103,13 @@ export default class Carousel extends Vue {
 }
 
 #logo {
-  width: 30%;
-  height: 30%;
+  width: 10%;
+  height: 10%;
 }
 
 .banner {
   position: relative;
-  padding: 30px 150px 60px 250px !important;
+  padding: 3rem 6rem;
 }
 
 hr {
