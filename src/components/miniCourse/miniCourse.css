@@ -3,6 +3,7 @@
   grid-template-columns: 380px 1fr;
   grid-auto-rows: auto auto;
   grid-template-areas: "title title" "info desc";
+  margin-bottom: 3rem;
 }
 .miniCourse h1, .miniCourse h2, .miniCourse h3, .miniCourse h4, .miniCourse h5, .miniCourse h6 {
   text-transform: unset;
