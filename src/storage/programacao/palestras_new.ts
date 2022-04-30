@@ -251,7 +251,7 @@ const Palestras_Agronomia = [
   DESCRIÇÃO DA PALESTRA`,
   date: "10/05",
   time: "08:00-09:30",
-  place: "Online: Microsoft Teams"
+  place: "Microsoft Teams"
   },
   {
     title: "A importância da Irrigação para a cultura da Cana de açúcar",
@@ -261,7 +261,7 @@ const Palestras_Agronomia = [
   DESCRIÇÃO DA PALESTRA`,
   date: "10/05",
   time: "10:00-11:30",
-  place: "Online: Microsoft Teams"
+  place: "Microsoft Teams"
   },
   {
     title: "Projetos de Irrigação",
@@ -271,7 +271,7 @@ const Palestras_Agronomia = [
   DESCRIÇÃO DA PALESTRA`,
   date: "10/05",
   time: "19:00-20:30",
-  place: "Online: Microsoft Teams"
+  place: "Microsoft Teams"
   },
   {
     title: "Pesquisa e extensão para pequenos produtores",
@@ -291,7 +291,7 @@ const Palestras_Agronomia = [
   DESCRIÇÃO DA PALESTRA`,
   date: "11/05",
   time: "10:00-11:30",
-  place: "Online: Microsoft Teams"
+  place: "Microsoft Teams"
   },
   {
     title: "Inovação em Fruticultura e Pós-Colheita",
@@ -301,7 +301,7 @@ const Palestras_Agronomia = [
   DESCRIÇÃO DA PALESTRA`,
   date: "11/05",
   time: "19:00-20:30",
-  place: "Online: Microsoft Teams"
+  place: "Microsoft Teams"
   },  
 ]
 
@@ -326,7 +326,7 @@ const Palestras_Civil = [
   DESCRIÇÃO DA PALESTRA`,
   date: "09/05",
   time: "20:00-21:00",
-  place: "Online: Microsoft Teams"
+  place: "Microsoft Teams"
   },
   {
     title: "Edifícios de múltiplos andares em estruturas de aço e mistas de aço-concreto",
@@ -336,7 +336,7 @@ const Palestras_Civil = [
   DESCRIÇÃO DA PALESTRA`,
   date: "10/05",
   time: "20:00-21:00",
-  place: "Online: Microsoft Teams"
+  place: "Microsoft Teams"
   },
   {
     title: "Aplicação de software para análise de estabilidade de taludes",
@@ -346,7 +346,7 @@ const Palestras_Civil = [
   DESCRIÇÃO DA PALESTRA`,
   date: "11/05",
   time: "19:00-20:00",
-  place: "Online: Microsoft Teams"
+  place: "Microsoft Teams"
   },
 
 ]

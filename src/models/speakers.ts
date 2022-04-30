@@ -70,7 +70,7 @@ Quem nunca ouviu a palavra "otimização"?! Ou talvez a frase "vou otimizar o me
     datentime: {
       date: "10/05",
       time: "17:00 - 18:30",
-      place: "Online: Microsoft Teams",
+      place: "Microsoft Teams",
     },
   },
 
@@ -88,7 +88,7 @@ Abordaremos o potêncial da tecnologia, o que já foi feito e o que está sendo 
     datentime: {
       date: "10/05",
       time: "10:00 - 11:30",
-      place: "Online: Microsoft Teams",
+      place: "Microsoft Teams",
     },
   },
 

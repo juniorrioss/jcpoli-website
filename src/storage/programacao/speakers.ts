@@ -526,7 +526,7 @@ const speakers_jcpoli = [
   datentime: {
     date: "10/05",
     time: "17:00 - 18:30",
-    place: "Online: Microsoft Teams"
+    place: "Microsoft Teams"
   }
 },
 
@@ -545,7 +545,7 @@ const speakers_jcpoli = [
   datentime: {
     date: "10/05",
     time: "10:00 - 11:30",
-    place: "Online: Microsoft Teams"
+    place: "Microsoft Teams"
   }
 },
 
