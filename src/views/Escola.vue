@@ -21,7 +21,6 @@
               href="https://www.pucgoias.edu.br/cursos/graduacao/agronomia/"
               target="_blank"
             >
-              >
               <li>
                 Agronomia
               </li>
@@ -578,6 +577,7 @@ export default class Escola extends Vue {
 
 .list-cursos li {
   background-color: #006ca3;
+
   margin-bottom: 0.5rem;
   border-radius: 0.3rem;
   width: 25rem;
