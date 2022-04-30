@@ -8,9 +8,21 @@
     ></PhotoHeader>
 
     <Main>
+      <h4 class="text-center">Agenda</h4>
+
+      <div class="button-container">
+        <button class="button" v-on:click="clearFilter">Todos as datas</button>
+        <button class="button" v-on:click="filterCourses">
+          09/05
+        </button>
+        <button class="button" v-on:click="filterCourses">10/05</button>
+        <button class="button" v-on:click="filterCourses">11/05</button>
+        <!--<button class="button" v-on:click="filterCourses">12/05</button>
+        <button class="button" v-on:click="filterCourses">13/05</button>-->
+      </div>
       <div class="courses-list">
-        <div v-for="(props, index) in coursesList" :key="index">
-          <h3 class="section-course">{{ props.curso }}</h3>
+        <div v-for="(props, index) in filtered_courses" :key="index">
+          <!--<h3 class="section-course">{{ props.curso }}</h3> -->
           <div v-for="(course, index) in props.minicurso" :key="index">
             <MiniCourse :course="course"></MiniCourse>
             <hr />
@@ -42,10 +54,26 @@ export default class MiniCourses extends Vue {
   private description = 'Minicursos da jornada'
   private background = 'assets/img/lab.jpg'
 
+  filterCourses(e) {
+    let data = e.target.innerText
+    this.filtered_courses = this.coursesList.map(item => {
+      const minicurso = item.minicurso.filter(aux => {
+        return aux.date == data
+      })
+
+      return { ...item, minicurso }
+    })
+  }
+
+  clearFilter() {
+    this.filtered_courses = this.coursesList
+  }
+
   constructor() {
     super()
 
     this.coursesList = miniCourses_Section
+    this.filtered_courses = this.coursesList
   }
 }
 </script>
@@ -66,5 +94,42 @@ export default class MiniCourses extends Vue {
     0 0.25rem 0.53125rem rgba(0, 0, 0, 0.05),
     0 0.125rem 0.1875rem rgba(0, 0, 0, 0.03);
   padding: 1rem;
+}
+.button-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-bottom: 5rem;
+}
+
+.button {
+  padding: 1rem;
+  border: 0.1rem solid white;
+  border-radius: 5rem;
+  font-weight: 700;
+  background-color: #006ca3;
+  margin-right: 2rem;
+  color: white;
+  transition: all 0.2s ease-in-out;
+}
+
+.button:hover {
+  background-color: #20407d;
+  transform: background-color;
+  transform: scale(1.1);
+}
+
+@media screen and (max-width: 576px) {
+  .button-container {
+    flex-direction: column;
+  }
+  .button {
+    margin-bottom: 1rem;
+  }
+}
+
+h4 {
+  color: black;
+  margin-bottom: 3rem;
 }
 </style>
