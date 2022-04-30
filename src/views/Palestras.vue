@@ -39,7 +39,10 @@ import Main from '../components/organization/Main.vue'
 import MiniCourse from '../components/miniCourse/index.vue'
 import SectionCourse from '../components/organization/SectionCourse.vue'
 
-import { Palestras_Cursos } from '@/storage/programacao/palestras_new'
+import {
+  Palestras_Cursos,
+  PalestraProp
+} from '@/storage/programacao/palestras_new'
 
 @Component({
   components: {
@@ -49,14 +52,14 @@ import { Palestras_Cursos } from '@/storage/programacao/palestras_new'
   }
 })
 export default class Palestras extends Vue {
-  private all_palestras: any
-  private filtered_palestras: any
+  private all_palestras: PalestraProp
+  private filtered_palestras: PalestraProp
 
   private title = 'Palestras'
   private description = 'Palestras da jornada'
   private background = 'assets/img/slider/6.jpg'
 
-  filterPalestras(e: any) {
+  filterPalestras(e) {
     let data = e.target.innerText
     this.filtered_palestras = this.all_palestras.map(item => {
       let palestras = item.palestras.filter(aux => {
