@@ -70,7 +70,7 @@ Quem nunca ouviu a palavra "otimização"?! Ou talvez a frase "vou otimizar o me
     datentime: {
       date: "10/05",
       time: "17:00 - 18:30",
-      place: "Online: Microsoft Teams",
+      place: "Microsoft Teams",
     },
   },
 
@@ -88,7 +88,7 @@ Abordaremos o potêncial da tecnologia, o que já foi feito e o que está sendo 
     datentime: {
       date: "10/05",
       time: "10:00 - 11:30",
-      place: "Online: Microsoft Teams",
+      place: "Microsoft Teams",
     },
   },
 
@@ -106,7 +106,7 @@ Palestra sobre a situação atual dos transplantes no Brasil e em Goiás e sobre
     datentime: {
       date: "09/05",
       time: "10:00 - 12:00",
-      place: "Auditório 2, área II",
+      place: "Auditório 1, área II",
     },
   },
 
@@ -158,7 +158,7 @@ Palestra sobre a situação atual dos transplantes no Brasil e em Goiás e sobre
     Mais do que desenvolver projetos, solucionamos problemas, criamos oportunidades de negócios e impactamos a vida das pessoas. 
     Quando temos um time com diferentes habilidades, trabalhando juntos em prol de um objetivo em comum, criamos mais possibilidades e diferenciais estratégicos.
 `,
-    img: "",
+    img: "/assets/img/speakers/Ávinner_Prado_Provisorio.jpg",
     customSize: "100%",
     datentime: {
       date: "10/05",
@@ -178,7 +178,7 @@ Palestra sobre a situação atual dos transplantes no Brasil e em Goiás e sobre
     Mais do que desenvolver projetos, solucionamos problemas, criamos oportunidades de negócios e impactamos a vida das pessoas. 
     Quando temos um time com diferentes habilidades, trabalhando juntos em prol de um objetivo em comum, criamos mais possibilidades e diferenciais estratégicos.
 `,
-    img: "",
+    img: "/assets/img/speakers/Paulo_Gustavo_Provisorio.jpg",
     customSize: "100%",
     datentime: {
       date: "10/05",
@@ -207,7 +207,7 @@ Palestra sobre a situação atual dos transplantes no Brasil e em Goiás e sobre
   {
     name: "Alexandre Pontes de Queiroz",
     institution: "Invillia/Pagseguro",
-    speaking: "O que são e o que fazem os Ux/Ui Designers",
+    speaking: "Domain-Driven Design - Principais Conceitos e algumas provocações",
     description: `Sou desenvolvedor back-end, com 2 anos de experiência em desenvolvimento web. Trabalho em algumas aplicações com grande tráfego (da ordem de milhões de visitas diárias). Possuo sólidos conhecimentos em programação orientada a objetos, containers (Docker, Kubernetes), Java (Spring Boot, Spring Data JPA, Spring Cloud, Spring Security), uso de tecnologias de Mensageria (RabbitMQ, Kafka) e de Observabilidade (New Relic, Splunk). Tenho interesse em escalabilidade de aplicações, infraestrutura, melhores práticas de desenvolvimento, bem como TDD e técnicas associadas como Clean Code e SOLID. 
               Trabalho há mais de 1 ano na Invillia em parceria com a Pagseguro. De outubro de 2019 a março de 2020 fui estagiário em documentação e testes de software na Siagri Software para o Agronegócio (hoje com o nome de Aliare). 
               Graduado na PUC GOIÁS no curso de Tecnologia em Análise e Desenvolvimento de Sistemas. 
@@ -215,7 +215,7 @@ Palestra sobre a situação atual dos transplantes no Brasil e em Goiás e sobre
 `,
     subjectResume: `O objetivo do tema a ser abordado é despertar nos discentes e docentes da academia a necessidade de estudo sistemático no que tange a modelagem de sistemas usando a metodologia Domain-Driven Design (DDD). Abordaremos as motivações do uso desta metodologia em contextos de manutenção de softwares legados e de projetos criados do zero. Falaremos também de como usar as ferramentas que as modelagens estratégica e tática oferecem para conceber softwares mais manuteníveis e com mais bem escritos.
 `,
-    img: "",
+    img: "/assets/img/speakers/Alexandre_Queiroz_Provisorio.jpg",
     customSize: "100%",
     datentime: {
       date: "10/05",
@@ -224,24 +224,119 @@ Palestra sobre a situação atual dos transplantes no Brasil e em Goiás e sobre
     },
   },
   {
-    name: "Alexandre Pontes de Queiroz",
-    institution: "Invillia/Pagseguro",
-    speaking: "O que são e o que fazem os Ux/Ui Designers",
-    description: `Sou desenvolvedor back-end, com 2 anos de experiência em desenvolvimento web. Trabalho em algumas aplicações com grande tráfego (da ordem de milhões de visitas diárias). Possuo sólidos conhecimentos em programação orientada a objetos, containers (Docker, Kubernetes), Java (Spring Boot, Spring Data JPA, Spring Cloud, Spring Security), uso de tecnologias de Mensageria (RabbitMQ, Kafka) e de Observabilidade (New Relic, Splunk). Tenho interesse em escalabilidade de aplicações, infraestrutura, melhores práticas de desenvolvimento, bem como TDD e técnicas associadas como Clean Code e SOLID. 
-              Trabalho há mais de 1 ano na Invillia em parceria com a Pagseguro. De outubro de 2019 a março de 2020 fui estagiário em documentação e testes de software na Siagri Software para o Agronegócio (hoje com o nome de Aliare). 
-              Graduado na PUC GOIÁS no curso de Tecnologia em Análise e Desenvolvimento de Sistemas. 
-              Cursando Especialização Lato-Sensu em Engenharia de Software com Java no Instituto INFNET/Rio de Janeiro.  
+    name: 'Marcos Costa de Freitas',
+    institution: 'Marcos Costa – designer, artista e professor independente e PUC Goiás',
+    speaking: 'Povos primordiais – o resgate inédito da imagem de etnias desaparecidas',
+    description: `Mestre em História pela PUC-GO na área de concentração de Cultura e Poder; Bacharel em Artes Visuais / Comunicação Visual,
+           pela Universidade Federal de Goiás. Professor no ensino superior de design há 23 anos. Atuou como coordenador por 13 anos, 
+           participou da elaboração de Planos de Desenvolvimento Institucional e Projetos Pedagógicos de vários cursos, atuou em CPA, CONSUP, CIPA e Conselho Técnico Científico de diversas IES. 
+           Foi membro da Comissão Assessora de Área do Exame Nacional de Desempenho dos Estudantes — Enade, de Tecnologia em Design Gráfico 2018 e 2019.
+           Foi docente na UFG, PUC-GO e Faculdade Senac GO. Desenvolve pesquisas e trabalhos visuais a partir do resgate da imagem de povos originários do Brasil.   
 `,
-    subjectResume: `O objetivo do tema a ser abordado é despertar nos discentes e docentes da academia a necessidade de estudo sistemático no que tange a modelagem de sistemas usando a metodologia Domain-Driven Design (DDD). Abordaremos as motivações do uso desta metodologia em contextos de manutenção de softwares legados e de projetos criados do zero. Falaremos também de como usar as ferramentas que as modelagens estratégica e tática oferecem para conceber softwares mais manuteníveis e com mais bem escritos.
+    subjectResume: `A palestra aborda o mesmo tema da exposição que deve abrir na mesma data. Será uma mesa redonda com mediação feita pela coordenadora do curso de Design, Genilda Alexandria, sobre o trabalho de pesquisa, levantamento histórico e reprodução artística em carvão dos desenhos de Marcos Costa. A participação do IGPA fará o evento interdisciplinar, fortalecendo o vínculo com o fazer científico e com a conexão antropológica do tema.
 `,
-    img: "",
-    customSize: "100%",
+    img: '/assets/img/speakers/Marcos_Costa.jpg',
+    customSize: '100%',
     datentime: {
-      date: "10/05",
-      time: "20:30 - 22:00",
-      place: "Auditório 2, Área II",
-    },
+      date: '09/05',
+      time: '10:30 - 12:00',
+      place: 'Auditório Marisa Roriz, Área III'
+    }
   },
+  {
+    name: 'Maria Cristina Nunes F. Neto',
+    institution: '',
+    speaking: 'Povos primordiais – o resgate inédito da imagem de etnias desaparecidas',
+    description: `Graduada em História pela Universidade Federal de Uberlândia (1995), Mestrado em História pela Universidade Estadual de Campinas (1998) e Doutorado em História pela Universidade Estadual de Campinas (2002). Atualmente é professora adjunto da Pontifícia Universidade Católica de Goiás (PUC-GO), no Mestrado de História, nos cursos de graduação de História e Relações Internacionais.   
+`,
+    subjectResume: `A palestra aborda o mesmo tema da exposição que deve abrir na mesma data. Será uma mesa redonda com mediação feita pela coordenadora do curso de Design, Genilda Alexandria, sobre o trabalho de pesquisa, levantamento histórico e reprodução artística em carvão dos desenhos de Marcos Costa. A participação do IGPA fará o evento interdisciplinar, fortalecendo o vínculo com o fazer científico e com a conexão antropológica do tema.
+`,
+    img: '/assets/img/speakers/Maria_Cristina.jpg',
+    customSize: '100%',
+    datentime: {
+      date: '09/05',
+      time: '10:30 - 12:00',
+      place: 'Auditório Marisa Roriz, Área III'
+    }
+  },
+  {
+    name: 'Sylvia Madeira',
+    institution: 'Coordenadora de UX design na Gauge/Stefanini Group',
+    speaking: 'Qual a função do UX design em uma empresa?',
+    description: `Bacharel em Publicidade e propaganda-Comunicação Social, Pós Graduação Administração, Gama Academy UX Design; Voluntária: Ponto Focal do Medium LTUX – Redatora e Editora de Conteúdo (Ladies UX).
+    `,
+    subjectResume: `Apresentação de UX, da empresa e de vagas.
+    `,
+    img: '',
+    customSize: '100%',
+    datentime: {
+      date: '09/05',
+      time: '08:00 - 09:30 ',
+      place: 'YouTube'
+    }
+  },
+  {
+    name: 'José Assumpção Rodrigues de Almeida',
+    institution: 'Superintendente de Tecnologia da Informação da ANAC',
+    speaking: 'Agência Nacional de Aviação Civil',
+    description: `Possui mestrado em Engenharia de Produção pela Universidade de São Paulo – USP (2009). Graduação em Engenharia de Produção pela Universidade de São Paulo – USP (2006). Atualmente é Gerente de Sistemas e Informações da Superintendência de Tecnologia da Informação da Agência Nacional de Aviação Civil - ANAC (2018-presente), e instrutor das disciplinas de Gestão de Processos com Foco em Inovação (2017-presente) e Análise e Melhoria de Processos (2012-presente) da Escola Nacional de Administração Pública - ENAP. Possui cargo efetivo de Especialista em Regulação de Aviação Civil da ANAC (2010-presente). Anteriormente foi Gerente Técnico de Escritório de Processos (2015-2018) e Gerente Técnico de Planejamento Institucional (2014-2015) da Superintendência de Planejamento Institucional da ANAC, Gerente Técnico de Processos e Capacitação (2012-2014) da Superintendência de Infraestrutura Aeroportuária da ANAC, Professor Substituto da Universidade Estadual Júlio de Mesquita Filho - UNESP (2008-2009), Gerente de Projetos de Manufatura Enxuta (2007-2009) da Proenx Consultoria e Treinamento Empresarial e Coordenador de Projetos de Manufatura Enxuta (2006-2007) da Hominiss Lean Consulting. Tem experiência na área de Gestão de Processos, Fluxos de Informação, Melhoria Organizacional, Desenvolvimento de Sistemas, Lean Office, Governança de Dados, Gestão por Competências e Regulação Pública.
+    `,
+    subjectResume: `
+    `,
+    img: '',
+    customSize: '100%',
+    datentime: {
+      date: '09/05',
+      time: '10:00 - 11:30 ',
+      place: 'YouTube'
+    }
+  },
+  {
+    name: 'Luan Fernandes Barcelos',
+    institution: 'Syncode Sistemas e Tecnologia',
+    speaking: `"Na minha máquina funciona": Desenvolvendo em docker para nunca mais ter estes problemas.
+    `,
+    description: `Graduando em análise e desenvolvimento de sistemas na PUC-GO e Programador Backend Trainee com 2 anos de experiencia em desenvolvimento backend de aplicações web em python e infra. Experiencia em desenvolvimento e uso de linux.
+    `,
+    subjectResume: `Motivação de uso e introdução ao docker. Criando containers a partir de imagens oficiais. Criando suas próprias imágens. Comunicação de máquina local com docker e docker com docker. Encerramento com exemplo de uso real.
+    `,
+    img: '/assets/img/speakers/Luan_Fernandes_Provisorio.jpg',
+    customSize: '100%',
+    datentime: {
+      date: '09/05',
+      time: '17:00 - 18:30',
+      place: 'Laboratório 101, bloco C, Área II'
+    }
+  },
+  /* PROVISORIO FALTA DADOS
+  {
+    name: 'Plano D Design de produtos e Moov arquitetura e interiores',
+    institution: 'Plano D Design de produtos e Moov arquitetura e interiores',
+    speaking: 'Experiências de Arquitetura e Design em sintonia – O design de mobiliário e o ambiente',
+    description: `Plano D Design de produtos  
+
+    Design autoral brasileiro. 
+    
+    Através da experiência proporcionada pelos produtos, acreditamos ter a capacidade de poder interferir positivamente na vida e no propósito das pessoas. Pessoas que movem e são o sustento físico do nosso imenso universo concreto e criativo. 
+    
+    Viver design, respirar design, conviver com o design é entender o mundo e como ele funciona, como podemos melhorá-lo.  
+    
+    O design é humano e ser designer é uma escolha feita por amor e prazer de ver acontecer e fazer funcionar. Isso é ser Plano D. 
+    
+    Moov arquitetura e interiores 
+    
+    O Studio Moov abre as portas sob um olhar diferenciado na produção de arquitetura, urbanismo, design de ambientes e produtos. Composto por três amigos e parceiros profissionais, nossas prioridades são os desejos e individualidade de cada usuário, com base nos pilares que sustentam nosso conceito: design | emoção | movimento. Enxergamos através destes conceitos que a arquitetura e o design podem mover e transformar a vida das pessoas. 
+    `,
+    subjectResume: `A palestra aborda o case do desenvolvimento de peças com design autoral e projeto inovador para a ambientação de um espaço Casa Cor trabalhado por meio da arquitetura de ambientes. Receberemos os egressos de ambos os cursos para falarem de suas experiências profissionais e da ligação importante entre as áreas de atuação e de formação originais da PUC Goiás.
+    `,
+    img: '',
+    customSize: '100%',
+    datentime: {
+      date: '09/05',
+      time: '08:30 - 10:00',
+      place: 'Auditório Marisa Roriz, Área III'
+    }
+  },*/
 
 ]
 

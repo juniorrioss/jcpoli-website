@@ -56,7 +56,7 @@ export default class Dates extends Vue {
     {
       date: '12 a 29 de Abril',
       event: 'Período para encaminhamento dos artigos',
-      disabled: false
+      disabled: true
     },
     {
       date: 'até 06 de Maio',

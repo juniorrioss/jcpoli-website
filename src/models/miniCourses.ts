@@ -29,7 +29,7 @@ const Courses_Civil = [
     desc: `XXXXXXX`,
     date: "09/05",
     time: "15:00-16:30",
-    place: "Online: Microsoft Teams"
+    place: "Microsoft Teams"
   },  
   {
     title: "Smath Studio: aplicações em cálculos de Engenharia",
@@ -38,7 +38,7 @@ const Courses_Civil = [
     desc: `Requisito: Realizar download e instalação prévia do Smath Studio pelo link https://en.smath.com/view/SMathStudio/summary `,
     date: "10/05",
     time: "14:00-18:00",
-    place: "Online: Microsoft Teams"
+    place: "Microsoft Teams"
   },
   {
     title: "Simulação de degradação e ensaios de desempenho como ferramentas para a inspeção predial",
@@ -64,7 +64,7 @@ const Courses_Computacao = [
   {
     title: '"Na minha máquina funciona": Desenvolvendo em docker para nunca mais ter este problemas',
     instructor: "Luan Fernandes Barcelos",
-    institution: "Syncode Systemas",
+    institution: "Syncode Sistemas e Tecnologia",
     desc: `Motivação de uso e introdução ao docker. Criando containers a partir de imagens oficiais. 
         Criando suas próprias imágens. Comunicação de maquina local com docker e docker com docker. 
         Encerramento com exemplo de uso real.`,
