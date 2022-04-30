@@ -624,4 +624,14 @@ export default class SubmissionRules extends mixins(LoaderMixin) {
 .info-arquivo {
   margin-top: 3rem;
 }
+
+@media screen and (max-width: 576px) {
+  .row {
+    flex-direction: column-reverse;
+  }
+
+  .col-md-5 {
+    margin-bottom: 3rem;
+  }
+}
 </style>
