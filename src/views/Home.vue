@@ -204,7 +204,7 @@ export default class Home extends Vue {
         datentime: {
           date: '10/05',
           time: '17:00 - 18:30',
-          place: 'Online: Microsoft Teams'
+          place: 'Microsoft Teams'
         }
       },
 
@@ -222,7 +222,7 @@ export default class Home extends Vue {
         datentime: {
           date: '10/05',
           time: '10:00 - 11:30',
-          place: 'Online: Microsoft Teams'
+          place: 'Microsoft Teams'
         }
       },
 
@@ -341,7 +341,8 @@ export default class Home extends Vue {
       {
         name: 'Alexandre Pontes de Queiroz',
         institution: 'Invillia/Pagseguro',
-        speaking: 'Domain-Driven Design - Principais Conceitos e algumas provocações',
+        speaking:
+          'Domain-Driven Design - Principais Conceitos e algumas provocações',
         description: `Sou desenvolvedor back-end, com 2 anos de experiência em desenvolvimento web. Trabalho em algumas aplicações com grande tráfego (da ordem de milhões de visitas diárias). Possuo sólidos conhecimentos em programação orientada a objetos, containers (Docker, Kubernetes), Java (Spring Boot, Spring Data JPA, Spring Cloud, Spring Security), uso de tecnologias de Mensageria (RabbitMQ, Kafka) e de Observabilidade (New Relic, Splunk). Tenho interesse em escalabilidade de aplicações, infraestrutura, melhores práticas de desenvolvimento, bem como TDD e técnicas associadas como Clean Code e SOLID. 
               Trabalho há mais de 1 ano na Invillia em parceria com a Pagseguro. De outubro de 2019 a março de 2020 fui estagiário em documentação e testes de software na Siagri Software para o Agronegócio (hoje com o nome de Aliare). 
               Graduado na PUC GOIÁS no curso de Tecnologia em Análise e Desenvolvimento de Sistemas. 
@@ -360,8 +361,10 @@ export default class Home extends Vue {
 
       {
         name: 'Marcos Costa de Freitas',
-        institution: 'Marcos Costa – designer, artista e professor independente e PUC Goiás',
-        speaking: 'Povos primordiais – o resgate inédito da imagem de etnias desaparecidas',
+        institution:
+          'Marcos Costa – designer, artista e professor independente e PUC Goiás',
+        speaking:
+          'Povos primordiais – o resgate inédito da imagem de etnias desaparecidas',
         description: `Mestre em História pela PUC-GO na área de concentração de Cultura e Poder; Bacharel em Artes Visuais / Comunicação Visual,
                pela Universidade Federal de Goiás. Professor no ensino superior de design há 23 anos. Atuou como coordenador por 13 anos, 
                participou da elaboração de Planos de Desenvolvimento Institucional e Projetos Pedagógicos de vários cursos, atuou em CPA, CONSUP, CIPA e Conselho Técnico Científico de diversas IES. 
@@ -381,7 +384,8 @@ export default class Home extends Vue {
       {
         name: 'Maria Cristina Nunes F. Neto',
         institution: '',
-        speaking: 'Povos primordiais – o resgate inédito da imagem de etnias desaparecidas',
+        speaking:
+          'Povos primordiais – o resgate inédito da imagem de etnias desaparecidas',
         description: `Graduada em História pela Universidade Federal de Uberlândia (1995), Mestrado em História pela Universidade Estadual de Campinas (1998) e Doutorado em História pela Universidade Estadual de Campinas (2002). Atualmente é professora adjunto da Pontifícia Universidade Católica de Goiás (PUC-GO), no Mestrado de História, nos cursos de graduação de História e Relações Internacionais.   
 `,
         subjectResume: `A palestra aborda o mesmo tema da exposição que deve abrir na mesma data. Será uma mesa redonda com mediação feita pela coordenadora do curso de Design, Genilda Alexandria, sobre o trabalho de pesquisa, levantamento histórico e reprodução artística em carvão dos desenhos de Marcos Costa. A participação do IGPA fará o evento interdisciplinar, fortalecendo o vínculo com o fazer científico e com a conexão antropológica do tema.
@@ -441,7 +445,7 @@ export default class Home extends Vue {
           time: '17:00 - 18:30',
           place: 'Laboratório 101, bloco C, Área II'
         }
-      },
+      }
     ]
   }
 
