@@ -426,20 +426,6 @@ const Palestras_IniciacaoCientifica = [
   },
 ]
 
-export interface PalestraProp{
-  
-    curso: string;
-    palestras: {
-        title: string;
-        instructor: string;
-        institution: string;
-        desc: string;
-        date: string;
-        time: string;
-        place: string;
-    }[];
-}[]
-
 export const Palestras_Cursos = [
 
   {

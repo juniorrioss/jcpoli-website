@@ -39,10 +39,7 @@ import Main from '../components/organization/Main.vue'
 import MiniCourse from '../components/miniCourse/index.vue'
 import SectionCourse from '../components/organization/SectionCourse.vue'
 
-import {
-  Palestras_Cursos,
-  PalestraProp
-} from '@/storage/programacao/palestras_new'
+import { Palestras_Cursos } from '@/storage/programacao/palestras_new'
 
 @Component({
   components: {
@@ -52,8 +49,8 @@ import {
   }
 })
 export default class Palestras extends Vue {
-  private all_palestras: PalestraProp
-  private filtered_palestras: PalestraProp
+  private all_palestras
+  private filtered_palestras
 
   private title = 'Palestras'
   private description = 'Palestras da jornada'
