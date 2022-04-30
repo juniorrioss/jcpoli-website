@@ -29,7 +29,7 @@ const Courses_Civil = [
     desc: `XXXXXXX`,
     date: "09/05",
     time: "15:00-16:30",
-    place: "Online: Microsoft Teams"
+    place: "Microsoft Teams"
   },  
   {
     title: "Smath Studio: aplicações em cálculos de Engenharia",
@@ -38,7 +38,7 @@ const Courses_Civil = [
     desc: `Requisito: Realizar download e instalação prévia do Smath Studio pelo link https://en.smath.com/view/SMathStudio/summary `,
     date: "10/05",
     time: "14:00-18:00",
-    place: "Online: Microsoft Teams"
+    place: "Microsoft Teams"
   },
   {
     title: "Simulação de degradação e ensaios de desempenho como ferramentas para a inspeção predial",
