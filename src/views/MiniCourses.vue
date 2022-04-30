@@ -49,12 +49,13 @@ import { miniCourses_Section } from '@/models/miniCourses'
 })
 export default class MiniCourses extends Vue {
   private coursesList: any
+  private filtered_courses: any
 
   private title = 'Minicursos'
   private description = 'Minicursos da jornada'
   private background = 'assets/img/lab.jpg'
 
-  filterCourses(e) {
+  filterCourses(e: any) {
     let data = e.target.innerText
     this.filtered_courses = this.coursesList.map(item => {
       const minicurso = item.minicurso.filter(aux => {
