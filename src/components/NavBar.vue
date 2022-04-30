@@ -37,12 +37,12 @@
 
       <div class="nav-date">
         <span class="desktop" :style="{ textAlign: 'right' }">
-          De 9 a 11 de Maio/2022
+          De 9 a 11 de Maio de 2022
           <br />PUC Goiás <br />Goiânia-GO
         </span>
 
         <span class="mobile sm-device">
-          De 9 a 11 de Maio/2022 PUC Goiás Goiânia-GO
+          De 9 a 11 de Maio de 2022 PUC Goiás Goiânia-GO
         </span>
       </div>
 
@@ -79,6 +79,7 @@ export default class NavBar extends Vue {}
 
 <style scoped>
 #logo {
+  left: -6rem;
   height: 5rem;
 }
 
