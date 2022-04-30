@@ -87,7 +87,7 @@ export const ComiteListCientific =
     },
     {
       coordenador: 'Marcos Lajovic Carneiro',
-      area: 'Pós-Doutorado em Engenharia Elétrica - UBO'
+      area: 'Pós-Doutorado em Engenharia Elétrica - UBO/França'
     },
     {
       coordenador: 'Arlindo Rodrigues Galvão Filho',
