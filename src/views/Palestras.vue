@@ -106,7 +106,7 @@ export default class Palestras extends Vue {
 }
 
 .button {
-  width: 20%;
+  width: 15%;
   padding: 1rem;
   border: 0.1rem solid white;
   border-radius: 5rem;
@@ -118,6 +118,12 @@ export default class Palestras extends Vue {
 }
 
 .button:hover {
+  background-color: #20407d;
+  transform: background-color;
+  transform: scale(1.1);
+}
+
+.button:focus {
   background-color: #20407d;
   transform: background-color;
   transform: scale(1.1);

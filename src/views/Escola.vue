@@ -542,6 +542,98 @@ export default class Escola extends Vue {
           place: 'YouTube'
         }
       },
+      {
+        name: 'Hector Grecco',
+        institution: 'CTO na Suney (@suneybr)',
+        speaking: `Hackeando o transporte público: Como descobri uma falha de segurança que me deixaria andar de metrô de graça para sempre.
+        `,
+        description: `Engenheiro de Software com foco em Fintechs e Pesquisador de Segurança da Informação nas horas vagas com passagens por empresas como PagSeguro, 
+                  Kovi e EBANX. Atualmente é co-fundador e CTO da Suney: uma fintech de crédito para energia solar. Formado em Análise de Sistemas (PUC/GO e UCB) e Pós-Graduando em Computação Forense e Perícia Digital (IPOG).
+        `,
+        subjectResume: `Os ouvintes aprenderão um pouco sobre como funciona a área de Segurança da Informação nas grandes empresas, alguns tipos de ataques hacker, como começar na área e por fim o caso de 
+                  como hackeei o sistema de tickets de metrô de uma grande capital brasileira e quais seriam as consequências disso caso tivesse sido feito por um hacker malicioso.
+        `,
+        img: '',
+        customSize: '100%',
+        datentime: {
+          date: '09/05',
+          time: '20:30 - 22:00',
+          place: 'Auditório 1, área II'
+        }
+      },
+      {
+        name: 'Paulo Alexandre Bernardo dos Santos Nunes',
+        institution: 'Manager, Junior Talent Unit (JTU)',
+        speaking: `
+        `,
+        description: `Paulo Nunes está focado nos mercados internacionais, nomeadamente norte da Europa, América e Médio Oriente. Paulo Nunes lidera também a Junior Talent Unit (JTU), gerindo a formação e programas de recrutamento. 
+        `,
+        subjectResume: `
+        `,
+        img: '/assets/img/speakers/Paulo_Nunes_Provisorio.jpg',
+        customSize: '100%',
+        datentime: {
+          date: '09/05',
+          time: '19:00 - 20:30',
+          place: 'Auditório 1, área II'
+        }
+      },
+      {
+        name: 'José Hosanan Inácio',
+        institution: 'Megasoft Informática',
+        speaking: `Automação Residencial Uma Realidade de Futuro.
+        `,
+        description: `Graduado em Engenharia de Computação, PUC-GO, desenvolvedor de Sistemas Senior, Diretor Técnico da Megasoft Informática, empresa especializada em desenvolvimento de Sistemas para gestão pública e 
+                  integração das Prefeituras aos Tribunais de Contas, Pós Graduando em Growth Hacking & Agile Mindset pela HSM University.
+        `,
+        subjectResume: `Abordagem dos conceitos de automação, internet das coisas, algumas novidades atuais e a tendência do mercado.
+        `,
+        img: '/assets/img/speakers/Jose_Hosanan_Provisorio.png',
+        customSize: '100%',
+        datentime: {
+          date: '10/05',
+          time: '10:00 - 11:30 ',
+          place: 'Auditório 3, área II'
+        }
+      },
+      {
+        name: 'Paula Leocadio',
+        institution: 'Universidade de Cork - Irlanda',
+        speaking: `Internacionalização na área de Design – série Trajetórias, com Paula Leocadio.
+        `,
+        description: `Atualmente phd researcher at university college cork. 
+                  Certificada com proficiência em Comunicação Visual e Design pela Assabet Valley Regional Technical High School de Marlborough, MA nos EUA e Bacharel com excelência em Design Gráfico, Produtos e Ambientes pela PUC Goiás. 
+                  Destacando também por méritos na movimentação estudantil da cidade. Idealizadora e organizadora da Semana Integrada de Design - seintegra! 2013 e Comissão Organizadora do Encontro Nacional de Estudantes de Design, N_Design 2014. 
+                  Selecionada pelo Edital Conexão Cultura Intercâmbios realizado pelo Ministério da Cultura para sua capacitação profissional no curso Design Contemporâneo Italiano e Tendências no Istituto Europeu di Design Milano.
+        `,
+        subjectResume: `A palestra aborda a trajetória da egressa do curso de Design da PUC Goiás e suas experiências exitosas em atividades profissionais e acadêmicas internacionalmente.
+        `,
+        img: '/assets/img/speakers/Paula_Leocadio_Provisorio.jpg',
+        customSize: '100%',
+        datentime: {
+          date: '10/05',
+          time: '10:30 - 12:00',
+          place: 'YouTube'
+        }
+      },
+      {
+        name: 'Nivia Barboza Ferreira',
+        institution: 'Auckland University of Technology - Aotearoa/New Zealand',
+        speaking: `Internacionalização na área de Design – série Trajetórias, com Nivia Boz
+        `,
+        description: `Nivia Ferreira, designer de UX/UI, pesquisadora e palestrante com interesse particular em Artes e Design. Possuo mestrado, com dissertação sobre game design e experiência do jogador, e sou doutorando, 
+                  com tese sobre game design e neurociência, ambos em Design pela Universidade Anhembi Morumbi (UAM-SP), Brasil. Sou bacharel em Design de Comunicação pela Pontifícia Universidade Católica de Goiás (PUC-GO) com pesquisa prática sobre interfaces para plataformas de e-learning. 
+        `,
+        subjectResume: `A palestra aborda a trajetória da egressa do curso de Design da PUC Goiás e suas experiências exitosas em atividades profissionais e acadêmicas internacionalmente. 
+        `,
+        img: '/assets/img/speakers/user-vector-woman.jpg',
+        customSize: '100%',
+        datentime: {
+          date: '10/05',
+          time: '08:30 - 10:00',
+          place: 'YouTube'
+        }
+      },
     ]
   }
 }
