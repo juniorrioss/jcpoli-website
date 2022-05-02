@@ -72,11 +72,25 @@ const router = new Router({
       component: () =>
         import(/* webpackChunkName: "minicurso" */ "./views/Palestras.vue")
     },
+
+
+    {
+      path: "/programacao",
+      component: () =>
+        import(/* webpackChunkName: "programacao" */ "./views/Programacao.vue")
+    },
+    {
+      path: "/competicoes",
+      component: () =>
+        import(/* webpackChunkName: "programacao" */ "./views/Competicao.vue")
+    },
     {
       path: "*",
       component: () =>
         import(/* webpackChunkName: "ops" */ "./views/four04.vue")
     },
+
+
 
     /* REMOVE PATH JGES
     {
@@ -86,11 +100,7 @@ const router = new Router({
     },
     */
    
-    {
-      path: "/programacao",
-      component: () =>
-        import(/* webpackChunkName: "programacao" */ "./views/Programacao.vue")
-    },
+    
   ]
 });
 
