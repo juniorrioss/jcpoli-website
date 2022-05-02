@@ -14,6 +14,7 @@
         <router-link to="/escola" tag="li">Escola</router-link>
         <router-link to="/palestras" tag="li">Palestras</router-link>
         <router-link to="/minicursos" tag="li">Minicursos</router-link>
+        <router-link to="/competicoes" tag="li">Competições</router-link>
         <router-link to="/exposicoes" tag="li">Exposições</router-link>
 
         <!--
@@ -58,7 +59,7 @@
         <router-link to="/escola" tag="li">Escola</router-link>
         <router-link to="/palestras" tag="li">Palestras</router-link>
         <router-link to="/minicursos" tag="li">Minicursos</router-link>
-        <!--<router-link to="/competicoes" tag="li">Competições</router-link>-->
+        <router-link to="/competicoes" tag="li">Competições</router-link>
         <router-link to="/exposicoes" tag="li">Exposições</router-link>
 
         <!--

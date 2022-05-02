@@ -73,17 +73,7 @@ const Courses_Computacao = [
     place: "Lab. 101C, área II",
   },
 
-//======================= DIA 11/05 ==============================//
 
-  {
-    title: 'Atividade: Maratona de Programação',
-    instructor: "Prof Alexandre/Prof.ª Carmen",
-    institution: "PUC Goiás",
-    desc: ``,
-    date: "11/05",
-    time: "18:00-22:00",
-    place: "Lab. 101C a 105C, área II",
-  },
 ]
 
 const Courses_Producao = [

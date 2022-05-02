@@ -212,7 +212,7 @@ const Palestras_Mestrado = [
     desc: `Abordaremos o potencial da tecnologia, o que já foi feito e o que está sendo desenvolvido para o nosso benefício.`,
     date: "10/05",
     time: "10:00-11:30",
-    place: "Online",     //CONFIRMAR PLATAFORMA
+    place: "YouTube",
   },
   {
     title: "Impressão 3D com a empresa nacional GTMax",
