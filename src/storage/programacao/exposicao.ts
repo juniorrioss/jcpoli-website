@@ -9,7 +9,7 @@ const Exposicao_Design = [
   `,
   date: "09/05 até 11/05",
   time: "XXXX",
-  place: "Proa, Área II",
+  place: "PROA, Área II",
   image: "assets/img/slider/expo_design.jpeg"
   },
 ]

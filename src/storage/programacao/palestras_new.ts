@@ -359,11 +359,11 @@ const Palestras_Civil = [
 const Palestras_ArquiteturaUrbanismo = [
   {
     title: "Experiências de Arquitetura e Design em sintonia – O design de mobiliário e o ambiente ",
-    instructor: `Fernando Felipe, 
+    instructor: `Fernando Felipe,
     Thiago Ribeiro, 
-    Vanessa Machado (egressos do curso de Design da PUC Goiás), 
+    Vanessa Machado, 
     Vanusa Machado, 
-    Guilherme Barbosa (egressos do curso de Arquitetura e Urbanismo da PUC Goiás)
+    Guilherme Barbosa
     `,
     institution: "Plano D Design de produtos e Moov arquitetura e interiores",
     desc: `A palestra aborda o case do desenvolvimento de peças com design autoral e projeto inovador para a ambientação de um 
