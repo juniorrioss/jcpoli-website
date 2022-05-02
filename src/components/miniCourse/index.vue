@@ -23,7 +23,7 @@
         <i class="fas fa-map-marker-alt"></i>
         <div>{{ course.date }}</div>
         <div>{{ course.time }}</div>
-        <div>{{ course.place }}</div>
+        <div><a :href="course.link" target="_blank">{{ course.place }}</a></div>
       </div>
     </div>
 
