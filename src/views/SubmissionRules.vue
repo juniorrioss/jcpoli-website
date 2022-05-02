@@ -634,4 +634,8 @@ export default class SubmissionRules extends mixins(LoaderMixin) {
     margin-bottom: 3rem;
   }
 }
+
+.v-btn {
+  width: 50%;
+}
 </style>
