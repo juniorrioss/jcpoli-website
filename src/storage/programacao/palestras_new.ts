@@ -39,7 +39,7 @@ const Palestras_Computacao = [
   //======================= DIA 10/05 ==============================//
 
   {
-    title: "O que são e o que fazem osUx/Ui Designers",
+    title: "O que são e o que fazem os Ux/Ui Designers",
     instructor: "Vitor Paulo David da Silva Filho",
     institution: "Hand Talk",
     desc: `Nesta palestra iremos conversar um pouco sobre a área de atuação do Ux/Ui Design. Como é o dia a dia desses profissionais 
