@@ -7,7 +7,7 @@
           :key="index"
           class="exposicoes"
         >
-          <h3 class="section-course">{{ props.curso }}</h3>
+          <!--<h3 class="section-course">{{ props.curso }}</h3>-->
 
           <div class="title">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512">
@@ -183,7 +183,35 @@ svg {
   text-transform: capitalize;
 }
 
-.container {
-  display: flex;
+@media screen and (max-width: 425px) {
+  .desc {
+    display: flex;
+    flex-direction: column;
+    width: 80vw;
+    flex-wrap: wrap;
+  }
+
+  .title {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+  }
+  .title svg {
+    height: 3rem;
+    margin-right: 1.5rem;
+  }
+
+  .title h3 {
+    font-size: 1.5rem;
+  }
+
+  .desc-text {
+    display: block;
+    margin-top: 1.5rem;
+  }
+
+  .desc img {
+    margin-right: 0;
+  }
 }
 </style>
