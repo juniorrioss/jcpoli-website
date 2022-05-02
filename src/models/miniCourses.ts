@@ -70,11 +70,7 @@ const Courses_Computacao = [
         Encerramento com exemplo de uso real.`,
     date: "09/05",
     time: "17:00-18:30",
-<<<<<<< HEAD
     place: "Lab. 101C, área II",
-=======
-    place: "Lab. 101-C, área II",
->>>>>>> 7b0017f040b1175c576cf5cc729d22144ae02390
   },
 
 //======================= DIA 11/05 ==============================//
@@ -98,11 +94,7 @@ const Courses_Producao = [
     desc: `Apresentação de UX, da empresa e de vagas.`,
     date: "10/05",
     time: "08:00-09:30",
-<<<<<<< HEAD
     place: "Auditório 2, área II",
-=======
-    place: "Auditório 2, Área II",
->>>>>>> 7b0017f040b1175c576cf5cc729d22144ae02390
   },
 ]
 
@@ -114,11 +106,7 @@ const Courses_Caer = [
     desc: ``,
     date: "10/05",
     time: "13:30-17:00",
-<<<<<<< HEAD
     place: "Auditório 2, área II",
-=======
-    place: "Auditório 2, Área II",
->>>>>>> 7b0017f040b1175c576cf5cc729d22144ae02390
   },
   {
     title: "Estrutura do Espaço Aéreo Brasileiro",
@@ -127,11 +115,7 @@ const Courses_Caer = [
     desc: ``,
     date: "11/05",
     time: "13:30-17:00",
-<<<<<<< HEAD
     place: "Auditório 2, área II",
-=======
-    place: "Auditório, Área II",
->>>>>>> 7b0017f040b1175c576cf5cc729d22144ae02390
   },
 ]
 

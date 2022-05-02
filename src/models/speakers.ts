@@ -143,7 +143,7 @@ Palestra sobre a situação atual dos transplantes no Brasil e em Goiás e sobre
     datentime: {
       date: "10/05",
       time: "19:00 - 20:30",
-      place: "Auditório 2, Área II",
+      place: "Auditório 2, área II",
     },
   },
 
@@ -220,7 +220,7 @@ Palestra sobre a situação atual dos transplantes no Brasil e em Goiás e sobre
     datentime: {
       date: "10/05",
       time: "20:30 - 22:00",
-      place: "Auditório 2, Área II",
+      place: "Auditório 2, área II",
     },
   },
   {
@@ -230,7 +230,7 @@ Palestra sobre a situação atual dos transplantes no Brasil e em Goiás e sobre
     description: `Mestre em História pela PUC-GO na área de concentração de Cultura e Poder; Bacharel em Artes Visuais / Comunicação Visual,
            pela Universidade Federal de Goiás. Professor no ensino superior de design há 23 anos. Atuou como coordenador por 13 anos, 
            participou da elaboração de Planos de Desenvolvimento Institucional e Projetos Pedagógicos de vários cursos, atuou em CPA, CONSUP, CIPA e Conselho Técnico Científico de diversas IES. 
-           Foi membro da Comissão Assessora de Área do Exame Nacional de Desempenho dos Estudantes — Enade, de Tecnologia em Design Gráfico 2018 e 2019.
+           Foi membro da Comissão Assessora de área do Exame Nacional de Desempenho dos Estudantes — Enade, de Tecnologia em Design Gráfico 2018 e 2019.
            Foi docente na UFG, PUC-GO e Faculdade Senac GO. Desenvolve pesquisas e trabalhos visuais a partir do resgate da imagem de povos originários do Brasil.   
 `,
     subjectResume: `A palestra aborda o mesmo tema da exposição que deve abrir na mesma data. Será uma mesa redonda com mediação feita pela coordenadora do curso de Design, Genilda Alexandria, sobre o trabalho de pesquisa, levantamento histórico e reprodução artística em carvão dos desenhos de Marcos Costa. A participação do IGPA fará o evento interdisciplinar, fortalecendo o vínculo com o fazer científico e com a conexão antropológica do tema.
@@ -240,7 +240,7 @@ Palestra sobre a situação atual dos transplantes no Brasil e em Goiás e sobre
     datentime: {
       date: '09/05',
       time: '10:30 - 12:00',
-      place: 'Auditório Marisa Roriz, Área III'
+      place: 'Auditório Marisa Roriz, área III'
     }
   },
   {
@@ -256,7 +256,7 @@ Palestra sobre a situação atual dos transplantes no Brasil e em Goiás e sobre
     datentime: {
       date: '09/05',
       time: '10:30 - 12:00',
-      place: 'Auditório Marisa Roriz, Área III'
+      place: 'Auditório Marisa Roriz, área III'
     }
   },
   {
@@ -305,7 +305,7 @@ Palestra sobre a situação atual dos transplantes no Brasil e em Goiás e sobre
     datentime: {
       date: '09/05',
       time: '17:00 - 18:30',
-      place: 'Laboratório 101, bloco C, Área II'
+      place: 'Laboratório 101, bloco C, área II'
     }
   },
   {
@@ -355,7 +355,7 @@ Palestra sobre a situação atual dos transplantes no Brasil e em Goiás e sobre
     datentime: {
       date: '09/05',
       time: '08:30 - 10:00',
-      place: 'Auditório Marisa Roriz, Área III'
+      place: 'Auditório Marisa Roriz, área III'
     }
   },*/
 
@@ -395,7 +395,7 @@ const speakers = [
     datentime: {
       date: "11/11",
       time: "20:00 - 22:00",
-      place: "Auditório I, Área II",
+      place: "Auditório I, área II",
     },
   },
   {
@@ -443,7 +443,7 @@ const speakers = [
     datentime: {
       date: "12/11",
       time: "09:00 - 10:40",
-      place: "Auditório I, Área II",
+      place: "Auditório I, área II",
     },
   },
   {
@@ -489,7 +489,7 @@ const speakers = [
     datentime: {
       date: "11/11",
       time: "19:00 - 22:00",
-      place: "Auditório I, Área II",
+      place: "Auditório I, área II",
     },
   },
   {
@@ -524,7 +524,7 @@ uma abordagem STEAM`,
     datentime: {
       date: "12/11",
       time: "19:00 - 22:00",
-      place: "Auditório II, Área II",
+      place: "Auditório II, área II",
     },
   },
   {
@@ -573,7 +573,7 @@ uma abordagem STEAM`,
     datentime: {
       date: "12/11",
       time: "19:00 - 20:40",
-      place: "Auditório III, Área II",
+      place: "Auditório III, área II",
     },
   },
   {
@@ -599,7 +599,7 @@ uma abordagem STEAM`,
     datentime: {
       date: "13/11",
       time: "09:00 - 10:40",
-      place: "Auditório I, Área II",
+      place: "Auditório I, área II",
     },
   },
   {
@@ -633,7 +633,7 @@ uma abordagem STEAM`,
     datentime: {
       date: "13/11",
       time: "19:00 - 20:40",
-      place: "Auditório I, Área II",
+      place: "Auditório I, área II",
     },
   },
   {
@@ -660,7 +660,7 @@ uma abordagem STEAM`,
     datentime: {
       date: "13/11",
       time: "19:00 - 20:40",
-      place: "Auditório II, Área II",
+      place: "Auditório II, área II",
     },
   },
   {
@@ -693,7 +693,7 @@ uma abordagem STEAM`,
     datentime: {
       date: "13/11",
       time: "19:00 - 20:40",
-      place: "Auditório III, Área II",
+      place: "Auditório III, área II",
     },
   },
   {
@@ -727,7 +727,7 @@ uma abordagem STEAM`,
     datentime: {
       date: "14/11",
       time: "09:00 - 10:40",
-      place: "Auditório I, Área II",
+      place: "Auditório I, área II",
     },
   },
   {
@@ -767,7 +767,7 @@ uma abordagem STEAM`,
     datentime: {
       date: "14/11",
       time: "19:00 - 20:40",
-      place: "Auditório I, Área II",
+      place: "Auditório I, área II",
     },
   },
   {
@@ -786,7 +786,7 @@ professores de química`,
     datentime: {
       date: "14/11",
       time: "19:00 - 22:00",
-      place: "Auditório II, Área II",
+      place: "Auditório II, área II",
     },
   },
   {
@@ -803,7 +803,7 @@ professores de química`,
     datentime: {
       date: "14/11",
       time: "19:00 - 22:00",
-      place: "Auditório III, Área II",
+      place: "Auditório III, área II",
     },
   },
 ];
