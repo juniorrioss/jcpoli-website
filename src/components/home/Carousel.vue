@@ -14,24 +14,32 @@
                 <!--<img src="assets/img/logo-clean.webp" class="logo" />
                 <img src="assets/img/logo-clean.webp" class="logo back" />
                 <img src="assets/img/logo.png" class="logo-opacity" />-->
-
-                <div>
-                  <span class="date">09 a 11 de Maio</span>
+                <div class="logo-container">
+                  <img
+                    id="cienciaemcasa"
+                    src="assets/img/circuitoemcasa-removebg.png"
+                  />
+                  <img id="logo" src="assets/img/logo.png" />
                 </div>
-                <hr />
                 <div>
-                  <span class="jcecec">I JCPOLI</span>
-                </div>
-                <div>
-                  <span class="jcecec-sub">
-                    Jornada Científica da Escola Politécnica
-                  </span>
-                </div>
-                <hr />
-                <div>
-                  <span id="description">
-                    CULTURA, INOVAÇÃO e EMPREENDEDORISMO
-                  </span>
+                  <div>
+                    <span class="date">09 a 11 de Maio</span>
+                  </div>
+                  <hr />
+                  <div>
+                    <span class="jcecec">I JCPOLI</span>
+                  </div>
+                  <div>
+                    <span class="jcecec-sub">
+                      Jornada Científica da Escola Politécnica
+                    </span>
+                  </div>
+                  <hr />
+                  <div>
+                    <span id="description">
+                      CULTURA, INOVAÇÃO e EMPREENDEDORISMO
+                    </span>
+                  </div>
                 </div>
               </div>
             </v-layout>
@@ -68,14 +76,23 @@ export default class Carousel extends Vue {
 </script>
 
 <style scoped>
-.banner {
-  background-color: #2364adc4;
-  color: #fff;
+.logo-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+
+  align-items: flex-end;
+  width: 5rem;
+  margin-right: 1rem;
+  margin-left: 0;
 }
 
-.logo-opacity {
-  opacity: 30%;
-  height: 10rem;
+.banner {
+  display: flex;
+  background-color: #2364adc4;
+  color: #fff;
+  position: relative;
+  padding: 3rem 6rem 3rem 4rem;
 }
 
 @media screen and (max-width: 576px) {
@@ -103,13 +120,11 @@ export default class Carousel extends Vue {
 }
 
 #logo {
-  width: 10%;
-  height: 10%;
+  width: 5.5rem;
 }
 
-.banner {
-  position: relative;
-  padding: 3rem 6rem;
+#cienciaemcasa {
+  width: 5.5rem;
 }
 
 hr {
