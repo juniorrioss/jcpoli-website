@@ -489,21 +489,6 @@ export default class Escola extends Vue {
         }
       },
       {
-        name: 'Sylvia Madeira',
-        institution: 'Coordenadora de UX design na Gauge/Stefanini Group',
-        speaking: 'Qual a função do UX design em uma empresa?',
-        description: `Bacharel em Publicidade e propaganda-Comunicação Social, Pós Graduação Administração, Gama Academy UX Design; Voluntária: Ponto Focal do Medium LTUX – Redatora e Editora de Conteúdo (Ladies UX).
-        `,
-        subjectResume: `Apresentação de UX, da empresa e de vagas.
-        `,
-        img: '',
-        customSize: '100%',
-        datentime: {
-          date: '09/05',
-          time: 'YouTube'
-        }
-      },
-      {
         name: 'José Assumpção Rodrigues de Almeida',
         institution: 'Superintendente de Tecnologia da Informação da ANAC',
         speaking: 'Agência Nacional de Aviação Civil',
