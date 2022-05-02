@@ -39,7 +39,7 @@ const Palestras_Computacao = [
   //======================= DIA 10/05 ==============================//
 
   {
-    title: "O que são e o que fazem os Ux/Ui Designers",
+    title: "O que são e o que fazem osUx/Ui Designers",
     instructor: "Vitor Paulo David da Silva Filho",
     institution: "Hand Talk",
     desc: `Nesta palestra iremos conversar um pouco sobre a área de atuação do Ux/Ui Design. Como é o dia a dia desses profissionais 
@@ -68,6 +68,7 @@ const Palestras_Computacao = [
     date: "10/05",
     time: "19:00-20:30",
     place: "YouTube",
+    link: "https://www.youtube.com/watch?v=eJ5UYk4ByoQ&ab_channel=PUCGoi%C3%A1s"
   },
   {
     title: "XXXXXXXXXXXXXXXX",
@@ -101,6 +102,7 @@ const Palestras_Computacao = [
     date: "11/05",
     time: "19:00-20:30",
     place: "YouTube",
+    link: "https://www.youtube.com/watch?v=7f6_xD0i3Xo&ab_channel=PUCGoi%C3%A1s"
   },
 ]
 
@@ -167,6 +169,7 @@ const Palestras_Design = [
     date: "10/05",
     time: "08:30-10:00",
     place: "YouTube",
+    link: "https://www.youtube.com/watch?v=mXSZc7N5VVU&ab_channel=PUCGoi%C3%A1s"
   },
   {
     title:
@@ -178,6 +181,7 @@ const Palestras_Design = [
     date: "10/05",
     time: "10:30-12:00",
     place: "YouTube",
+    link: "https://www.youtube.com/watch?v=0jNR2V_2fTE&ab_channel=PUCGoi%C3%A1s"
   },
 ]
 
@@ -190,6 +194,7 @@ const Palestras_Caer = [
     date: "09/05",
     time: "10:00-11:30",
     place: "YouTube",
+    link: "https://www.youtube.com/watch?v=_zwQOz_nHWc&ab_channel=PUCGoi%C3%A1s",
   },
 ]
 
@@ -206,13 +211,14 @@ const Palestras_Mestrado = [
     place: "Auditório 1, área II",
   },
   {
-    title: "Impactante - A responsabilidade da Impressão 3D na humanidade",
+    title: "A responsabilidade da Impressão 3D na humanidade",
     instructor: "Henrique Sanábio Vilela",
     institution: "3D Fila",
     desc: `Abordaremos o potencial da tecnologia, o que já foi feito e o que está sendo desenvolvido para o nosso benefício.`,
     date: "10/05",
     time: "10:00-11:30",
     place: "YouTube",
+    link: "https://www.youtube.com/watch?v=VBtyB78MzKg&ab_channel=PUCGoi%C3%A1s"
   },
   {
     title: "Impressão 3D com a empresa nacional GTMax",
@@ -222,6 +228,7 @@ const Palestras_Mestrado = [
     date: "11/05",
     time: "10:00-11:30",
     place: "YouTube",
+    link: "https://www.youtube.com/watch?v=V_35tybfxuE&ab_channel=PUCGoi%C3%A1s"
   },
 ]
 
