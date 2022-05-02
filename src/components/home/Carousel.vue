@@ -81,15 +81,16 @@ export default class Carousel extends Vue {
   flex-direction: column;
   justify-content: space-around;
 
-  align-items: flex-end;
-  width: 5rem;
+  align-items: flex-start;
+  width: 7rem;
   margin-right: 1rem;
   margin-left: 0;
 }
 
 .banner {
   display: flex;
-  background-color: #2364adc4;
+  opacity: 70%;
+  background-color: whitesmoke;
   color: #fff;
   position: relative;
   padding: 3rem 6rem 3rem 4rem;
@@ -120,15 +121,19 @@ export default class Carousel extends Vue {
 }
 
 #logo {
-  width: 5.5rem;
+  width: 6rem;
 }
 
 #cienciaemcasa {
-  width: 5.5rem;
+  width: 8rem;
 }
 
 hr {
-  border: 1px solid #fff;
+  border: 1px solid black;
+}
+
+span {
+  color: black;
 }
 
 @media only screen and (max-width: 760px) {
