@@ -1,10 +1,15 @@
 
 const Palestras_Computacao = [
   {
-    title: "Qual a função do UX design em uma empresa?",
-    instructor: "Sylvia Madeira",
-    institution: "Coordenadora de UX design na Gauge/Stefanini Group",
-    desc: `Apresentação de UX, da empresa e de vagas.`,
+    title: "Carreiras Digitais no grupo HAUS.",
+    instructor: "Dani Moreira",
+    institution: "GRUPO HAUS – Stefanini group",
+    desc: `Se olharmos nos últimos 10 anos o quanto o consumidor evoluiu, procurando uma melhor experiência, buscando mais agilidade, 
+        bom atendimento e se tornando mais exigente, e consequentemente os nossos clientes também. E aí que o Grupo Haus surge, 
+        a nossa missão é ajudar nossos clientes a se relacionarem melhor com seus consumidores. E nosso DNA é composto por um amplo 
+        ecossistema de empresas, ventures e startups que oferecem as mais diversificadas soluções tecnológicas e inovadoras do mercado, 
+        investimos em transformação digital, comunicação, cobertura de eventos, live commerce, gestão de branding, reputação da marca, 
+        gestão de crises, digital analytics e User Experience (UX).`,
     date: "09/05",
     time: "08:00-09:30",
     place: "YouTube", 
@@ -16,7 +21,7 @@ const Palestras_Computacao = [
     desc: ``,
     date: "09/05",
     time: "19:00-20:30",
-    place: "Auditório 1, Área II",
+    place: "Auditório 1, área II",
   },
   {
     title:
@@ -28,7 +33,7 @@ const Palestras_Computacao = [
         de metrô de uma grande capital brasileira e quais seriam as consequências disso caso tivesse sido feito por um hacker malicioso.`,
     date: "09/05",
     time: "20:30-22:00",
-    place: "Auditório 1, Área II",
+    place: "Auditório 1, área II",
   },
 
   //======================= DIA 10/05 ==============================//
@@ -53,7 +58,7 @@ const Palestras_Computacao = [
         ferramentas que as modelagens estratégica e tática oferecem para conceber softwares mais manuteníveis e com mais bem escritos. `,
     date: "10/05",
     time: "20:30-22:00",
-    place: "Auditório 2, Área II",
+    place: "Auditório 2, área II",
   },
   {
     title: "O que é o DevOps?",
@@ -71,7 +76,7 @@ const Palestras_Computacao = [
     desc: ``,
     date: "10/05",
     time: "19:00-20:30",
-    place: "Auditório 2, Área II",
+    place: "Auditório 2, área II",
   },
 
   //======================= DIA 11/05 ==============================//
@@ -83,7 +88,7 @@ const Palestras_Computacao = [
     desc: ``,
     date: "11/05",
     time: "19:00-20:30",
-    place: "Auditório 2, Área II",
+    place: "Auditório 2, área II",
   },
   {
     title: "Tendências na Simulação: casos e oportunidades",
@@ -107,7 +112,7 @@ const Palestras_Producao = [
     desc: ``,
     date: "09/05",
     time: "08:00-09:30",
-    place: "Auditório 2, Área II",
+    place: "Auditório 2, área II",
   },
 
   //======================= DIA 10/05 ==============================//
@@ -119,7 +124,7 @@ const Palestras_Producao = [
     desc: ``,
     date: "10/05",
     time: "10:00-11:30",
-    place: "Auditório 2, Área II",
+    place: "Auditório 2, área II",
   },
 
   //======================= DIA 11/05 ==============================//
@@ -131,7 +136,7 @@ const Palestras_Producao = [
     desc: ``,
     date: "11/05",
     time: "8:00-9:30",
-    place: "Auditório 3, Área II",
+    place: "Auditório 3, área II",
   },
 ]
 
@@ -147,7 +152,7 @@ const Palestras_Design = [
         vínculo com o fazer científico e com a conexão antropológica do tema. `,
     date: "09/05",
     time: "10:30-12:00",
-    place: "Auditório Marisa Roriz, Área III",
+    place: "Auditório Marisa Roriz, área III",
   },
 
   //======================= DIA 10/05 ==============================//
@@ -198,7 +203,7 @@ const Palestras_Mestrado = [
          de órgãos e tecidos para transplantes.`,
     date: "09/05",
     time: "10:00-12:00",
-    place: "Auditório 1, Área II",
+    place: "Auditório 1, área II",
   },
   {
     title: "Impactante - A responsabilidade da Impressão 3D na humanidade",
@@ -366,7 +371,7 @@ const Palestras_ArquiteturaUrbanismo = [
         de suas experiências profissionais e da ligação importante entre as áreas de atuação e de formação originais da PUC Goiás. `,
     date: "09/05",
     time: "08:30-10:00",
-    place: "Auditório Marisa Roriz, Área III",
+    place: "Auditório Marisa Roriz, área III",
   },
   {
     title: "A importância da interdisciplinaridade nos projetos e nos negócios",
@@ -388,7 +393,7 @@ const Palestras_ArquiteturaUrbanismo = [
   `,
   date: "11/05",
   time: "10:00-11:30",
-  place: "Auditório 2, Área II"
+  place: "Auditório 2, área II"
   },
 ]
 
@@ -409,7 +414,7 @@ const Palestras_ControleAutomacao = [
     desc: `Abordagem dos conceitos de automação, internet das coisas, algumas novidades atuais e a tendência do mercado.`,
     date: "10/05",
     time: "10:00-11:30",
-    place: "Auditório 3, Área II",
+    place: "Auditório 3, área II",
   },
 ]
 
