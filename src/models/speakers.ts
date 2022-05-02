@@ -308,6 +308,27 @@ Palestra sobre a situação atual dos transplantes no Brasil e em Goiás e sobre
       place: 'Laboratório 101, bloco C, Área II'
     }
   },
+  {
+    name: 'Danielle Moreira',
+    institution: 'GRUPO HAUS – Stefanini group',
+    speaking: `Carreiras Digitais no grupo HAUS.
+    `,
+    description: `PEOPLE & CULTURE MANAGER, Professional & Self Coaching e Practitioner Programação Neurolinguística e Neurociência. 
+    Mais de 10 anos ajudando as pessoas a se desenvolverem através do autoconhecimento. Experiência com Gestão de Talentos, HRBP, People Engagement, Performance Review, Employer Brand, Talent Acquisition e nos últimos 4 anos no processo de aquisições de novas empresas.
+    `,
+    subjectResume: `Se olharmos nos últimos 10 anos o quanto o consumidor evoluiu, procurando uma melhor experiência, buscando mais agilidade, bom atendimento e se tornando mais exigente, 
+    e consequentemente os nossos clientes também. E aí que o Grupo Haus surge, a nossa missão é ajudar nossos clientes a se relacionarem melhor com seus consumidores. 
+    E nosso DNA é composto por um amplo ecossistema de empresas, ventures e startups que oferecem as mais diversificadas soluções tecnológicas e inovadoras do mercado, investimos em transformação digital, 
+    comunicação, cobertura de eventos, live commerce, gestão de branding, reputação da marca, gestão de crises, digital analytics e User Experience (UX).
+    `,
+    img: '/assets/img/speakers/Dani_Moreira_Provisorio.jpg',
+    customSize: '100%',
+    datentime: {
+      date: '09/05',
+      time: '08:00 - 09:30',
+      place: 'YouTube'
+    }
+  },
   /* PROVISORIO FALTA DADOS
   {
     name: 'Plano D Design de produtos e Moov arquitetura e interiores',

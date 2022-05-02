@@ -368,7 +368,7 @@ export default class Escola extends Vue {
         datentime: {
           date: '10/05',
           time: '19:00 - 20:30',
-          place: 'Auditório 2, Área II'
+          place: 'Auditório 2, área II'
         }
       },
 
@@ -445,7 +445,7 @@ export default class Escola extends Vue {
         datentime: {
           date: '10/05',
           time: '20:30 - 22:00',
-          place: 'Auditório 2, Área II'
+          place: 'Auditório 2, área II'
         }
       },
       {
@@ -457,7 +457,7 @@ export default class Escola extends Vue {
         description: `Mestre em História pela PUC-GO na área de concentração de Cultura e Poder; Bacharel em Artes Visuais / Comunicação Visual,
                pela Universidade Federal de Goiás. Professor no ensino superior de design há 23 anos. Atuou como coordenador por 13 anos,
                participou da elaboração de Planos de Desenvolvimento Institucional e Projetos Pedagógicos de vários cursos, atuou em CPA, CONSUP, CIPA e Conselho Técnico Científico de diversas IES.
-               Foi membro da Comissão Assessora de Área do Exame Nacional de Desempenho dos Estudantes — Enade, de Tecnologia em Design Gráfico 2018 e 2019.
+               Foi membro da Comissão Assessora de área do Exame Nacional de Desempenho dos Estudantes — Enade, de Tecnologia em Design Gráfico 2018 e 2019.
                Foi docente na UFG, PUC-GO e Faculdade Senac GO. Desenvolve pesquisas e trabalhos visuais a partir do resgate da imagem de povos originários do Brasil.
 `,
         subjectResume: `A palestra aborda o mesmo tema da exposição que deve abrir na mesma data. Será uma mesa redonda com mediação feita pela coordenadora do curso de Design, Genilda Alexandria, sobre o trabalho de pesquisa, levantamento histórico e reprodução artística em carvão dos desenhos de Marcos Costa. A participação do IGPA fará o evento interdisciplinar, fortalecendo o vínculo com o fazer científico e com a conexão antropológica do tema.
@@ -467,7 +467,7 @@ export default class Escola extends Vue {
         datentime: {
           date: '09/05',
           time: '10:30 - 12:00',
-          place: 'Auditório Marisa Roriz, Área III'
+          place: 'Auditório Marisa Roriz, área III'
         }
       },
       {
@@ -485,7 +485,7 @@ export default class Escola extends Vue {
         datentime: {
           date: '09/05',
           time: '10:30 - 12:00',
-          place: 'Auditório Marisa Roriz, Área III'
+          place: 'Auditório Marisa Roriz, área III'
         }
       },
       {
@@ -533,9 +533,30 @@ export default class Escola extends Vue {
         datentime: {
           date: '09/05',
           time: '17:00 - 18:30',
-          place: 'Laboratório 101, bloco C, Área II'
+          place: 'Laboratório 101, bloco C, área II'
         }
-      }
+      },
+      {
+        name: 'Danielle Moreira',
+        institution: 'GRUPO HAUS – Stefanini group',
+        speaking: `Carreiras Digitais no grupo HAUS.
+        `,
+        description: `PEOPLE & CULTURE MANAGER, Professional & Self Coaching e Practitioner Programação Neurolinguística e Neurociência. 
+        Mais de 10 anos ajudando as pessoas a se desenvolverem através do autoconhecimento. Experiência com Gestão de Talentos, HRBP, People Engagement, Performance Review, Employer Brand, Talent Acquisition e nos últimos 4 anos no processo de aquisições de novas empresas.
+        `,
+        subjectResume: `Se olharmos nos últimos 10 anos o quanto o consumidor evoluiu, procurando uma melhor experiência, buscando mais agilidade, bom atendimento e se tornando mais exigente, 
+        e consequentemente os nossos clientes também. E aí que o Grupo Haus surge, a nossa missão é ajudar nossos clientes a se relacionarem melhor com seus consumidores. 
+        E nosso DNA é composto por um amplo ecossistema de empresas, ventures e startups que oferecem as mais diversificadas soluções tecnológicas e inovadoras do mercado, investimos em transformação digital, 
+        comunicação, cobertura de eventos, live commerce, gestão de branding, reputação da marca, gestão de crises, digital analytics e User Experience (UX).
+        `,
+        img: '/assets/img/speakers/Dani_Moreira_Provisorio.jpg',
+        customSize: '100%',
+        datentime: {
+          date: '09/05',
+          time: '08:00 - 09:30',
+          place: 'YouTube'
+        }
+      },
     ]
   }
 }
