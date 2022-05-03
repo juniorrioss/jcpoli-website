@@ -70,20 +70,10 @@ const Courses_Computacao = [
         Encerramento com exemplo de uso real.`,
     date: "09/05",
     time: "17:00-18:30",
-    place: "Lab. 101-C, área II",
+    place: "Lab. 101C, área II",
   },
 
-//======================= DIA 11/05 ==============================//
 
-  {
-    title: 'Atividade: Maratona de Programação',
-    instructor: "Prof Alexandre/Prof.ª Carmen",
-    institution: "PUC Goiás",
-    desc: ``,
-    date: "11/05",
-    time: "18:00-22:00",
-    place: "Lab. 101C a 105C, área II",
-  },
 ]
 
 const Courses_Producao = [
@@ -94,7 +84,7 @@ const Courses_Producao = [
     desc: `Apresentação de UX, da empresa e de vagas.`,
     date: "10/05",
     time: "08:00-09:30",
-    place: "Auditório 2, Área II",
+    place: "Auditório 2, área II",
   },
 ]
 
@@ -106,7 +96,7 @@ const Courses_Caer = [
     desc: ``,
     date: "10/05",
     time: "13:30-17:00",
-    place: "Auditório 2, Área II",
+    place: "Auditório 2, área II",
   },
   {
     title: "Estrutura do Espaço Aéreo Brasileiro",
@@ -115,7 +105,7 @@ const Courses_Caer = [
     desc: ``,
     date: "11/05",
     time: "13:30-17:00",
-    place: "Auditório, Área II",
+    place: "Auditório 2, área II",
   },
 ]
 

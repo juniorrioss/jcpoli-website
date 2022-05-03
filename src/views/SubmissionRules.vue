@@ -503,8 +503,22 @@
               type="submit"
               color="primary"
               href="/assets/edital_JCPOLI.pdf"
+              target="_blank"
             >
               ACESSAR ORIENTAÇÕES
+              <v-icon right dark>cloud_download</v-icon>
+            </v-btn>
+          </div>
+
+          <div class="info-arquivo">
+            <h4>Edital Ciência de dados</h4>
+            <v-btn
+              type="submit"
+              color="primary"
+              href="/assets/edital_Ciencia_dados.pdf"
+              target="_blank"
+            >
+              ACESSAR EDITAL
               <v-icon right dark>cloud_download</v-icon>
             </v-btn>
           </div>
@@ -515,6 +529,7 @@
               type="submit"
               color="primary"
               href="https://sites.pucgoias.edu.br/certificados/"
+              target="_blank"
             >
               ACESSAR CERTIFICADO
               <v-icon right dark>cloud_download</v-icon>
@@ -527,6 +542,7 @@
               type="submit"
               color="primary"
               href="/assets/JCPOLI_template.docx"
+              target="_blank"
             >
               ACESSAR TEMPLATE
               <v-icon right dark>cloud_download</v-icon>
@@ -539,6 +555,7 @@
               type="submit"
               color="primary"
               href="/assets/edital_JCPOLI.pdf"
+              target="_blank"
             >
               ACESSAR EDITAL
               <v-icon right dark>cloud_download</v-icon>
@@ -633,5 +650,9 @@ export default class SubmissionRules extends mixins(LoaderMixin) {
   .col-md-5 {
     margin-bottom: 3rem;
   }
+}
+
+.v-btn {
+  width: 35%;
 }
 </style>

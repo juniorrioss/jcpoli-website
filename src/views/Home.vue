@@ -277,7 +277,7 @@ export default class Home extends Vue {
         datentime: {
           date: '10/05',
           time: '19:00 - 20:30',
-          place: 'Auditório 2, Área II'
+          place: 'Auditório 2, área II'
         }
       },
 
@@ -355,7 +355,7 @@ export default class Home extends Vue {
         datentime: {
           date: '10/05',
           time: '20:30 - 22:00',
-          place: 'Auditório 2, Área II'
+          place: 'Auditório 2, área II'
         }
       },
 
@@ -368,7 +368,7 @@ export default class Home extends Vue {
         description: `Mestre em História pela PUC-GO na área de concentração de Cultura e Poder; Bacharel em Artes Visuais / Comunicação Visual,
                pela Universidade Federal de Goiás. Professor no ensino superior de design há 23 anos. Atuou como coordenador por 13 anos, 
                participou da elaboração de Planos de Desenvolvimento Institucional e Projetos Pedagógicos de vários cursos, atuou em CPA, CONSUP, CIPA e Conselho Técnico Científico de diversas IES. 
-               Foi membro da Comissão Assessora de Área do Exame Nacional de Desempenho dos Estudantes — Enade, de Tecnologia em Design Gráfico 2018 e 2019.
+               Foi membro da Comissão Assessora de área do Exame Nacional de Desempenho dos Estudantes — Enade, de Tecnologia em Design Gráfico 2018 e 2019.
                Foi docente na UFG, PUC-GO e Faculdade Senac GO. Desenvolve pesquisas e trabalhos visuais a partir do resgate da imagem de povos originários do Brasil.   
 `,
         subjectResume: `A palestra aborda o mesmo tema da exposição que deve abrir na mesma data. Será uma mesa redonda com mediação feita pela coordenadora do curso de Design, Genilda Alexandria, sobre o trabalho de pesquisa, levantamento histórico e reprodução artística em carvão dos desenhos de Marcos Costa. A participação do IGPA fará o evento interdisciplinar, fortalecendo o vínculo com o fazer científico e com a conexão antropológica do tema.
@@ -378,7 +378,7 @@ export default class Home extends Vue {
         datentime: {
           date: '09/05',
           time: '10:30 - 12:00',
-          place: 'Auditório Marisa Roriz, Área III'
+          place: 'Auditório Marisa Roriz, área III'
         }
       },
       {
@@ -395,22 +395,7 @@ export default class Home extends Vue {
         datentime: {
           date: '09/05',
           time: '10:30 - 12:00',
-          place: 'Auditório Marisa Roriz, Área III'
-        }
-      },
-      {
-        name: 'Sylvia Madeira',
-        institution: 'Coordenadora de UX design na Gauge/Stefanini Group',
-        speaking: 'Qual a função do UX design em uma empresa?',
-        description: `Bacharel em Publicidade e propaganda-Comunicação Social, Pós Graduação Administração, Gama Academy UX Design; Voluntária: Ponto Focal do Medium LTUX – Redatora e Editora de Conteúdo (Ladies UX).
-        `,
-        subjectResume: `Apresentação de UX, da empresa e de vagas.
-        `,
-        img: '',
-        customSize: '100%',
-        datentime: {
-          date: '09/05',
-          time: 'YouTube'
+          place: 'Auditório Marisa Roriz, área III'
         }
       },
       {
@@ -443,9 +428,122 @@ export default class Home extends Vue {
         datentime: {
           date: '09/05',
           time: '17:00 - 18:30',
-          place: 'Laboratório 101, bloco C, Área II'
+          place: 'Laboratório 101, bloco C, área II'
         }
-      }
+      },
+      {
+        name: 'Danielle Moreira',
+        institution: 'GRUPO HAUS – Stefanini group',
+        speaking: `Carreiras Digitais no grupo HAUS.
+        `,
+        description: `PEOPLE & CULTURE MANAGER, Professional & Self Coaching e Practitioner Programação Neurolinguística e Neurociência. 
+        Mais de 10 anos ajudando as pessoas a se desenvolverem através do autoconhecimento. Experiência com Gestão de Talentos, HRBP, People Engagement, Performance Review, Employer Brand, Talent Acquisition e nos últimos 4 anos no processo de aquisições de novas empresas.
+        `,
+        subjectResume: `Se olharmos nos últimos 10 anos o quanto o consumidor evoluiu, procurando uma melhor experiência, buscando mais agilidade, bom atendimento e se tornando mais exigente, 
+        e consequentemente os nossos clientes também. E aí que o Grupo Haus surge, a nossa missão é ajudar nossos clientes a se relacionarem melhor com seus consumidores. 
+        E nosso DNA é composto por um amplo ecossistema de empresas, ventures e startups que oferecem as mais diversificadas soluções tecnológicas e inovadoras do mercado, investimos em transformação digital, 
+        comunicação, cobertura de eventos, live commerce, gestão de branding, reputação da marca, gestão de crises, digital analytics e User Experience (UX).
+        `,
+        img: '/assets/img/speakers/Dani_Moreira_Provisorio.jpg',
+        customSize: '100%',
+        datentime: {
+          date: '09/05',
+          time: '08:00 - 09:30',
+          place: 'YouTube'
+        }
+      },
+      {
+        name: 'Hector Grecco',
+        institution: 'CTO na Suney (@suneybr)',
+        speaking: `Hackeando o transporte público: Como descobri uma falha de segurança que me deixaria andar de metrô de graça para sempre.
+        `,
+        description: `Engenheiro de Software com foco em Fintechs e Pesquisador de Segurança da Informação nas horas vagas com passagens por empresas como PagSeguro, 
+                  Kovi e EBANX. Atualmente é co-fundador e CTO da Suney: uma fintech de crédito para energia solar. Formado em Análise de Sistemas (PUC/GO e UCB) e Pós-Graduando em Computação Forense e Perícia Digital (IPOG).
+        `,
+        subjectResume: `Os ouvintes aprenderão um pouco sobre como funciona a área de Segurança da Informação nas grandes empresas, alguns tipos de ataques hacker, como começar na área e por fim o caso de 
+                  como hackeei o sistema de tickets de metrô de uma grande capital brasileira e quais seriam as consequências disso caso tivesse sido feito por um hacker malicioso.
+        `,
+        img: '',
+        customSize: '100%',
+        datentime: {
+          date: '09/05',
+          time: '20:30 - 22:00',
+          place: 'Auditório 1, área II'
+        }
+      },
+      {
+        name: 'Paulo Alexandre Bernardo dos Santos Nunes',
+        institution: 'Manager, Junior Talent Unit (JTU)',
+        speaking: `
+        `,
+        description: `Paulo Nunes está focado nos mercados internacionais, nomeadamente norte da Europa, América e Médio Oriente. Paulo Nunes lidera também a Junior Talent Unit (JTU), gerindo a formação e programas de recrutamento. 
+        `,
+        subjectResume: `
+        `,
+        img: '/assets/img/speakers/Paulo_Nunes_Provisorio.jpg',
+        customSize: '100%',
+        datentime: {
+          date: '09/05',
+          time: '19:00 - 20:30',
+          place: 'Auditório 1, área II'
+        }
+      },
+      {
+        name: 'José Hosanan Inácio',
+        institution: 'Megasoft Informática',
+        speaking: `Automação Residencial Uma Realidade de Futuro.
+        `,
+        description: `Graduado em Engenharia de Computação, PUC-GO, desenvolvedor de Sistemas Senior, Diretor Técnico da Megasoft Informática, empresa especializada em desenvolvimento de Sistemas para gestão pública e 
+                  integração das Prefeituras aos Tribunais de Contas, Pós Graduando em Growth Hacking & Agile Mindset pela HSM University.
+        `,
+        subjectResume: `Abordagem dos conceitos de automação, internet das coisas, algumas novidades atuais e a tendência do mercado.
+        `,
+        img: '/assets/img/speakers/Jose_Hosanan_Provisorio.png',
+        customSize: '100%',
+        datentime: {
+          date: '10/05',
+          time: '10:00 - 11:30 ',
+          place: 'Auditório 3, área II'
+        }
+      },
+      {
+        name: 'Paula Leocadio',
+        institution: 'Universidade de Cork - Irlanda',
+        speaking: `Internacionalização na área de Design – série Trajetórias, com Paula Leocadio.
+        `,
+        description: `Atualmente phd researcher at university college cork. 
+                  Certificada com proficiência em Comunicação Visual e Design pela Assabet Valley Regional Technical High School de Marlborough, MA nos EUA e Bacharel com excelência em Design Gráfico, Produtos e Ambientes pela PUC Goiás. 
+                  Destacando também por méritos na movimentação estudantil da cidade. Idealizadora e organizadora da Semana Integrada de Design - seintegra! 2013 e Comissão Organizadora do Encontro Nacional de Estudantes de Design, N_Design 2014. 
+                  Selecionada pelo Edital Conexão Cultura Intercâmbios realizado pelo Ministério da Cultura para sua capacitação profissional no curso Design Contemporâneo Italiano e Tendências no Istituto Europeu di Design Milano.
+        `,
+        subjectResume: `A palestra aborda a trajetória da egressa do curso de Design da PUC Goiás e suas experiências exitosas em atividades profissionais e acadêmicas internacionalmente.
+        `,
+        img: '/assets/img/speakers/Paula_Leocadio_Provisorio.jpg',
+        customSize: '100%',
+        datentime: {
+          date: '10/05',
+          time: '10:30 - 12:00',
+          place: 'YouTube'
+        }
+      },
+      {
+        name: 'Nivia Barboza Ferreira',
+        institution: 'Auckland University of Technology - Aotearoa/New Zealand',
+        speaking: `Internacionalização na área de Design – série Trajetórias, com Nivia Boz
+        `,
+        description: `Nivia Ferreira, designer de UX/UI, pesquisadora e palestrante com interesse particular em Artes e Design. Possuo mestrado, com dissertação sobre game design e experiência do jogador, e sou doutorando, 
+                  com tese sobre game design e neurociência, ambos em Design pela Universidade Anhembi Morumbi (UAM-SP), Brasil. Sou bacharel em Design de Comunicação pela Pontifícia Universidade Católica de Goiás (PUC-GO) com pesquisa prática sobre interfaces para plataformas de e-learning. 
+        `,
+        subjectResume: `A palestra aborda a trajetória da egressa do curso de Design da PUC Goiás e suas experiências exitosas em atividades profissionais e acadêmicas internacionalmente. 
+        `,
+        img: '/assets/img/speakers/user-vector-woman.jpg',
+        customSize: '100%',
+        datentime: {
+          date: '10/05',
+          time: '08:30 - 10:00',
+          place: 'YouTube'
+        }
+      },
     ]
   }
 

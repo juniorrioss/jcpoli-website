@@ -14,13 +14,7 @@
                 <!--<img src="assets/img/logo-clean.webp" class="logo" />
                 <img src="assets/img/logo-clean.webp" class="logo back" />
                 <img src="assets/img/logo.png" class="logo-opacity" />-->
-                <div class="logo-container">
-                  <img
-                    id="cienciaemcasa"
-                    src="assets/img/circuitoemcasa-removebg.png"
-                  />
-                  <img id="logo" src="assets/img/logo.png" />
-                </div>
+
                 <div>
                   <div>
                     <span class="date">09 a 11 de Maio</span>
@@ -40,6 +34,14 @@
                       CULTURA, INOVAÇÃO e EMPREENDEDORISMO
                     </span>
                   </div>
+                </div>
+
+                <div class="logo-container">
+                  <img
+                    id="cienciaemcasa"
+                    src="assets/img/cienciaemcasa_preto-removebg.png"
+                  />
+                  <img id="logo" src="assets/img/logo.png" />
                 </div>
               </div>
             </v-layout>
@@ -63,10 +65,10 @@ export default class Carousel extends Vue {
     this.items = [
       {
         src: '/assets/img/slider/3.jpeg'
-      },
-      {
-        src: '/assets/img/slider/4.jpg'
       }
+      // {
+      //   src: '/assets/img/slider/4.jpg'
+      // }
       // {
       //   src: "/assets/img/slider/1.jpg"
       // }
@@ -79,20 +81,21 @@ export default class Carousel extends Vue {
 .logo-container {
   display: flex;
   flex-direction: column;
-  justify-content: space-around;
+  justify-content: space-evenly;
 
-  align-items: flex-end;
-  width: 5rem;
-  margin-right: 1rem;
-  margin-left: 0;
+  align-items: flex-start;
+  width: 7rem;
+  margin-right: 0rem;
+  margin-left: 2rem;
 }
 
 .banner {
   display: flex;
-  background-color: #2364adc4;
+  opacity: 80%;
+  background-color: white;
   color: #fff;
   position: relative;
-  padding: 3rem 6rem 3rem 4rem;
+  padding: 3rem 3rem 3rem 4rem;
 }
 
 @media screen and (max-width: 576px) {
@@ -120,15 +123,24 @@ export default class Carousel extends Vue {
 }
 
 #logo {
-  width: 5.5rem;
+  width: 6rem;
 }
 
 #cienciaemcasa {
-  width: 5.5rem;
+  width: 8rem;
 }
 
 hr {
-  border: 1px solid #fff;
+  border: 1px solid black;
+}
+
+.date {
+  font-weight: bold;
+}
+
+span {
+  color: black;
+  font-weight: normal;
 }
 
 @media only screen and (max-width: 760px) {
