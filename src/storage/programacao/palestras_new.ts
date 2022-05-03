@@ -240,14 +240,12 @@ const Palestras_Agronomia = [
   instructor: "Janaína Martins",
   institution: "UNA-JATAÍ",
   desc: `
-<<<<<<< HEAD
-=======
       
->>>>>>> a447eada71cc74d2b58f3d3ad07c96a8fe4f6bbc
   `,
   date: "09/05",
   time: "08:00-09:30",
-  place: "Microsoft Teams"
+  place: "Microsoft Teams",
+  link: "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1651582149520?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2219202b0c-a430-4a6f-8eac-33d2cc220195%22%7d"
   },
   {
     title: "Empreendedorismo: Controle Biológico de Pragas",
@@ -256,7 +254,8 @@ const Palestras_Agronomia = [
     desc: ``,
     date: "09/05",
     time: "10:00-11:30",
-    place: "Microsoft Teams"
+    place: "Microsoft Teams",
+    link: "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1651582364973?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2219202b0c-a430-4a6f-8eac-33d2cc220195%22%7d"
   },
   {
     title: "Gestão e Manejo de Irrigação",
@@ -266,7 +265,8 @@ const Palestras_Agronomia = [
   `,
   date: "10/05",
   time: "08:00-09:30",
-  place: "Microsoft Teams"
+  place: "Microsoft Teams",
+  link: "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1651581140845?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2219202b0c-a430-4a6f-8eac-33d2cc220195%22%7d"
   },
   {
     title: "A importância da Irrigação para a cultura da Cana de açúcar",
@@ -327,10 +327,7 @@ const Palestras_Civil = [
   instructor: "Eng. Civil Rodolfo Rodriguez de Carvalho",
   institution: "BLOCOM",
   desc: `
-<<<<<<< HEAD
-=======
       
->>>>>>> a447eada71cc74d2b58f3d3ad07c96a8fe4f6bbc
   `,
   date: "09/05",
   time: "18:00-19:30",
