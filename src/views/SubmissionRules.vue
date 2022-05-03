@@ -636,6 +636,6 @@ export default class SubmissionRules extends mixins(LoaderMixin) {
 }
 
 .v-btn {
-  width: 35%;
+  width: 235px;
 }
 </style>

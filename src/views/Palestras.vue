@@ -106,7 +106,7 @@ export default class Palestras extends Vue {
 }
 
 .button {
-  width: 15%;
+  width: 150px;
   padding: 1rem;
   border: 0.1rem solid white;
   border-radius: 5rem;
