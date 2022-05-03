@@ -7,8 +7,6 @@
           :key="index"
           class="competicoes"
         >
-          <!--<h3 class="section-course">{{ props.curso }}</h3>-->
-
           <div class="title">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512">
               <!--! Font Awesome Pro 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->
@@ -81,20 +79,6 @@ export default class competicoes extends Vue {
 <style scoped>
 .courses-list > div:not(:first-child) {
   margin-top: 35px;
-}
-
-.section-course {
-  font-weight: 700;
-  font-size: 2rem;
-  text-align: center;
-  margin-bottom: 2rem;
-  background-color: whitesmoke;
-  box-shadow: 0 0.46875rem 2.1875rem rgba(0, 0, 0, 0.03),
-    0 0.9375rem 1.40625rem rgba(0, 0, 0, 0.03),
-    0 0.25rem 0.53125rem rgba(0, 0, 0, 0.05),
-    0 0.125rem 0.1875rem rgba(0, 0, 0, 0.03);
-  padding: 1rem;
-  color: black;
 }
 
 h3,
@@ -184,6 +168,10 @@ svg {
   text-transform: capitalize;
 }
 
+.competicoes {
+  margin-bottom: 4rem;
+}
+
 @media screen and (max-width: 425px) {
   .desc {
     display: flex;
@@ -209,10 +197,12 @@ svg {
   .desc-text {
     display: block;
     margin-top: 1.5rem;
+    text-align: justify;
   }
 
-  .desc img {
+  #maratona-photo {
     margin-right: 0;
+    height: 15rem;
   }
 }
 </style>
