@@ -8,7 +8,7 @@ const Exposicao_Design = [
       A maioria dos desenhos da exposição são de povos de culturas vivas, essa abordagem é um estudo de situações similares, muito útil para tratar os registros dos povos antigos. Dessa forma, a exposição é um ensaio de um estudo exploratório de um tema muito extenso no tempo e na geografia. 
   `,
   date: "09/05 até 11/05",
-  time: "XXXX",
+  time: "",
   place: "PROA, Área II",
   image: "assets/img/slider/expo_design.jpeg"
   },

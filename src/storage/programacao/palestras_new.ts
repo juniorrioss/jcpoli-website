@@ -240,6 +240,10 @@ const Palestras_Agronomia = [
   instructor: "Janaína Martins",
   institution: "UNA-JATAÍ",
   desc: `
+<<<<<<< HEAD
+=======
+      
+>>>>>>> a447eada71cc74d2b58f3d3ad07c96a8fe4f6bbc
   `,
   date: "09/05",
   time: "08:00-09:30",
@@ -249,7 +253,7 @@ const Palestras_Agronomia = [
     title: "Empreendedorismo: Controle Biológico de Pragas",
     instructor: "Rizia da Silva Andrade",
     institution: "Biogyn Soluções Entomológicas",
-    desc: `XXXXXXX`,
+    desc: ``,
     date: "09/05",
     time: "10:00-11:30",
     place: "Microsoft Teams"
@@ -323,6 +327,10 @@ const Palestras_Civil = [
   instructor: "Eng. Civil Rodolfo Rodriguez de Carvalho",
   institution: "BLOCOM",
   desc: `
+<<<<<<< HEAD
+=======
+      
+>>>>>>> a447eada71cc74d2b58f3d3ad07c96a8fe4f6bbc
   `,
   date: "09/05",
   time: "18:00-19:30",
