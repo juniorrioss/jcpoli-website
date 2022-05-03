@@ -311,7 +311,7 @@ Palestra sobre a situação atual dos transplantes no Brasil e em Goiás e sobre
   {
     name: 'Danielle Moreira',
     institution: 'GRUPO HAUS – Stefanini group',
-    speaking: `Carreiras Digitais no grupo HAUS.
+    speaking: `Carreiras Digitais no grupo HAUS
     `,
     description: `PEOPLE & CULTURE MANAGER, Professional & Self Coaching e Practitioner Programação Neurolinguística e Neurociência. 
     Mais de 10 anos ajudando as pessoas a se desenvolverem através do autoconhecimento. Experiência com Gestão de Talentos, HRBP, People Engagement, Performance Review, Employer Brand, Talent Acquisition e nos últimos 4 anos no processo de aquisições de novas empresas.
