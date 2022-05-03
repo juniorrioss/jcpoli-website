@@ -640,7 +640,22 @@ export default class Escola extends Vue {
           time: '08:30 - 10:00',
           place: 'YouTube'
         }
-      }
+      },
+      {
+        name: 'Faos Pereira Lopes',
+        institution: 'Head de Experiência do Cliente (Cofundador iCrop)',
+        speaking: `Irrigação de Alta Performance
+        `,
+        description: ``,
+        subjectResume: ``,
+        img: '/assets/img/speakers/Faos_Pereira.jpg',
+        customSize: '100%',
+        datentime: {
+          date: '10/05',
+          time: '08:00 - 09:30',
+          place: 'Microsoft Teams'
+        }
+      },
     ]
   }
 }

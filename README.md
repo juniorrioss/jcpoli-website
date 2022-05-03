@@ -1,6 +1,20 @@
-# website I JCPOLI 2022
+# Site da I JCPOLI 2022
 
 TO DO LIST
+
+
+
+[ ] Retirar Posters e Premiações
+
+[ ] Aba de exposições (descrição das amostras cultural)
+
+[ ] Receber o logo do evento (atual = lampada)
+
+[ ] Colocar foto genérica dos palestrantes
+
+[ ] Preencher o histórico da aba Escola
+
+ABAS -> HOME/ESCOLA/PALESTRAS/MINICURSO/EXPOSIÇÕES/SUBMISSÃO
 
 [ X ] Retirar aba EVENTOS
 
@@ -12,31 +26,18 @@ TO DO LIST
 
 [ X ] Alterar o caminho da aba Escola de eventos para escola
 
-[ ] Retirar Posters e Premiações
-
-[ ] Aba de exposições (descrição das amostras cultural)
-
-[ X ] Trocar layout de palestras para o layout de mini curso
-
-[ ] Receber o logo do evento (atual = lampada)
-
-[ ] Colocar foto genérica dos palestrantes
-
-[ ] Página final - comite de avaliação e cientifico
+[ X ] Retirar os patrocinadores
 
 [ X ] Retirar o histórico do evento e colocar aba ESCOLA
 
-[ ] Preencher o histórico da aba Escola
+[ X ] Comite de avaliação e cientifico
 
-[ ] Verificar navbar no modo mobile
+[ X ] Acrescentar as pessoas do novo comitê
 
-[ ] Acrescentar as pessoas do novo comitê
+[ X ] Verificar navbar no modo mobile
 
-[ X ] Retirar os patrocinadores
+[ X ] Trocar layout de palestras para o layout de mini curso
 
-[ ] Dividir em secções as palestras (área 2/ área 3/ [talvez])
-
-ABAS -> HOME/ESCOLA/PALESTRAS/MINICURSO/EXPOSIÇÕES/SUBMISSÃO
 
 npm start so para visualização estática
 
