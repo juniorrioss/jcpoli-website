@@ -91,7 +91,7 @@ export default class Carousel extends Vue {
 
 .banner {
   display: flex;
-  opacity: 80%;
+  opacity: 0.8;
   background-color: white;
   color: #fff;
   position: relative;
