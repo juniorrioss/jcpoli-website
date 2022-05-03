@@ -83,6 +83,7 @@ export default class NavBar extends Vue {}
 #logo {
   left: -6rem;
   height: 5rem;
+  top: -0.5rem;
 }
 
 #logo-nav-bar {
@@ -95,6 +96,7 @@ export default class NavBar extends Vue {}
   background-color: white;
   max-width: 1000px;
 }
+
 .navbar-h .nav-info {
   color: #576574;
   display: flex;
