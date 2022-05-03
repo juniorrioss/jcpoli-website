@@ -106,7 +106,11 @@ export default class Palestras extends Vue {
 }
 
 .button {
+<<<<<<< HEAD
   width: 150px;
+=======
+  width: 10.5rem;
+>>>>>>> 1e2b18c100eb78a3ce418f9b8e507d6ce3fb5ba5
   padding: 1rem;
   border: 0.1rem solid white;
   border-radius: 5rem;
@@ -135,6 +139,12 @@ export default class Palestras extends Vue {
   }
   .button {
     margin-bottom: 1rem;
+  }
+}
+
+@media screen and (min-width: 800px) {
+  .button {
+    width: 10.5rem;
   }
 }
 

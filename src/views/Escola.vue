@@ -173,8 +173,14 @@
         responsável pela área de Física, Matemática e Química com a criação do
         Núcleo de Pesquisa, Ensino e Extensão de Ciências Exatas. A Escola
         Politécnica oferece o programa de pós-graduação intitulado Mestrado de
-        Engenharia de Produção e Sistemas (MEPROS), criado em 2009. Atualmente
-        oferece vários cursos de especializações e extensão.
+        Engenharia de Produção e Sistemas(
+        <a
+          id="mepros"
+          href="https://sites.pucgoias.edu.br/pos-graduacao/mestrado-engenharia-producao-sistemas/"
+          target="_target"
+          >MEPROS</a
+        >), criado em 2009. Atualmente oferece vários cursos de especializações
+        e extensão.
         <br />
         Um dos principais objetivos da Escola é a qualificação da pesquisa e a
         Jornada Científica tem por objetivo oportunizar e estimular os
@@ -633,7 +639,7 @@ export default class Escola extends Vue {
           time: '08:30 - 10:00',
           place: 'YouTube'
         }
-      },
+      }
     ]
   }
 }
@@ -692,5 +698,19 @@ export default class Escola extends Vue {
   color: white;
   font-weight: bold;
   font-size: 1.1rem;
+}
+
+#mepros {
+  text-decoration: none;
+  background-color: #006ca3;
+  color: white;
+  border-radius: 0.3rem;
+  padding: 0.15rem;
+
+  transition: transform 0.4s;
+}
+
+#mepros:hover {
+  transform: scale(1);
 }
 </style>
