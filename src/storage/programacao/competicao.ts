@@ -25,7 +25,7 @@ A base de dados será sobre Transplantes de Rins no Estado de São Paulo, no
 período de 2000 a 2017, um problema real de modelagem para previsão do tempo de
 espera na fila, usando ciência dos dados
   `,
-  date: "13/05",
+  date: "09/05 - 13/05",
   time: "19:00 - 22:00",
   place: "A definir",
   image: "assets/img/slider/logo-desafiodados.jpeg"
