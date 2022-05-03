@@ -82,20 +82,6 @@ export default class Exposicoes extends Vue {
   margin-top: 35px;
 }
 
-.section-course {
-  font-weight: 700;
-  font-size: 2rem;
-  text-align: center;
-  margin-bottom: 2rem;
-  background-color: whitesmoke;
-  box-shadow: 0 0.46875rem 2.1875rem rgba(0, 0, 0, 0.03),
-    0 0.9375rem 1.40625rem rgba(0, 0, 0, 0.03),
-    0 0.25rem 0.53125rem rgba(0, 0, 0, 0.05),
-    0 0.125rem 0.1875rem rgba(0, 0, 0, 0.03);
-  padding: 1rem;
-  color: black;
-}
-
 h3,
 h4,
 h5 {
