@@ -12,7 +12,7 @@
         <h5 class="text-wrap" :title="course.instructor">
           Instrutor: {{ course.instructor }}
         </h5>
-        <h6 :title="course.institution">
+        <h6 class="text-wrap" :title="course.institution">
           Instituição: {{ course.institution }}
         </h6>
         <!--<h6 :title="course.responsible">Responsável: {{course.responsible}}</h6> -->
@@ -23,7 +23,9 @@
         <i class="fas fa-map-marker-alt"></i>
         <div>{{ course.date }}</div>
         <div>{{ course.time }}</div>
-        <div><a :href="course.link" target="_blank">{{ course.place }}</a></div>
+        <div>
+          <a :href="course.link" target="_blank">{{ course.place }}</a>
+        </div>
       </div>
     </div>
 

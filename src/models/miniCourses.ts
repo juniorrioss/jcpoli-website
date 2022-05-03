@@ -17,7 +17,7 @@ const Courses_Civil = [
     title: "Inspeção em obras de infraestrutura: pontes, viadutos, barragens e usinas hidrelétricas",
     instructor: "Profa. Rosana Lucas de Melo Brandão",
     institution: "PUC Goiás",
-    desc: `XXXXXXX`,
+    desc: ``,
     date: "09/05",
     time: "10:00-12:00",
     place: "Auditório 3, área II"
@@ -26,7 +26,7 @@ const Courses_Civil = [
     title: "Criação de apresentações de trabalhos científicos",
     instructor: "Profa Luri Sabina Cosme da Silva Matos",
     institution: "PUC Goiás",
-    desc: `XXXXXXX`,
+    desc: ``,
     date: "09/05",
     time: "15:00-16:30",
     place: "Microsoft Teams"
@@ -44,7 +44,7 @@ const Courses_Civil = [
     title: "Simulação de degradação e ensaios de desempenho como ferramentas para a inspeção predial",
     instructor: "Prof. Me. Antônio Manuel Corado Pombo Fernandes",
     institution: "PUC Goiás",
-    desc: `XXXXXXXXXXXXX`,
+    desc: ``,
     date: "11/05",
     time: "10:00-12:00",
     place: "Auditório 3, área II"
@@ -53,7 +53,7 @@ const Courses_Civil = [
     title: "Inspeção em protótipos",
     instructor: "Prof. Me. Antônio Manuel Corado Pombo Fernandes",
     institution: "PUC Goiás",
-    desc: `XXXXXXXXXXXXX`,
+    desc: ``,
     date: "11/05",
     time: "15:00-16:00",
     place: "Teatro de Arena, área III"

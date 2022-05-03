@@ -1,7 +1,7 @@
 
 const Palestras_Computacao = [
   {
-    title: "Carreiras Digitais no grupo HAUS.",
+    title: "Carreiras Digitais no grupo HAUS",
     instructor: "Dani Moreira",
     institution: "GRUPO HAUS – Stefanini group",
     desc: `Se olharmos nos últimos 10 anos o quanto o consumidor evoluiu, procurando uma melhor experiência, buscando mais agilidade, 
@@ -71,7 +71,7 @@ const Palestras_Computacao = [
     link: "https://www.youtube.com/watch?v=eJ5UYk4ByoQ&ab_channel=PUCGoi%C3%A1s"
   },
   {
-    title: "XXXXXXXXXXXXXXXX",
+    title: "",
     instructor: "Maycon Silva",
     institution: "Head of Innovation Lab",
     desc: ``,
@@ -239,8 +239,8 @@ const Palestras_Agronomia = [
     title: "O que são Soft Skills e como desenvolvê-las ainda na graduação",
   instructor: "Janaína Martins",
   institution: "UNA-JATAÍ",
-  desc: `XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-      DESCRIÇÃO DA PALESTRA
+  desc: `
+      
   `,
   date: "09/05",
   time: "08:00-09:30",
@@ -250,7 +250,7 @@ const Palestras_Agronomia = [
     title: "Empreendedorismo: Controle Biológico de Pragas",
     instructor: "Rizia da Silva Andrade",
     institution: "Biogyn Soluções Entomológicas",
-    desc: `XXXXXXX`,
+    desc: ``,
     date: "09/05",
     time: "10:00-11:30",
     place: "Microsoft Teams"
@@ -259,8 +259,8 @@ const Palestras_Agronomia = [
     title: "Gestão e Manejo de Irrigação",
   instructor: "Leonardo Inácio da Silva",
   institution: "iCrop Gestão de Irrigação",
-  desc: `XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-  DESCRIÇÃO DA PALESTRA`,
+  desc: `
+  `,
   date: "10/05",
   time: "08:00-09:30",
   place: "Microsoft Teams"
@@ -269,8 +269,8 @@ const Palestras_Agronomia = [
     title: "A importância da Irrigação para a cultura da Cana de açúcar",
   instructor: "Cristiano Hilário de Paula",
   institution: "Jalles Machado",
-  desc: `XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-  DESCRIÇÃO DA PALESTRA`,
+  desc: `
+  `,
   date: "10/05",
   time: "10:00-11:30",
   place: "Microsoft Teams"
@@ -279,8 +279,8 @@ const Palestras_Agronomia = [
     title: "Projetos de Irrigação",
   instructor: "Leandro Silva Ribeiro",
   institution: "Jalles Machado",
-  desc: `XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-  DESCRIÇÃO DA PALESTRA`,
+  desc: `
+  `,
   date: "10/05",
   time: "19:00-20:30",
   place: "Microsoft Teams"
@@ -289,8 +289,8 @@ const Palestras_Agronomia = [
     title: "Pesquisa e extensão para pequenos produtores",
   instructor: "Joao Asmar Junior",
   institution: "Emater Goiás",
-  desc: `XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-  DESCRIÇÃO DA PALESTRA`,
+  desc: `
+  `,
   date: "11/05",
   time: "08:00-09:30",
   place: "Auditório 2, área II"
@@ -299,8 +299,8 @@ const Palestras_Agronomia = [
     title: "ICMS ecológico no Estado de Goiás",
   instructor: "Núbia Maia",
   institution: "SEMAD (Goiás)",
-  desc: `XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-  DESCRIÇÃO DA PALESTRA`,
+  desc: `
+  `,
   date: "11/05",
   time: "10:00-11:30",
   place: "Microsoft Teams"
@@ -309,8 +309,8 @@ const Palestras_Agronomia = [
     title: "Inovação em Fruticultura e Pós-Colheita",
   instructor: " Engª Agrônoma Daniela Mota Segantini",
   institution: "Hortifrut",
-  desc: `XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-  DESCRIÇÃO DA PALESTRA`,
+  desc: `
+  `,
   date: "11/05",
   time: "19:00-20:30",
   place: "Microsoft Teams"
@@ -323,8 +323,8 @@ const Palestras_Civil = [
     title: "Otimização construtiva em novos processos tecnológicos de vedação vertical",
   instructor: "Eng. Civil Rodolfo Rodriguez de Carvalho",
   institution: "BLOCOM",
-  desc: `XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-      DESCRIÇÃO DA PALESTRA
+  desc: `
+      
   `,
   date: "09/05",
   time: "18:00-19:30",
@@ -334,8 +334,8 @@ const Palestras_Civil = [
     title: "Aplicação de geossintéticos em pavimentação rodoviária ",
   instructor: "Prof. Dr. Jefferson Lins da Silva; Profa. Dra. Marta Pereira da Luz",
   institution: "EESC/USP; POLI/PUC Goiás",
-  desc: `XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-  DESCRIÇÃO DA PALESTRA`,
+  desc: `
+  `,
   date: "09/05",
   time: "20:00-21:00",
   place: "Microsoft Teams"
@@ -344,8 +344,8 @@ const Palestras_Civil = [
     title: "Edifícios de múltiplos andares em estruturas de aço e mistas de aço-concreto",
   instructor: "Eng. Civil Juliano Geraldo Ribeiro Neto",
   institution: "Remy Consulting Engineers Ltd., Toronto, Canadá",
-  desc: `XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-  DESCRIÇÃO DA PALESTRA`,
+  desc: `
+  `,
   date: "10/05",
   time: "20:00-21:00",
   place: "Microsoft Teams"
@@ -354,8 +354,8 @@ const Palestras_Civil = [
     title: "Aplicação de software para análise de estabilidade de taludes",
   instructor: "Eng. Civil Paulo Rocha",
   institution: "Geo Soluções",
-  desc: `XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-  DESCRIÇÃO DA PALESTRA`,
+  desc: `
+  `,
   date: "11/05",
   time: "19:00-20:00",
   place: "Microsoft Teams"
@@ -409,7 +409,7 @@ const Palestras_ControleAutomacao = [
     title: "O mercado de automação industrial e como conseguir oportunidades",
     instructor: "Filipe Fraga",
     institution: "SENAI Ítalo Bologna",
-    desc: `XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX`,
+    desc: ``,
     date: "10/05",
     time: "09:00-10:00",
     place: "YouTube",
