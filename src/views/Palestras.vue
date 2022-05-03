@@ -108,7 +108,6 @@ export default class Palestras extends Vue {
 .button {
   border-radius: 5rem;
   background-color: #006ca3;
-  margin-right: 2rem;
   color: white;
   transition: all 0.2s ease-in-out;
 }
