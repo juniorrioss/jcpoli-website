@@ -12,7 +12,8 @@ const Palestras_Computacao = [
         gestão de crises, digital analytics e User Experience (UX).`,
     date: "09/05",
     time: "08:00-09:30",
-    place: "YouTube", 
+    place: "YouTube",
+    link: "https://www.youtube.com/watch?v=4HyeCaH-gsA&ab_channel=PUCGoi%C3%A1s" 
   },
   {
     title: "",
@@ -276,7 +277,8 @@ const Palestras_Agronomia = [
   `,
   date: "10/05",
   time: "10:00-11:30",
-  place: "Microsoft Teams"
+  place: "Microsoft Teams",
+  link: "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1651584197702?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2219202b0c-a430-4a6f-8eac-33d2cc220195%22%7d"
   },
   {
     title: "Projetos de Irrigação",
@@ -286,7 +288,8 @@ const Palestras_Agronomia = [
   `,
   date: "10/05",
   time: "19:00-20:30",
-  place: "Microsoft Teams"
+  place: "Microsoft Teams",
+  link: "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1651587943078?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2219202b0c-a430-4a6f-8eac-33d2cc220195%22%7d"
   },
   {
     title: "Pesquisa e extensão para pequenos produtores",
@@ -306,7 +309,8 @@ const Palestras_Agronomia = [
   `,
   date: "11/05",
   time: "10:00-11:30",
-  place: "Microsoft Teams"
+  place: "Microsoft Teams",
+  link: "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1651584331011?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2219202b0c-a430-4a6f-8eac-33d2cc220195%22%7d"
   },
   {
     title: "Inovação em Fruticultura e Pós-Colheita",
@@ -316,7 +320,8 @@ const Palestras_Agronomia = [
   `,
   date: "11/05",
   time: "19:00-20:30",
-  place: "Microsoft Teams"
+  place: "Microsoft Teams",
+  link: "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1651587827005?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2219202b0c-a430-4a6f-8eac-33d2cc220195%22%7d"
   },  
 ]
 
@@ -341,7 +346,8 @@ const Palestras_Civil = [
   `,
   date: "09/05",
   time: "20:00-21:00",
-  place: "Microsoft Teams"
+  place: "Microsoft Teams",
+  link: "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1651588024605?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2219202b0c-a430-4a6f-8eac-33d2cc220195%22%7d"
   },
   {
     title: "Edifícios de múltiplos andares em estruturas de aço e mistas de aço-concreto",
@@ -351,7 +357,8 @@ const Palestras_Civil = [
   `,
   date: "10/05",
   time: "20:00-21:00",
-  place: "Microsoft Teams"
+  place: "Microsoft Teams",
+  link: "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1651588097274?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2219202b0c-a430-4a6f-8eac-33d2cc220195%22%7d"
   },
   {
     title: "Aplicação de software para análise de estabilidade de taludes",
@@ -361,7 +368,8 @@ const Palestras_Civil = [
   `,
   date: "11/05",
   time: "19:00-20:00",
-  place: "Microsoft Teams"
+  place: "Microsoft Teams",
+  link: "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1651587509910?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2219202b0c-a430-4a6f-8eac-33d2cc220195%22%7d"
   },
 
 ]
@@ -393,7 +401,8 @@ const Palestras_ArquiteturaUrbanismo = [
   `,
   date: "10/05",
   time: "19:00-20:30",
-  place: "Microsoft Teams"
+  place: "Microsoft Teams",
+  link: "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1651587678362?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2219202b0c-a430-4a6f-8eac-33d2cc220195%22%7d"
   },
   {
     title: "Arquitetura Hospitalar",
@@ -416,6 +425,7 @@ const Palestras_ControleAutomacao = [
     date: "10/05",
     time: "09:00-10:00",
     place: "YouTube",
+    link: "https://www.youtube.com/watch?v=pTa0Vr_ApV0&ab_channel=PUCGoi%C3%A1s"
   },
   {
     title: "Automação Residencial Uma Realidade de Futuro",
@@ -438,6 +448,7 @@ const Palestras_IniciacaoCientifica = [
     date: "10/05",
     time: "17:00-18:30",
     place: "Microsoft Teams",
+    link: "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1651587400153?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2219202b0c-a430-4a6f-8eac-33d2cc220195%22%7d"
   },
 ]
 
