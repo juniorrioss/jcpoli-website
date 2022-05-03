@@ -259,9 +259,9 @@ const Palestras_Agronomia = [
     link: "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1651582364973?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2219202b0c-a430-4a6f-8eac-33d2cc220195%22%7d"
   },
   {
-    title: "Gestão e Manejo de Irrigação",
-  instructor: "Leonardo Inácio da Silva",
-  institution: "iCrop Gestão de Irrigação",
+    title: "Irrigação de Alta Performance",
+  instructor: "Faos Pereira Lopes",
+  institution: `Head de Experiência do Cliente (Cofundador iCrop) `,
   desc: `
   `,
   date: "10/05",
