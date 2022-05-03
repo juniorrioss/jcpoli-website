@@ -3,15 +3,15 @@ const Competicao = [
     title: "Maratona de Programação",
   instructor: "Prof Alexandre e Prof.ª Carmen",
   institution: "PUC Goiás",
-  desc: `XXXXXXXXXXXXX Descricao
+  desc: `Com o objetivo de motivar os estudantes da PUC Goiás a expandirem sua capacidade de resolver problemas, utilizando programação de computadores e desenvolverem a habilidade de trabalhar em grupo, a Maratona de Programação da Escola Politécnica será realizada como parte integrante da I JCPOLI.
   `,
   date: "11/05",
   time: "18:00 - 22:00",
   place: "Lab. 101C a 105C, área II",
-  image: "assets/img/slider/logo-maratona.jpg"
+  image: "assets/img/slider/logo-maratona.jpeg"
   },
   {
-    title: "Desafio em Ciências de dados",
+    title: "Desafio em Ciência de dados",
   instructor: "Prof.ª Maria José",
   institution: "PUC Goiás",
   desc: `O “Desafio em Ciência de Dados” é uma competição que visa reunir alunos da
