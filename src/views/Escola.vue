@@ -656,6 +656,38 @@ export default class Escola extends Vue {
           place: 'Microsoft Teams'
         }
       },
+      {
+        name: 'Roberto Márcio dos Santos',
+        institution: 'PUC Goiás',
+        speaking: `Navegação Aérea
+        `,
+        description: `Capitão RF Especialista em Aeronáutica - Controlador de Tráfego Aéreo - pela Força Aérea Brasileira (1981). Psicopedagogo, pela PUC-GOIÁS (2019). Possui experiência na área de Educação, 
+                com ênfase em Métodos e Técnicas de Ensino para o ensino regular e para a educação especial, em particular, para autistas e outros problemas do desenvolvimento, e na área da Aviação, com ênfase em Formação de Pessoal, 
+                Controle do Espaço Aéreo, Segurança Operacional, Segurança da Aviação Contra Atos de Interferência Ilícita (AESEC) Novas Tecnologias Satelitais (CNS-ATM), História da Aviação e Medicina Aeroespacial. `,
+        subjectResume: `Planejamento de voo, procedimentos de saída, TOC, voo em rota, efeitos do vento, TOD, procedimentos de aproximação. Cálculos de razão de subida, descida, velocidades e estimados.`,
+        img: '/assets/img/speakers/Roberto_Márcio.png',
+        customSize: '100%',
+        datentime: {
+          date: '09/05',
+          time: '13:30 - 17:00',
+          place: 'Auditório 3, área II'
+        }
+      },
+      {
+        name: 'Salmen Chaquip Bukzem',
+        institution: 'PUC Goiás',
+        speaking: `Planejamento de Voo
+        `,
+        description: `Graduado em Desenvolvimento de Sistemas de Informação, Especialista em Docência do Ensino Superior e em Gestão de Segurança da Informação e Comunicações pela Universidade de Brasília. Militar da reserva da Força Aérea onde exerceu a função de Supervisor e Instrutor de órgãos de controle de tráfego aéreo, com atuação na Prevenção e Investigação de Acidentes Aeronáuticos, Gerenciamento de Sistemas de Segurança Operacional, Inspeção em Prestadores de Serviço de Navegação Aérea e instrução em diversos cursos do SISCEAB. Atualmente é Coordenador do Curso de Ciências Aeronáuticas da Pontifícia Universidade Católica de Goiás. `,
+        subjectResume: `Interpretação de cartas, ROTAER, análise e escolha dos aeródromos; escolha da rota a ser percorrida; análise da meteorologia atual e prevista; cálculos de performance da aeronave; preenchimento e envio do formulário de plano de voo, conferência da documentação necessária ao voo. `,
+        img: '/assets/img/speakers/Salmen_Chaquip.jpg',
+        customSize: '100%',
+        datentime: {
+          date: '10/05',
+          time: '13:30 - 17:00',
+          place: 'Auditório 2, área II'
+        }
+      },
     ]
   }
 }
