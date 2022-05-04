@@ -414,8 +414,8 @@ let Palestras = [
     desc: ``,
     date: "11/05",
     time: "19:00-20:30",
-    place: "YouTube",
-    link: "https://www.youtube.com/watch?v=eJ5UYk4ByoQ&ab_channel=PUCGoi%C3%A1s"
+    place: "Auditório 3, área II",
+    
   },
 
 //===================================================
