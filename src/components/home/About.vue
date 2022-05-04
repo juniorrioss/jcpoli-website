@@ -6,11 +6,12 @@
       </v-flex>
       <v-flex id="sobre" xs12 class="text-xs-left" mt-3>
         <p>
-          Temos o prazer de anunciar a realização da I Jornada Científica da
+          Temos a alegria de anunciar a realização da I Jornada Científica da
           Escola Politécnica (I JCPOLI) da Pontifícia Universidade Católica de
-          Goiás (PUC Goiás) realizada de 9 a 11 de Maio de 2022. A I JCPOLI terá
-          como tema Cultura, Inovação e Empreendedorismo, oferecendo palestras,
-          minucursos e exposições.
+          Goiás (PUC Goiás) que será realizada de 9 a 11 de Maio de 2022. A I
+          JCPOLI tem como o tema Cultura, Inovação e Empreendedorismo,
+          oferecendo 51 atividades: palestras, mesa redonda, minicursos,
+          competições e exposições.
         </p>
       </v-flex>
       <v-flex xs12 class="text-xs-left" mt-5>

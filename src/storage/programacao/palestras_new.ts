@@ -131,7 +131,7 @@ let Palestras = [
   },
   
   {
-    title: "",
+    title: "Palestra de Abertura",
     instructor: "Paulo Alexandre Bernardo dos Santos Nunes",
     institution: "Manager, Junior Talent Unit (JTU)",
     desc: ``,
@@ -243,6 +243,7 @@ let Palestras = [
     date: "10/05",
     time: "19:00-20:30",
     place: "Auditório 2, área II",
+    abertura: true,
   },
   {
     title: "A importância da interdisciplinaridade nos projetos e nos negócios",

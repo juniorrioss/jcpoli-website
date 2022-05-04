@@ -2,8 +2,12 @@
 let Courses = [
   {
     title: "I Workshop de Inspeção Predial: Inspeção em obras de infraestrutura: pontes, viadutos, barragens e usinas hidrelétricas",
+<<<<<<< HEAD
     instructor: `Prof. Ricardo Barbosa Ferreira,
     Profa. Rosana Lucas de Melo Brandão`,
+=======
+    instructor: "Prof. Ricardo Barbosa Ferreira, Profa. Rosana Lucas de Melo Brandão",
+>>>>>>> 653fb10a8fbc4d8a080ddaf34044e93390502f7c
     institution: "PUC Goiás",
     desc: ``,
     date: "09/05",

@@ -2,7 +2,10 @@
   <div class="miniCourse">
     <div class="title">
       <i class="fas fa-graduation-cap"></i>
-      <h3 :title="course.title">
+      <h3
+        :title="course.title"
+        v-bind:id="'true' ? course.title === 'Palestra de Abertura' : ''"
+      >
         {{ course.title }}
       </h3>
     </div>
