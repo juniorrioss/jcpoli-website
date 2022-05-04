@@ -60,6 +60,11 @@
 .miniCourse .desc {
   grid-area: desc;
 }
+
+#true{
+  color:red;
+}
+
 @media screen and (max-width: 768px) {
   .miniCourse {
     grid-template-columns: 100%;
