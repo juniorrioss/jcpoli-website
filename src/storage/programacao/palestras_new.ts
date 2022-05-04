@@ -9,10 +9,10 @@ let Palestras = [
         ecossistema de empresas, ventures e startups que oferecem as mais diversificadas soluções tecnológicas e inovadoras do mercado, 
         investimos em transformação digital, comunicação, cobertura de eventos, live commerce, gestão de branding, reputação da marca, 
         gestão de crises, digital analytics e User Experience (UX).`,
-    date: "09/05",
-    time: "08:00-09:30",
-    place: "YouTube",
-    link: "https://www.youtube.com/watch?v=4HyeCaH-gsA&ab_channel=PUCGoi%C3%A1s" 
+    date: "11/05",
+    time: "10:00-11:30",
+    place: "Microsoft Teams",
+    link: "" //CONFIRMAR LINK
   },
   {
     title: "O que são Soft Skills e como desenvolvê-las ainda na graduação",
@@ -417,6 +417,35 @@ let Palestras = [
     time: "19:00-20:30",
     place: "Auditório 3, área II",
     
+  },
+  {
+    title: "I Workshop de Inspeção Predial: Inspeção em obras de infraestrutura: pontes, viadutos, barragens e usinas hidrelétricas",
+    instructor: "Prof. Ricardo Barbosa Ferreira, Profa. Rosana Melo de Lucas Brandão",
+    institution: "PUC Goiás",
+    desc: ``,
+    date: "09/05",
+    time: "10:00-12:00",
+    place: "Auditório 3, área II"
+  },
+  {
+    title: "I Workshop de Inspeção Predial: Simulação de degradação e ensaios de desempenho como ferramentas para a inspeção predial",
+    instructor: `Profa. Me. Tatiana Renata Pereira Jucá, 
+    Prof. Me. Antônio Manuel Corado Pombo Fernandes`,
+    institution: "PUC Goiás",
+    desc: ``,
+    date: "11/05",
+    time: "10:00-12:00",
+    place: "Auditório 3, área II"
+  },
+  {
+    title: "I Workshop de Inspeção Predial: Inspeção em protótipos",
+    instructor: `Profa. Me. Tatiana Renata Pereira Jucá, 
+    Prof. Me. Antônio Manuel Corado Pombo Fernandes`,
+    institution: "PUC Goiás",
+    desc: ``,
+    date: "11/05",
+    time: "15:00-16:00",
+    place: "Teatro de Arena, área III"
   },
 
 //===================================================

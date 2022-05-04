@@ -503,7 +503,7 @@ export default class Escola extends Vue {
         `,
         subjectResume: `
         `,
-        img: '',
+        img: '/assets/img/speakers/Jose_Assumpção.jpg',
         customSize: '100%',
         datentime: {
           date: '09/05',
@@ -571,7 +571,7 @@ export default class Escola extends Vue {
       {
         name: 'Paulo Alexandre Bernardo dos Santos Nunes',
         institution: 'Manager, Junior Talent Unit (JTU)',
-        speaking: `
+        speaking: `Palestra de Abertura
         `,
         description: `Paulo Nunes está focado nos mercados internacionais, nomeadamente norte da Europa, América e Médio Oriente. Paulo Nunes lidera também a Junior Talent Unit (JTU), gerindo a formação e programas de recrutamento. 
         `,
