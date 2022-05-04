@@ -17,7 +17,7 @@ const Exposicao_Design = [
 const Exposicao_Arquitetura = [
   {
     title: "TFC -1 | Trabalho de Fim de Ciclo 1",
-    instructor: "Alunos da PUC Goiás",
+    instructor: "",
     institution: "PUC Goiás",
     desc: `É uma atividade de encerramento do Primeiro Ciclo de Aprendizagem, que se inicia no 1º período e finaliza no 3º período, para o turno matutino, e 4º período, para o turno noturno. Consiste em um projeto integrado que contempla a aplicação dos conteúdos das disciplinas que compõem esse ciclo.  
 

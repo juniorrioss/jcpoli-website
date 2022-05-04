@@ -22,13 +22,15 @@
           </div>
 
           <div class="desc">
-            <img :src="expo.image" id="indio-photo" />
+            <img :src="expo.image" id="photo" />
 
             <div class="desc-text">
               <p>
                 {{ expo.desc }}
               </p>
-              <h5 :title="expo.instructor">Artista: {{ expo.instructor }}</h5>
+              <h5 v-if="expo.instructor" :title="expo.instructor">
+                Artista: {{ expo.instructor }}
+              </h5>
             </div>
           </div>
           <div class="info-h">
@@ -97,7 +99,7 @@ h5 {
   margin-right: 3rem;
 }
 
-#indio-photo {
+#photo {
   height: 30rem;
 }
 
