@@ -1,8 +1,9 @@
 
 let Courses = [
   {
-    title: "Inspeção em obras de infraestrutura: pontes, viadutos, barragens e usinas hidrelétricas",
-    instructor: "Profa. Rosana Lucas de Melo Brandão",
+    title: "I Workshop de Inspeção Predial: Inspeção em obras de infraestrutura: pontes, viadutos, barragens e usinas hidrelétricas",
+    instructor: `Prof. Ricardo Barbosa Ferreira,
+    Profa. Rosana Lucas de Melo Brandão`,
     institution: "PUC Goiás",
     desc: ``,
     date: "09/05",
@@ -68,8 +69,9 @@ let Courses = [
     link: "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1651584839051?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2219202b0c-a430-4a6f-8eac-33d2cc220195%22%7d"
   },
   {
-    title: "Simulação de degradação e ensaios de desempenho como ferramentas para a inspeção predial",
-    instructor: "Prof. Me. Antônio Manuel Corado Pombo Fernandes",
+    title: "I Workshop de Inspeção Predial: Simulação de degradação e ensaios de desempenho como ferramentas para a inspeção predial",
+    instructor: `Profa. Me. Tatiana Renata Pereira Jucá, 
+    Prof. Me. Antônio Manuel Corado Pombo Fernandes`,
     institution: "PUC Goiás",
     desc: ``,
     date: "11/05",
@@ -95,8 +97,9 @@ let Courses = [
     place: "Espaço de Palestras ITS (Campus II)"
   }, 
   {
-    title: "Inspeção em protótipos",
-    instructor: "Prof. Me. Antônio Manuel Corado Pombo Fernandes",
+    title: "I Workshop de Inspeção Predial: Inspeção em protótipos",
+    instructor: `Profa. Me. Tatiana Renata Pereira Jucá, 
+    Prof. Me. Antônio Manuel Corado Pombo Fernandes`,
     institution: "PUC Goiás",
     desc: ``,
     date: "11/05",
