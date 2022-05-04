@@ -29,7 +29,8 @@ const Courses_Civil = [
     desc: ``,
     date: "09/05",
     time: "15:00-16:30",
-    place: "Microsoft Teams"
+    place: "Microsoft Teams",
+    link: "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1651584931609?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2219202b0c-a430-4a6f-8eac-33d2cc220195%22%7d"
   },  
   {
     title: "Smath Studio: aplicações em cálculos de Engenharia",
@@ -38,7 +39,8 @@ const Courses_Civil = [
     desc: `Requisito: Realizar download e instalação prévia do Smath Studio pelo link https://en.smath.com/view/SMathStudio/summary `,
     date: "10/05",
     time: "14:00-18:00",
-    place: "Microsoft Teams"
+    place: "Microsoft Teams",
+    link: "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1651584839051?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2219202b0c-a430-4a6f-8eac-33d2cc220195%22%7d"
   },
   {
     title: "Simulação de degradação e ensaios de desempenho como ferramentas para a inspeção predial",

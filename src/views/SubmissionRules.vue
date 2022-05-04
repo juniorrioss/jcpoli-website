@@ -502,7 +502,7 @@
             <v-btn
               type="submit"
               color="primary"
-              href="/assets/edital_JCPOLI.pdf"
+              href="/assets/orientações professores e alunos I JCPOLI.pdf"
               target="_blank"
             >
               ACESSAR ORIENTAÇÕES
