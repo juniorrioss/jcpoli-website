@@ -7,7 +7,7 @@
       <v-flex id="sobre" xs12 class="text-xs-left" mt-3>
         <p>
           Temos o prazer de anunciar a realização da I Jornada Científica da
-          Escola Politécnica (JCPOLI) da Pontifícia Universidade Católica de
+          Escola Politécnica (I JCPOLI) da Pontifícia Universidade Católica de
           Goiás (PUC Goiás) realizada de 9 a 11 de Maio de 2022. A I JCPOLI terá
           como tema Cultura, Inovação e Empreendedorismo, oferecendo palestras,
           minucursos e exposições.
