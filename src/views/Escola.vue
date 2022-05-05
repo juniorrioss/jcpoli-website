@@ -117,7 +117,7 @@
           <ul class="list-cursos">
             <h5>SemiPresenciais</h5>
             <a
-              href="https://ead.pucgoias.edu.br/cursos-graduacao/engenharia-civil-ead"
+              href="https://ead.pucgoias.edu.br/cursos-graduacao/engenharia-eletrica-ead"
               target="_blank"
             >
               <li>
