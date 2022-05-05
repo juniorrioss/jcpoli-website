@@ -121,6 +121,15 @@
               target="_blank"
             >
               <li>
+                Engenharia Elétrica
+              </li>
+            </a>
+
+            <a
+              href="https://ead.pucgoias.edu.br/cursos-graduacao/engenharia-civil-ead"
+              target="_blank"
+            >
+              <li>
                 Engenharia Civil
               </li>
             </a>
@@ -687,7 +696,7 @@ export default class Escola extends Vue {
           time: '13:30 - 17:00',
           place: 'Auditório 2, área II'
         }
-      },
+      }
     ]
   }
 }
