@@ -678,6 +678,7 @@ export default class Escola extends Vue {
         institution: 'PUC Goiás',
         speaking: `Planejamento de Voo
         `,
+        speaking2:'Estrutura do Espaço Aéreo Brasileiro',
         description: `Graduado em Desenvolvimento de Sistemas de Informação, Especialista em Docência do Ensino Superior e em Gestão de Segurança da Informação e Comunicações pela Universidade de Brasília. Militar da reserva da Força Aérea onde exerceu a função de Supervisor e Instrutor de órgãos de controle de tráfego aéreo, com atuação na Prevenção e Investigação de Acidentes Aeronáuticos, Gerenciamento de Sistemas de Segurança Operacional, Inspeção em Prestadores de Serviço de Navegação Aérea e instrução em diversos cursos do SISCEAB. Atualmente é Coordenador do Curso de Ciências Aeronáuticas da Pontifícia Universidade Católica de Goiás. `,
         subjectResume: `Interpretação de cartas, ROTAER, análise e escolha dos aeródromos; escolha da rota a ser percorrida; análise da meteorologia atual e prevista; cálculos de performance da aeronave; preenchimento e envio do formulário de plano de voo, conferência da documentação necessária ao voo. `,
         img: '/assets/img/speakers/Salmen_Chaquip.jpg',

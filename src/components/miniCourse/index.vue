@@ -27,7 +27,8 @@
         <div>{{ course.date }}</div>
         <div>{{ course.time }}</div>
         <div>
-          <a :href="course.link" target="_blank">{{ course.place }}</a>
+          <a v-if="course.link":href="course.link" target="_blank">{{ course.place }}</a>
+          <div v-if="course.link == null">{{ course.place }}</div>
         </div>
       </div>
     </div>

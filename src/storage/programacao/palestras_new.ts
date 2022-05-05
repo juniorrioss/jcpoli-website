@@ -12,7 +12,7 @@ let Palestras = [
     date: "11/05",
     time: "10:00-11:30",
     place: "Microsoft Teams",
-    link: "" //CONFIRMAR LINK
+    link: "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1651759271281?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2219202b0c-a430-4a6f-8eac-33d2cc220195%22%7d"
   },
   {
     title: "O que são Soft Skills e como desenvolvê-las ainda na graduação",
@@ -149,7 +149,7 @@ let Palestras = [
   date: "10/05",
   time: "08:00-09:30",
   place: "Microsoft Teams",
-  link: "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1651581140845?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2219202b0c-a430-4a6f-8eac-33d2cc220195%22%7d"
+  link: "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1651701960668?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2219202b0c-a430-4a6f-8eac-33d2cc220195%22%7d"
   },
   {
     title:
