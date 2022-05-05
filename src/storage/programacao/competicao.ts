@@ -12,7 +12,7 @@ const Competicao = [
   },
   {
     title: "Desafio em Ciência de dados",
-  instructor: "Prof.ª Maria José Pereira Dantas",
+  instructor: "Prof.ª Maria José Pereira Dantas e Prof. José Elmo de Menezes",
   institution: "PUC Goiás",
   desc: `O “Desafio em Ciência de Dados” é uma competição que visa reunir alunos da
   pós-graduação, graduação, iniciação científica, ensino médio e egressos da PUC Goiás

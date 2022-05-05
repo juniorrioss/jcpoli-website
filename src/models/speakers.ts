@@ -283,7 +283,7 @@ Palestra sobre a situação atual dos transplantes no Brasil e em Goiás e sobre
     `,
     subjectResume: `
     `,
-    img: '',
+    img: '/assets/img/speakers/Jose_Assumpção.jpg',
     customSize: '100%',
     datentime: {
       date: '09/05',
@@ -351,7 +351,7 @@ Palestra sobre a situação atual dos transplantes no Brasil e em Goiás e sobre
   {
     name: 'Paulo Alexandre Bernardo dos Santos Nunes',
     institution: 'Manager, Junior Talent Unit (JTU)',
-    speaking: `
+    speaking: `Palestra de Abertura
     `,
     description: `Paulo Nunes está focado nos mercados internacionais, nomeadamente norte da Europa, América e Médio Oriente. Paulo Nunes lidera também a Junior Talent Unit (JTU), gerindo a formação e programas de recrutamento. 
     `,
@@ -458,8 +458,10 @@ Palestra sobre a situação atual dos transplantes no Brasil e em Goiás e sobre
     institution: 'PUC Goiás',
     speaking: `Planejamento de Voo
     `,
+    speaking2:'Estrutura do Espaço Aéreo Brasileiro',
     description: `Graduado em Desenvolvimento de Sistemas de Informação, Especialista em Docência do Ensino Superior e em Gestão de Segurança da Informação e Comunicações pela Universidade de Brasília. Militar da reserva da Força Aérea onde exerceu a função de Supervisor e Instrutor de órgãos de controle de tráfego aéreo, com atuação na Prevenção e Investigação de Acidentes Aeronáuticos, Gerenciamento de Sistemas de Segurança Operacional, Inspeção em Prestadores de Serviço de Navegação Aérea e instrução em diversos cursos do SISCEAB. Atualmente é Coordenador do Curso de Ciências Aeronáuticas da Pontifícia Universidade Católica de Goiás. `,
     subjectResume: `Interpretação de cartas, ROTAER, análise e escolha dos aeródromos; escolha da rota a ser percorrida; análise da meteorologia atual e prevista; cálculos de performance da aeronave; preenchimento e envio do formulário de plano de voo, conferência da documentação necessária ao voo. `,
+    subjectResume2: `Espaço aéreo inferior, superior, espaços aéreos controlados, classes de espaço aéreo, região de informação de voo, órgãos ATS e serviços prestados. `,
     img: '/assets/img/speakers/Salmen_Chaquip.jpg',
     customSize: '100%',
     datentime: {
