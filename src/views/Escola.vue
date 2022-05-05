@@ -117,6 +117,15 @@
           <ul class="list-cursos">
             <h5>SemiPresenciais</h5>
             <a
+              href="https://ead.pucgoias.edu.br/cursos-graduacao/engenharia-eletrica-ead"
+              target="_blank"
+            >
+              <li>
+                Engenharia Elétrica
+              </li>
+            </a>
+
+            <a
               href="https://ead.pucgoias.edu.br/cursos-graduacao/engenharia-civil-ead"
               target="_blank"
             >
@@ -688,7 +697,7 @@ export default class Escola extends Vue {
           time: '13:30 - 17:00',
           place: 'Auditório 2, área II'
         }
-      },
+      }
     ]
   }
 }
