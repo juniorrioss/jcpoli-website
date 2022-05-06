@@ -58,6 +58,13 @@ export default class Escola extends Vue {
     super()
 
     this.photos = [
+      '/assets/img/egressos/10.jpeg',
+      '/assets/img/egressos/11.jpeg',
+      '/assets/img/egressos/12.jpeg',
+      '/assets/img/egressos/13.jpeg',
+      '/assets/img/egressos/14.jpeg',
+      '/assets/img/egressos/15.jpeg',
+      '/assets/img/egressos/16.jpeg',
       '/assets/img/egressos/1.jpeg',
       '/assets/img/egressos/2.jpeg',
       '/assets/img/egressos/3.jpeg',
@@ -65,14 +72,7 @@ export default class Escola extends Vue {
       '/assets/img/egressos/5.jpeg',
       '/assets/img/egressos/6.jpeg',
       '/assets/img/egressos/7.jpeg',
-      '/assets/img/egressos/8.jpeg',
-      '/assets/img/egressos/10.jpeg',
-      '/assets/img/egressos/11.jpeg',
-      '/assets/img/egressos/12.jpeg',
-      '/assets/img/egressos/13.jpeg',
-      '/assets/img/egressos/14.jpeg',
-      '/assets/img/egressos/15.jpeg',
-      '/assets/img/egressos/16.jpeg'
+      '/assets/img/egressos/8.jpeg'
     ]
   }
 }
@@ -85,43 +85,29 @@ body {
   padding: 0;
 }
 
-#grid {
-  display: grid;
-  grid: flex;
-  grid-template-columns: reapeat(auto-fill, minmax(300px, 1fr));
-  grid-auto-rows: minmax(250px, auto);
-  grid-auto-flow: column dense;
-  grid-column-gap: 0.5rem;
-  grid-row-gap: 0.5rem;
-  margin: 20px 0 0 0;
-}
-
-#grid img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-}
-
-.mosaic {
-}
-.mosaic img {
-  height: 15rem;
-  padding: 1.5rem;
-}
-
 .gallery {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(20rem, 1fr));
-  grid-gap: 1rem;
+  grid-gap: 5rem;
   margin: 5rem auto;
 }
 
 .gallery-panel img {
   height: 15rem;
-  width: 25rem;
+  width: 50rem;
 
   object-fit: cover;
   border-radius: 0.75rem;
+
+  transition: transform 0.5s;
+}
+
+.gallery-panel img:hover {
+  object-fit: contain;
+
+  transform: scale(1.8);
+
+  padding: 3rem;
 }
 
 @media screen and (min-width: 800px) {
