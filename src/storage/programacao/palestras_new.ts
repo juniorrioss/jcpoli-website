@@ -106,7 +106,7 @@ let Palestras = [
       
   `,
     date: "09/05",
-    time: "18:00-19:30",
+    time: "18:00-19:00",
     place: "Auditório 2, área II",
   },
   {
@@ -162,8 +162,9 @@ let Palestras = [
       "Internacionalização na área de Design – série Trajetórias, com Nivia Boz",
     instructor: "Nivia Barboza Ferreira",
     institution: "Auckland University of Technology - Aotearoa/New Zealand",
-    desc: `A palestra aborda a trajetória da egressa do curso de Design da PUC Goiás e suas experiências exitosas em 
-        atividades profissionais e acadêmicas internacionalmente.`,
+    desc: `A palestra aborda a trajetória da egressa do curso de Design da PUC Goiás e suas experiências exitosas em atividades profissionais e acadêmicas internacionalmente.
+    Nivia tem estado continuamente envolvida na investigação acadêmica. Faz parte do DEED – Design, Entertainment, and Education Research Cluster e do Global South Practices Design Research Cluster. Além disso, é uma das fundadoras do “Gaming for all”, um evento para promover a diversidade na indústria de jogos e na academia no Brasil.
+    `,
     date: "10/05",
     time: "08:30-10:00",
     place: "YouTube",
@@ -227,8 +228,9 @@ let Palestras = [
       "Internacionalização na área de Design – série Trajetórias, com Paula Leocadio",
     instructor: "Paula Leocadio",
     institution: "Universidade de Cork - Irlanda",
-    desc: `A palestra aborda a trajetória da egressa do curso de Design da PUC Goiás e suas experiências exitosas em 
-        atividades profissionais e acadêmicas internacionalmente.`,
+    desc: `A palestra aborda a trajetória da egressa do curso de Design da PUC Goiás e suas experiências exitosas em atividades profissionais e acadêmicas internacionalmente.
+    Paula atualmente é doutoranda pela University College Cork e Cork University Hospital, Irlanda, tendo como foco de sua pesquisa o design de serviços para inovação na área da saúde. Foi bolsista do Ministério da Cultura do Brasil em 2015 para formação profissional em tendências e design no Instituto Europeo di Design Milano, Italia.
+    `,
     date: "10/05",
     time: "10:30-12:00",
     place: "YouTube",
@@ -471,13 +473,13 @@ let Palestras = [
   },
   {
     title: "Campus Party Goiás 2 – Reiniciando tudo em 3, 2, 1",
-    instructor: `Prof Sandeco Macedo
+    instructor: `Prof. Sandeco Macedo
     `,
-    institution: "PUC Goiás",
+    institution: "Embaixador Campus Party Brasil; IFG",
     desc: `No final da palestra ocorrerá um sorteio de 15 ingressos para Campus Party Goiás 2.`,
-    date: "A definir",
-    time: "A definir",
-    place: "A definir",
+    date: "11/05",
+    time: "10:00-11:30",
+    place: "Auditório 2, área II",
   },
   {
     title: "Como a Incubadora PUC Goiás pode transformar a sua ideia em um projeto real",
@@ -489,7 +491,7 @@ let Palestras = [
     Nossa incubadora de empresas favorece ao empreendedor, por meio de assessorias: Gestão empresarial; Gestão tecnológica; Comercialização de produtos e serviços; Contabilidade; Marketing; Assistência jurídica entre outras.
     `,
     date: "09/05",
-    time: "20:30",
+    time: "20:30-22:00",
     place: "YouTube",
   },
 
