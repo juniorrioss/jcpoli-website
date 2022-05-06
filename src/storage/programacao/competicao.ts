@@ -26,7 +26,7 @@ período de 2000 a 2017, um problema real de modelagem para previsão do tempo d
 espera na fila, usando ciência dos dados
   `,
   date: "09/05 - 13/05",
-  time: "19:00 - 22:00",
+  time: "09/05 às 10:00 - Apresentação do desafio",
   place: "A definir",
   image: "assets/img/slider/logo-desafiodados.jpeg"
   },

@@ -164,8 +164,8 @@ export default class Home extends Vue {
         customSize: '100%',
         datentime: {
           date: '11/05',
-          time: '10:00 - 11:30',
-          place: 'Auditório 2, área II'
+          time: '07:30 - 09:00',
+          place: 'Auditório Marisa Roriz, área III'
         }
       },
 
@@ -264,22 +264,22 @@ export default class Home extends Vue {
       },
 
       {
-        name: 'Maycon Silva',
-        institution: 'Head of Innovation Lab',
-        speaking: '',
-        description: `Maycon Silva é responsável pelo Innovation Lab e está focado em acompanhar as últimas tendências tecnológicas e promove a transferência de conhecimento para as equipes, parceiros e colaboradores de nossos clientes. Maycon tem e seu portifólio serviços de planejamento e criação de centros tecnológicos de excelência (CoEs), renovações tecnológicas, análise e definição de arquitetura, desenvolvimento de aplicativos, entre outros.   
-`,
-        subjectResume: `
+          name: "Maycon Silva",
+          institution: "Askblue",
+          speaking: "De Goiânia para o mundo",
+          description: `Maycon Silva, 34 anos, formado em Análise de Sistemas, militar do Exército Brasileiro por 4 anos, iniciou a carreira em Tecnologia da Informação em 2010. Atou em funções como suporte, desenvolvedor, analista de processos, analista de indicadores, consultor OutSystems, Tech Lead e gestor de projetos e atualmente mora em Portugal.   
+      `,
+          subjectResume: `Partilha de experiência de o que é sair do Brasil para morar fora e o foco em uma carreira sustentável imerso em uma cultura diferente.
 
-`,
-        img: '',
-        customSize: '100%',
-        datentime: {
-          date: '10/05',
-          time: '19:00 - 20:30',
-          place: 'Auditório 2, área II'
-        }
-      },
+      `,
+          img: "/assets/img/speakers/Maycon_Silva.jpeg",
+          customSize: "100%",
+          datentime: {
+            date: "10/05",
+            time: "19:00 - 20:30",
+            place: "Auditório 2, área II",
+          },
+        },
 
       {
         name: 'Ávinner Prado',
@@ -364,38 +364,38 @@ export default class Home extends Vue {
         institution:
           'Marcos Costa – designer, artista e professor independente e PUC Goiás',
         speaking:
-          'Povos primordiais – o resgate inédito da imagem de etnias desaparecidas',
+          'Mesa redonda: Povos primordiais – o resgate inédito da imagem de etnias desaparecidas',
         description: `Mestre em História pela PUC-GO na área de concentração de Cultura e Poder; Bacharel em Artes Visuais / Comunicação Visual,
                pela Universidade Federal de Goiás. Professor no ensino superior de design há 23 anos. Atuou como coordenador por 13 anos, 
                participou da elaboração de Planos de Desenvolvimento Institucional e Projetos Pedagógicos de vários cursos, atuou em CPA, CONSUP, CIPA e Conselho Técnico Científico de diversas IES. 
                Foi membro da Comissão Assessora de área do Exame Nacional de Desempenho dos Estudantes — Enade, de Tecnologia em Design Gráfico 2018 e 2019.
                Foi docente na UFG, PUC-GO e Faculdade Senac GO. Desenvolve pesquisas e trabalhos visuais a partir do resgate da imagem de povos originários do Brasil.   
 `,
-        subjectResume: `A palestra aborda o mesmo tema da exposição que deve abrir na mesma data. Será uma mesa redonda com mediação feita pela coordenadora do curso de Design, Genilda Alexandria, sobre o trabalho de pesquisa, levantamento histórico e reprodução artística em carvão dos desenhos de Marcos Costa. A participação do IGPA fará o evento interdisciplinar, fortalecendo o vínculo com o fazer científico e com a conexão antropológica do tema.
-`,
+        subjectResume: `A palestra aborda o mesmo tema da exposição que deve abrir na mesma data. Os povos originários são guardiões de tradições de verdadeiros tesouros imateriais, infelizmente esta é uma ideia recente. No passado muito se perdeu por falta consciência do valor e de registros adequados. Em busca do resgate da memória perdida, o designer Marcos Costa iniciou um trabalho autoral para reconstruir imagens de alguns desses povos. 
+            Será uma mesa redonda com mediação feita pela coordenadora do curso de Design, Genilda Alexandria, sobre o trabalho de pesquisa, levantamento histórico e reprodução artística em carvão dos desenhos de Marcos Costa. A participação da professora dra. Maria Cristina Nunes F. Neto fará o evento interdisciplinar, fortalecendo o vínculo com o fazer científico e com a conexão antropológica do tema. `,
         img: '/assets/img/speakers/Marcos_Costa.jpg',
         customSize: '100%',
         datentime: {
           date: '09/05',
           time: '10:30 - 12:00',
-          place: 'Auditório Marisa Roriz, área III'
+          place: 'Auditório 2, área II'
         }
       },
       {
         name: 'Maria Cristina Nunes F. Neto',
         institution: '',
         speaking:
-          'Povos primordiais – o resgate inédito da imagem de etnias desaparecidas',
+          'Mesa redonda: Povos primordiais – o resgate inédito da imagem de etnias desaparecidas',
         description: `Graduada em História pela Universidade Federal de Uberlândia (1995), Mestrado em História pela Universidade Estadual de Campinas (1998) e Doutorado em História pela Universidade Estadual de Campinas (2002). Atualmente é professora adjunto da Pontifícia Universidade Católica de Goiás (PUC-GO), no Mestrado de História, nos cursos de graduação de História e Relações Internacionais.   
 `,
-        subjectResume: `A palestra aborda o mesmo tema da exposição que deve abrir na mesma data. Será uma mesa redonda com mediação feita pela coordenadora do curso de Design, Genilda Alexandria, sobre o trabalho de pesquisa, levantamento histórico e reprodução artística em carvão dos desenhos de Marcos Costa. A participação do IGPA fará o evento interdisciplinar, fortalecendo o vínculo com o fazer científico e com a conexão antropológica do tema.
-`,
+        subjectResume: `A palestra aborda o mesmo tema da exposição que deve abrir na mesma data. Os povos originários são guardiões de tradições de verdadeiros tesouros imateriais, infelizmente esta é uma ideia recente. No passado muito se perdeu por falta consciência do valor e de registros adequados. Em busca do resgate da memória perdida, o designer Marcos Costa iniciou um trabalho autoral para reconstruir imagens de alguns desses povos. 
+            Será uma mesa redonda com mediação feita pela coordenadora do curso de Design, Genilda Alexandria, sobre o trabalho de pesquisa, levantamento histórico e reprodução artística em carvão dos desenhos de Marcos Costa. A participação da professora dra. Maria Cristina Nunes F. Neto fará o evento interdisciplinar, fortalecendo o vínculo com o fazer científico e com a conexão antropológica do tema. `,
         img: '/assets/img/speakers/Maria_Cristina.jpg',
         customSize: '100%',
         datentime: {
           date: '09/05',
           time: '10:30 - 12:00',
-          place: 'Auditório Marisa Roriz, área III'
+          place: 'Auditório 2, área II'
         }
       },
       {
@@ -473,14 +473,22 @@ export default class Home extends Vue {
       },
       {
         name: 'Paulo Alexandre Bernardo dos Santos Nunes',
-        institution: 'Manager, Junior Talent Unit (JTU)',
-        speaking: `Palestra de Abertura
+        institution: 'Askblue',
+        speaking: `Palestra de Abertura - AskBlue, dos 0 aos 500
         `,
-        description: `Paulo Nunes está focado nos mercados internacionais, nomeadamente norte da Europa, América e Médio Oriente. Paulo Nunes lidera também a Junior Talent Unit (JTU), gerindo a formação e programas de recrutamento. 
+        description: `Paulo Nunes, 56 anos, iniciou a sua carreira no INESC, tendo posteriormente assumido posições de Manager na Link Consulting, Link Management Solutions e Link África, onde liderou vários projetos de Sistemas de Informação para o mercado Nacional, Cabo Verde a Angola.
+
+        Antes de ter ingressado na askblue teve funções de Business Development Manager na Pessoas & Processos, onde desenvolveu a área internacional, tendo sido responsável vários projetos internacionais.
+        
+        Com uma carreira de 32 anos, desenvolvida na área de tecnologia de informação, consultoria, gestão de projetos e desenvolvimento de negócio, o Paulo Nunes frequentou a Pós-Graduação em Sistemas de Informação (POSI) ministrada pelo Instituto Superior Técnico, tendo feito a sua formação base no Instituto Português de informática.
+        
+        Conta, ainda, com as seguintes certificações : Chief Happiness Officer (CHO): Certified Project Manager pelo PMI; OutSystems Traditional Web Developer; OutSystems Mobile Developer, entre outras.
+        
+        Faz parte da Comissão Executiva da AskBlue, onde lidera a área Internacional e a Junior Talent Unit. 
         `,
-        subjectResume: `
+        subjectResume: `AskBlue, Uma breve história de sucesso; O processo de internacionalização; Visão para 2025.
         `,
-        img: '/assets/img/speakers/Paulo_Nunes_Provisorio.jpg',
+        img: '/assets/img/speakers/Paulo_Nunes.jpeg',
         customSize: '100%',
         datentime: {
           date: '09/05',
@@ -581,6 +589,7 @@ export default class Home extends Vue {
         institution: 'PUC Goiás',
         speaking: `Planejamento de Voo
         `,
+        speaking2:'Estrutura do Espaço Aéreo Brasileiro',
         description: `Graduado em Desenvolvimento de Sistemas de Informação, Especialista em Docência do Ensino Superior e em Gestão de Segurança da Informação e Comunicações pela Universidade de Brasília. Militar da reserva da Força Aérea onde exerceu a função de Supervisor e Instrutor de órgãos de controle de tráfego aéreo, com atuação na Prevenção e Investigação de Acidentes Aeronáuticos, Gerenciamento de Sistemas de Segurança Operacional, Inspeção em Prestadores de Serviço de Navegação Aérea e instrução em diversos cursos do SISCEAB. Atualmente é Coordenador do Curso de Ciências Aeronáuticas da Pontifícia Universidade Católica de Goiás. `,
         subjectResume: `Interpretação de cartas, ROTAER, análise e escolha dos aeródromos; escolha da rota a ser percorrida; análise da meteorologia atual e prevista; cálculos de performance da aeronave; preenchimento e envio do formulário de plano de voo, conferência da documentação necessária ao voo. `,
         img: '/assets/img/speakers/Salmen_Chaquip.jpg',
@@ -590,6 +599,80 @@ export default class Home extends Vue {
           time: '13:30 - 17:00',
           place: 'Auditório 2, área II'
         }
+      },
+      {
+        name: "Profa Luri Sabina Cosme da Silva Matos",
+        institution: "PUC Goiás",
+        speaking: `Criação de apresentações de trabalhos científicos 
+        `,
+        description: `
+        `,
+        subjectResume: `
+        `,
+        img: "/assets/img/speakers/Luri_Sabina.jpg",
+        customSize: "100%",
+        datentime: {
+          date: "09/05",
+          time: "15:00 - 16:30",
+          place: "Microsoft Teams",
+        },
+      },
+      {
+        name: "Prof Sandeco Macedo",
+        institution: "",
+        speaking: `Campus Party Goiás 2 – Reiniciando tudo em 3, 2, 1 
+        `,
+        description: `Embaixador Campus Party Brasil.  
+        Professor e Pesquisador em Inteligência Artificial e Data Science pelo Instituto Federal de Goiás - IFG.
+        Coordenador da Revista Científica Campus Party
+        Mentor e Apresentador do Canal Sandeco - Inteligência Artificial Descomplicada no youtube.
+        `,
+        subjectResume: `No final da palestra ocorrerá um sorteio de 15 ingressos para Campus Party Goiás 2.
+        `,
+        img: "/assets/img/speakers/Sandeco_Macedo.jpeg",
+        customSize: "100%",
+        datentime: {
+          date: "A definir",
+          time: "A definir",
+          place: "A definir",
+        },
+      },
+      {
+        name: "Prof. Msc. Carbio Almeida Waqued",
+        institution: "Coordenador Incubadora PUC GOIÁS",
+        speaking: `Como a Incubadora PUC Goiás pode transformar a sua ideia em um projeto real
+        `,
+        description: `Presidente da Rede Goiana de Inovação, Mentor de carreira,  Administrador, Especialista em Marketing e mestre em Engenharia de Produção. Atualmente é Consultor da Merkado de Ideias Estratégicas, atendendo empresas de Serviços, Indústria e Varejo Goiano. Professor de graduação, pós graduação, coordenador da Incubadora de Empresas na PUC Goiás. Ministra aulas de especialização pelo Brasil.Tem experiência na área de Administração, Desenvolvimento de pessoas, Comunicação e Publicidade. Palestrante na área de Mentoria de carreira, potencial humano e Marketing.
+        `,
+        subjectResume: `A incubadora PUC Goiás é uma instituição que auxiliará micro e pequenas empresas nascentes ou que estejam em operação, que tenham como principal característica a oferta de produtos e serviços com significativo grau de diferenciação. Ela oferece suporte técnico, gerencial e formação complementar ao empreendedor e facilitará o desenvolvimento tecnológico e o acesso a mercados e a investimentos.
+        As empresas que buscarem a incubadora PUC Goiás, além de receberem suporte gerencial, administrativo e mercadológico, recebem apoio técnico para o desenvolvimento de sua tecnologia. Com isso, o empreendimento pode ser acompanhado desde a fase de ideação, onde o conceito e o modelo de negócio ainda não estão claros e precisam ser validados pelo mercado, até a consolidação de suas atividades, onde estarão aptas a serem graduadas, ou seja, obter a emancipação da incubadora com condições competitivas de ir ao mercado.
+        Nossa incubadora de empresas favorece ao empreendedor, por meio de assessorias: Gestão empresarial; Gestão tecnológica; Comercialização de produtos e serviços; Contabilidade; Marketing; Assistência jurídica entre outras.
+        
+        `,
+        img: "/assets/img/speakers/Carbio_Almeida.jpg",
+        customSize: "100%",
+        datentime: {
+          date: "09/05",
+          time: "20:30",
+          place: "YouTube",
+        },
+      },
+      {
+        name: "João Asmar Júnior",
+        institution: "Emater Goiás",
+        speaking: `A Importância da Agronomia no Cenário do Agronegócio Brasileiro e os Desafios e perspectivas da Emater para Goiás 
+        `,
+        description: `Engenheiro Agrícola pela Universidade Estadual de Goiás (2009). Diplomado pela ASSOCIAÇÃO DOS DIPLOMADOS DA ESCOLA SUPERIOR DE GUERRA, com o XXII curso de Política e Estratégia em 2009. Pós-graduado Formação de Professores e Didática e Gestão Educacional. Pós-graduado em Logística e Distribuição de Produtos. Mestre em Ciências Ambientais, na área de Sociedade Tecnologia e Meio Ambiente. Doutorando em Ciências Ambientais, na área de Sociedade Tecnologia e Meio Ambiente. Professor no Centro Universitário Ânima - Jataí/GO. Diretor de Pesquisas Agropecuárias da Emater Goiás.  
+        `,
+        subjectResume: `
+        `,
+        img: "/assets/img/speakers/Joao_Asmar.png",
+        customSize: "100%",
+        datentime: {
+          date: "11/05",
+          time: "08:00 - 09:30",
+          place: "Auditório 2, área II",
+        },
       },
     ]
   }

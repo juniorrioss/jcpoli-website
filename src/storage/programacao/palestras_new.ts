@@ -12,19 +12,21 @@ let Palestras = [
     date: "11/05",
     time: "10:00-11:30",
     place: "Microsoft Teams",
-    link: "" //CONFIRMAR LINK
+    link:
+      "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1651759271281?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2219202b0c-a430-4a6f-8eac-33d2cc220195%22%7d",
   },
   {
     title: "O que são Soft Skills e como desenvolvê-las ainda na graduação",
-  instructor: "Janaína Martins",
-  institution: "UNA-JATAÍ",
-  desc: `
+    instructor: "Janaína Martins",
+    institution: "UNA-JATAÍ",
+    desc: `
       
   `,
-  date: "09/05",
-  time: "08:00-09:30",
-  place: "Microsoft Teams",
-  link: "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1651582149520?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2219202b0c-a430-4a6f-8eac-33d2cc220195%22%7d"
+    date: "09/05",
+    time: "08:00-09:30",
+    place: "Microsoft Teams",
+    link:
+      "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1651582149520?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2219202b0c-a430-4a6f-8eac-33d2cc220195%22%7d",
   },
   {
     title: "Avaliação de Máquinas conforme NBR 14.653-5",
@@ -36,17 +38,14 @@ let Palestras = [
     place: "Auditório 2, área II",
   },
   {
-    title: "Experiências de Arquitetura e Design em sintonia – O design de mobiliário e o ambiente ",
+    title:
+      "Design de mobiliário - vivências, experiências profissionais e sintonias entre arquitetura e design",
     instructor: `Fernando Felipe,
-    Thiago Ribeiro, 
-    Vanessa Machado, 
-    Vanusa Machado, 
-    Guilherme Barbosa
+    Thiago Ribeiro,
     `,
-    institution: "Plano D Design de produtos e Moov arquitetura e interiores",
-    desc: `A palestra aborda o case do desenvolvimento de peças com design autoral e projeto inovador para a ambientação de um 
-        espaço Casa Cor trabalhado por meio da arquitetura de ambientes. Receberemos os egressos de ambos os cursos para falarem 
-        de suas experiências profissionais e da ligação importante entre as áreas de atuação e de formação originais da PUC Goiás. `,
+    institution: "Plano D Design de produtos",
+    desc: `A palestra aborda o case do desenvolvimento de peças com design autoral e projeto inovador para a ambientação de um espaço Casa Cor trabalhado por meio da arquitetura de ambientes. Com este case em apresentação, 
+        os palestrantes abrem diálogo sobre suas vivências, experiências profissionais e o chão de fábrica da produção de peças e artefatos de design.`,
     date: "09/05",
     time: "08:30-10:00",
     place: "Auditório Marisa Roriz, área III",
@@ -70,7 +69,8 @@ let Palestras = [
     date: "09/05",
     time: "10:00-11:30",
     place: "Microsoft Teams",
-    link: "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1651582364973?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2219202b0c-a430-4a6f-8eac-33d2cc220195%22%7d"
+    link:
+      "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1651582364973?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2219202b0c-a430-4a6f-8eac-33d2cc220195%22%7d",
   },
   {
     title: "Agência Nacional de Aviação Civil ",
@@ -80,42 +80,47 @@ let Palestras = [
     date: "09/05",
     time: "10:00-11:30",
     place: "YouTube",
-    link: "https://www.youtube.com/watch?v=_zwQOz_nHWc&ab_channel=PUCGoi%C3%A1s",
+    link:
+      "https://www.youtube.com/watch?v=_zwQOz_nHWc&ab_channel=PUCGoi%C3%A1s",
   },
   {
     title:
-      "Povos primordiais – o resgate inédito da imagem de etnias desaparecidas",
+      "Mesa redonda: Povos primordiais – o resgate inédito da imagem de etnias desaparecidas",
     instructor: "Marcos Costa de Freitas e Maria Cristina Nunes F. Neto",
-    institution: "Marcos Costa – designer, artista e professor independente e PUC Goiás",
-    desc: `A palestra aborda o mesmo tema da exposição que deve abrir na mesma data. Será uma mesa redonda com mediação feita 
-        pela coordenadora do curso de Design, Genilda Alexandria, sobre o trabalho de pesquisa, levantamento histórico e reprodução 
-        artística em carvão dos desenhos de Marcos Costa. A participação do IGPA fará o evento interdisciplinar, fortalecendo o 
-        vínculo com o fazer científico e com a conexão antropológica do tema. `,
+    institution:
+      "Marcos Costa – designer, artista e professor independente e PUC Goiás",
+    desc: `A palestra aborda o mesmo tema da exposição que deve abrir na mesma data. Os povos originários são guardiões de tradições de verdadeiros tesouros imateriais, infelizmente esta é uma ideia recente. 
+      No passado muito se perdeu por falta consciência do valor e de registros adequados. Em busca do resgate da memória perdida, o designer Marcos Costa iniciou um trabalho autoral para reconstruir imagens de alguns desses povos. 
+      Será uma mesa redonda com mediação feita pela coordenadora do curso de Design, Genilda Alexandria, sobre o trabalho de pesquisa, levantamento histórico e reprodução artística em carvão dos desenhos de Marcos Costa. 
+      A participação da professora dra. Maria Cristina Nunes F. Neto fará o evento interdisciplinar, fortalecendo o vínculo com o fazer científico e com a conexão antropológica do tema. `,
     date: "09/05",
     time: "10:30-12:00",
-    place: "Auditório Marisa Roriz, área III",
+    place: "Auditório 2, área II",
   },
   {
-    title: "Otimização construtiva em novos processos tecnológicos de vedação vertical",
-  instructor: "Eng. Civil Rodolfo Rodriguez de Carvalho",
-  institution: "BLOCOM",
-  desc: `
+    title:
+      "Otimização construtiva em novos processos tecnológicos de vedação vertical",
+    instructor: "Eng. Civil Rodolfo Rodriguez de Carvalho",
+    institution: "BLOCOM",
+    desc: `
       
   `,
-  date: "09/05",
-  time: "18:00-19:30",
-  place: "Auditório 2, área II"
+    date: "09/05",
+    time: "18:00-19:30",
+    place: "Auditório 2, área II",
   },
   {
     title: "Aplicação de geossintéticos em pavimentação rodoviária ",
-  instructor: "Prof. Dr. Jefferson Lins da Silva; Profa. Dra. Marta Pereira da Luz",
-  institution: "EESC/USP; POLI/PUC Goiás",
-  desc: `
+    instructor:
+      "Prof. Dr. Jefferson Lins da Silva; Profa. Dra. Marta Pereira da Luz",
+    institution: "EESC/USP; POLI/PUC Goiás",
+    desc: `
   `,
-  date: "09/05",
-  time: "20:00-21:00",
-  place: "Microsoft Teams",
-  link: "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1651588024605?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2219202b0c-a430-4a6f-8eac-33d2cc220195%22%7d"
+    date: "09/05",
+    time: "20:00-21:00",
+    place: "Microsoft Teams",
+    link:
+      "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1651588024605?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2219202b0c-a430-4a6f-8eac-33d2cc220195%22%7d",
   },
   {
     title:
@@ -129,27 +134,28 @@ let Palestras = [
     time: "20:30-22:00",
     place: "Auditório 1, área II",
   },
-  
+
   {
-    title: "Palestra de Abertura",
+    title: "Palestra de Abertura - AskBlue, dos 0 aos 500",
     instructor: "Paulo Alexandre Bernardo dos Santos Nunes",
-    institution: "Manager, Junior Talent Unit (JTU)",
-    desc: ``,
+    institution: "Askblue",
+    desc: `AskBlue, Uma breve história de sucesso; O processo de internacionalização; Visão para 2025.`,
     date: "09/05",
     time: "19:00-20:30",
     place: "Auditório 1, área II",
   },
-  
+
   {
     title: "Irrigação de Alta Performance",
-  instructor: "Faos Pereira Lopes",
-  institution: `Head de Experiência do Cliente (Cofundador iCrop) `,
-  desc: `
+    instructor: "Faos Pereira Lopes",
+    institution: `Head de Experiência do Cliente (Cofundador iCrop) `,
+    desc: `
   `,
-  date: "10/05",
-  time: "08:00-09:30",
-  place: "Microsoft Teams",
-  link: "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1651581140845?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2219202b0c-a430-4a6f-8eac-33d2cc220195%22%7d"
+    date: "10/05",
+    time: "08:00-09:30",
+    place: "Microsoft Teams",
+    link:
+      "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1651701960668?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2219202b0c-a430-4a6f-8eac-33d2cc220195%22%7d",
   },
   {
     title:
@@ -161,7 +167,8 @@ let Palestras = [
     date: "10/05",
     time: "08:30-10:00",
     place: "YouTube",
-    link: "https://www.youtube.com/watch?v=mXSZc7N5VVU&ab_channel=PUCGoi%C3%A1s"
+    link:
+      "https://www.youtube.com/watch?v=mXSZc7N5VVU&ab_channel=PUCGoi%C3%A1s",
   },
   {
     title: "O mercado de automação industrial e como conseguir oportunidades",
@@ -171,18 +178,20 @@ let Palestras = [
     date: "10/05",
     time: "09:00-10:00",
     place: "YouTube",
-    link: "https://www.youtube.com/watch?v=pTa0Vr_ApV0&ab_channel=PUCGoi%C3%A1s"
+    link:
+      "https://www.youtube.com/watch?v=pTa0Vr_ApV0&ab_channel=PUCGoi%C3%A1s",
   },
   {
     title: "A importância da Irrigação para a cultura da Cana de açúcar",
-  instructor: "Cristiano Hilário de Paula",
-  institution: "Jalles Machado",
-  desc: `
+    instructor: "Cristiano Hilário de Paula",
+    institution: "Jalles Machado",
+    desc: `
   `,
-  date: "10/05",
-  time: "10:00-11:30",
-  place: "Microsoft Teams",
-  link: "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1651584197702?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2219202b0c-a430-4a6f-8eac-33d2cc220195%22%7d"
+    date: "10/05",
+    time: "10:00-11:30",
+    place: "Microsoft Teams",
+    link:
+      "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1651584197702?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2219202b0c-a430-4a6f-8eac-33d2cc220195%22%7d",
   },
   {
     title: "Mesa redonda: Desafios de Empreender na Engenharia",
@@ -210,7 +219,8 @@ let Palestras = [
     date: "10/05",
     time: "10:00-11:30",
     place: "YouTube",
-    link: "https://www.youtube.com/watch?v=VBtyB78MzKg&ab_channel=PUCGoi%C3%A1s"
+    link:
+      "https://www.youtube.com/watch?v=VBtyB78MzKg&ab_channel=PUCGoi%C3%A1s",
   },
   {
     title:
@@ -222,7 +232,8 @@ let Palestras = [
     date: "10/05",
     time: "10:30-12:00",
     place: "YouTube",
-    link: "https://www.youtube.com/watch?v=0jNR2V_2fTE&ab_channel=PUCGoi%C3%A1s"
+    link:
+      "https://www.youtube.com/watch?v=0jNR2V_2fTE&ab_channel=PUCGoi%C3%A1s",
   },
   {
     title: "Aplicações da otimização em problemas de engenharia",
@@ -233,13 +244,14 @@ let Palestras = [
     date: "10/05",
     time: "17:00-18:30",
     place: "Microsoft Teams",
-    link: "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1651587400153?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2219202b0c-a430-4a6f-8eac-33d2cc220195%22%7d"
+    link:
+      "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1651587400153?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2219202b0c-a430-4a6f-8eac-33d2cc220195%22%7d",
   },
   {
-    title: "",
+    title: "De Goiânia para o mundo",
     instructor: "Maycon Silva",
-    institution: "Head of Innovation Lab",
-    desc: ``,
+    institution: "Askblue",
+    desc: `Partilha de experiência de o que é sair do Brasil para morar fora e o foco em uma carreira sustentável imerso em uma cultura diferente.`,
     date: "10/05",
     time: "19:00-20:30",
     place: "Auditório 2, área II",
@@ -247,49 +259,52 @@ let Palestras = [
   },
   {
     title: "A importância da interdisciplinaridade nos projetos e nos negócios",
-  instructor: "Ávinner Prado e Paulo Gustavo Perini",
-  institution: "NATO Arquitetura",
-  desc: `A importância da interdisciplinaridade nos projetos e nos negócios. 
+    instructor: "Ávinner Prado e Paulo Gustavo Perini",
+    institution: "NATO Arquitetura",
+    desc: `A importância da interdisciplinaridade nos projetos e nos negócios. 
       Mais do que desenvolver projetos, solucionamos problemas, criamos oportunidades de negócios e impactamos a vida das 
       pessoas. Quando temos um time com diferentes habilidades, trabalhando juntos em prol de um objetivo em comum, criamos mais possibilidades e diferenciais estratégicos. 
   `,
-  date: "10/05",
-  time: "19:00-20:30",
-  place: "Microsoft Teams",
-  link: "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1651587678362?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2219202b0c-a430-4a6f-8eac-33d2cc220195%22%7d"
+    date: "10/05",
+    time: "19:00-20:30",
+    place: "Microsoft Teams",
+    link:
+      "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1651587678362?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2219202b0c-a430-4a6f-8eac-33d2cc220195%22%7d",
   },
   {
     title: "Projetos de Irrigação",
-  instructor: "Leandro Silva Ribeiro",
-  institution: "Jalles Machado",
-  desc: `
+    instructor: "Leandro Silva Ribeiro",
+    institution: "Jalles Machado",
+    desc: `
   `,
-  date: "10/05",
-  time: "19:00-20:30",
-  place: "Microsoft Teams",
-  link: "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1651587943078?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2219202b0c-a430-4a6f-8eac-33d2cc220195%22%7d"
+    date: "10/05",
+    time: "19:00-20:30",
+    place: "Microsoft Teams",
+    link:
+      "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1651587943078?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2219202b0c-a430-4a6f-8eac-33d2cc220195%22%7d",
   },
   {
     title: "Programa de Estágio LG Sistemas",
-  instructor: "",
-  institution: "LG Sistemas",
-  desc: `
+    instructor: "",
+    institution: "LG Sistemas",
+    desc: `
   `,
-  date: "10/05",
-  time: "19:00-20:30",
-  place: "Auditório 3, área II",
-  
+    date: "10/05",
+    time: "19:00-20:30",
+    place: "Auditório 3, área II",
   },
   {
-    title: "Edifícios de múltiplos andares em estruturas de aço e mistas de aço-concreto",
-  instructor: "Eng. Civil Juliano Geraldo Ribeiro Neto",
-  institution: "Remy Consulting Engineers Ltd., Toronto, Canadá",
-  desc: `
+    title:
+      "Edifícios de múltiplos andares em estruturas de aço e mistas de aço-concreto",
+    instructor: "Eng. Civil Juliano Geraldo Ribeiro Neto",
+    institution: "Remy Consulting Engineers Ltd., Toronto, Canadá",
+    desc: `
   `,
-  date: "10/05",
-  time: "20:00-21:00",
-  place: "Microsoft Teams",
-  link: "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1651588097274?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2219202b0c-a430-4a6f-8eac-33d2cc220195%22%7d"
+    date: "10/05",
+    time: "20:00-21:00",
+    place: "Microsoft Teams",
+    link:
+      "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1651588097274?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2219202b0c-a430-4a6f-8eac-33d2cc220195%22%7d",
   },
   {
     title: "O que são e o que fazem os Ux/Ui Designers",
@@ -299,7 +314,7 @@ let Palestras = [
         e o que é necessário para se tornar um Ux/Ui Designer.`,
     date: "10/05",
     time: "20:30-22:00",
-    place: "YouTube", 
+    place: "YouTube",
   },
   {
     title: "Domain-Driven Design - Principais Conceitos e algumas provocações",
@@ -313,16 +328,16 @@ let Palestras = [
     time: "20:30-22:00",
     place: "Auditório 2, área II",
   },
-  
+
   {
-    title: "Pesquisa e extensão para pequenos produtores",
-  instructor: "João Asmar Junior",
-  institution: "Emater Goiás",
-  desc: `
+    title: "A Importância da Agronomia no Cenário do Agronegócio Brasileiro e os Desafios e perspectivas da Emater para Goiás",
+    instructor: "João Asmar Junior",
+    institution: "Emater Goiás",
+    desc: `
   `,
-  date: "11/05",
-  time: "08:00-09:30",
-  place: "Auditório 2, área II"
+    date: "11/05",
+    time: "08:00-09:30",
+    place: "Auditório 2, área II",
   },
   {
     title: "Teoria das restrições: desde a Meta até a Correte Crítica",
@@ -335,24 +350,25 @@ let Palestras = [
   },
   {
     title: "ICMS ecológico no Estado de Goiás",
-  instructor: "Núbia Maia",
-  institution: "SEMAD (Goiás)",
-  desc: `
+    instructor: "Núbia Maia",
+    institution: "SEMAD (Goiás)",
+    desc: `
   `,
-  date: "11/05",
-  time: "10:00-11:30",
-  place: "Microsoft Teams",
-  link: "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1651584331011?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2219202b0c-a430-4a6f-8eac-33d2cc220195%22%7d"
+    date: "11/05",
+    time: "10:00-11:30",
+    place: "Microsoft Teams",
+    link:
+      "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1651584331011?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2219202b0c-a430-4a6f-8eac-33d2cc220195%22%7d",
   },
   {
     title: "Arquitetura Hospitalar",
-  instructor: "Tereza Cristina da Silva Paes Ferreira Del Papa",
-  institution: "Paes Del Papa Arquitetura",
-  desc: `As práticas profissionais da Arquitetura Hospitalar – um campo de atuação e o mercado de trabalho segundo a experiência da arquiteta urbanista.
+    instructor: "Tereza Cristina da Silva Paes Ferreira Del Papa",
+    institution: "Paes Del Papa Arquitetura",
+    desc: `As práticas profissionais da Arquitetura Hospitalar – um campo de atuação e o mercado de trabalho segundo a experiência da arquiteta urbanista.
   `,
-  date: "11/05",
-  time: "10:00-11:30",
-  place: "Auditório 2, área II"
+    date: "11/05",
+    time: "07:30-09:00",
+    place: "Auditório Marisa Roriz, área III",
   },
   {
     title: "Impressão 3D com a empresa nacional GTMax",
@@ -362,18 +378,20 @@ let Palestras = [
     date: "11/05",
     time: "10:00-11:30",
     place: "YouTube",
-    link: "https://www.youtube.com/watch?v=V_35tybfxuE&ab_channel=PUCGoi%C3%A1s"
+    link:
+      "https://www.youtube.com/watch?v=V_35tybfxuE&ab_channel=PUCGoi%C3%A1s",
   },
   {
     title: "Aplicação de software para análise de estabilidade de taludes",
-  instructor: "Eng. Civil Paulo Rocha",
-  institution: "Geo Soluções",
-  desc: `
+    instructor: "Eng. Civil Paulo Rocha",
+    institution: "Geo Soluções",
+    desc: `
   `,
-  date: "11/05",
-  time: "19:00-20:00",
-  place: "Microsoft Teams",
-  link: "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1651587509910?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2219202b0c-a430-4a6f-8eac-33d2cc220195%22%7d"
+    date: "11/05",
+    time: "19:00-20:00",
+    place: "Microsoft Teams",
+    link:
+      "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1651587509910?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2219202b0c-a430-4a6f-8eac-33d2cc220195%22%7d",
   },
   {
     title: "Como se posicionar melhor no Linkedin",
@@ -386,14 +404,15 @@ let Palestras = [
   },
   {
     title: "Inovação em Fruticultura e Pós-Colheita",
-  instructor: " Engª Agrônoma Daniela Mota Segantini",
-  institution: "Hortifrut",
-  desc: `
+    instructor: " Engª Agrônoma Daniela Mota Segantini",
+    institution: "Hortifrut",
+    desc: `
   `,
-  date: "11/05",
-  time: "19:00-20:30",
-  place: "Microsoft Teams",
-  link: "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1651587827005?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2219202b0c-a430-4a6f-8eac-33d2cc220195%22%7d"
+    date: "11/05",
+    time: "19:00-20:30",
+    place: "Microsoft Teams",
+    link:
+      "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1651587827005?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2219202b0c-a430-4a6f-8eac-33d2cc220195%22%7d",
   },
   {
     title: "Tendências na Simulação: casos e oportunidades",
@@ -406,7 +425,8 @@ let Palestras = [
     date: "11/05",
     time: "19:00-20:30",
     place: "YouTube",
-    link: "https://www.youtube.com/watch?v=7f6_xD0i3Xo&ab_channel=PUCGoi%C3%A1s"
+    link:
+      "https://www.youtube.com/watch?v=7f6_xD0i3Xo&ab_channel=PUCGoi%C3%A1s",
   },
   {
     title: "O que é o DevOps?",
@@ -416,26 +436,28 @@ let Palestras = [
     date: "11/05",
     time: "19:00-20:30",
     place: "Auditório 3, área II",
-    
   },
   {
-    title: "I Workshop de Inspeção Predial: Inspeção em obras de infraestrutura: pontes, viadutos, barragens e usinas hidrelétricas",
-    instructor: "Prof. Ricardo Barbosa Ferreira, Profa. Rosana Melo de Lucas Brandão",
+    title:
+      "I Workshop de Inspeção Predial: Inspeção em obras de infraestrutura: pontes, viadutos, barragens e usinas hidrelétricas",
+    instructor:
+      "Prof. Ricardo Barbosa Ferreira, Profa. Rosana Melo de Lucas Brandão",
     institution: "PUC Goiás",
     desc: ``,
     date: "09/05",
     time: "10:00-12:00",
-    place: "Auditório 3, área II"
+    place: "Auditório 3, área II",
   },
   {
-    title: "I Workshop de Inspeção Predial: Simulação de degradação e ensaios de desempenho como ferramentas para a inspeção predial",
+    title:
+      "I Workshop de Inspeção Predial: Simulação de degradação e ensaios de desempenho como ferramentas para a inspeção predial",
     instructor: `Profa. Me. Tatiana Renata Pereira Jucá, 
     Prof. Me. Antônio Manuel Corado Pombo Fernandes`,
     institution: "PUC Goiás",
     desc: ``,
     date: "11/05",
     time: "10:00-12:00",
-    place: "Auditório 3, área II"
+    place: "Auditório 3, área II",
   },
   {
     title: "I Workshop de Inspeção Predial: Inspeção em protótipos",
@@ -445,12 +467,33 @@ let Palestras = [
     desc: ``,
     date: "11/05",
     time: "15:00-16:00",
-    place: "Teatro de Arena, área III"
+    place: "Teatro de Arena, área III",
+  },
+  {
+    title: "Campus Party Goiás 2 – Reiniciando tudo em 3, 2, 1",
+    instructor: `Prof Sandeco Macedo
+    `,
+    institution: "PUC Goiás",
+    desc: `No final da palestra ocorrerá um sorteio de 15 ingressos para Campus Party Goiás 2.`,
+    date: "A definir",
+    time: "A definir",
+    place: "A definir",
+  },
+  {
+    title: "Como a Incubadora PUC Goiás pode transformar a sua ideia em um projeto real",
+    instructor: `Prof. Msc. Carbio Almeida Waqued
+    `,
+    institution: "Coordenador Incubadora PUC GOIÁS",
+    desc: `A incubadora PUC Goiás é uma instituição que auxiliará micro e pequenas empresas nascentes ou que estejam em operação, que tenham como principal característica a oferta de produtos e serviços com significativo grau de diferenciação. Ela oferece suporte técnico, gerencial e formação complementar ao empreendedor e facilitará o desenvolvimento tecnológico e o acesso a mercados e a investimentos.
+    As empresas que buscarem a incubadora PUC Goiás, além de receberem suporte gerencial, administrativo e mercadológico, recebem apoio técnico para o desenvolvimento de sua tecnologia. Com isso, o empreendimento pode ser acompanhado desde a fase de ideação, onde o conceito e o modelo de negócio ainda não estão claros e precisam ser validados pelo mercado, até a consolidação de suas atividades, onde estarão aptas a serem graduadas, ou seja, obter a emancipação da incubadora com condições competitivas de ir ao mercado.
+    Nossa incubadora de empresas favorece ao empreendedor, por meio de assessorias: Gestão empresarial; Gestão tecnológica; Comercialização de produtos e serviços; Contabilidade; Marketing; Assistência jurídica entre outras.
+    `,
+    date: "09/05",
+    time: "20:30",
+    place: "YouTube",
   },
 
-//===================================================
-  
-  
+  //===================================================
 ]
 /*
 const Palestras_Producao = [
