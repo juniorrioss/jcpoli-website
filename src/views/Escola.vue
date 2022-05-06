@@ -374,8 +374,14 @@ export default class Escola extends Vue {
         name: "Maycon Silva",
         institution: "Askblue",
         speaking: "De Goiânia para o mundo",
-        description: `Maycon Silva, 34 anos, formado em Análise de Sistemas, militar do Exército Brasileiro por 4 anos, iniciou a carreira em Tecnologia da Informação em 2010. Atou em funções como suporte, desenvolvedor, analista de processos, analista de indicadores, consultor OutSystems, Tech Lead e gestor de projetos e atualmente mora em Portugal.   
-      `,
+        description: `Maycon Silva, 34 anos, formado em Análise de Sistemas, militar do Exército Brasileiro por 4 anos, iniciou a carreira em Tecnologia da Informação em 2010. Atou em funções como suporte, desenvolvedor, analista de processos, analista de indicadores, consultor OutSystems, Tech Lead e gestor de projetos e atualmente mora em Portugal.
+ 
+Apesar de ser gestor de uma área extremamente técnica, para além da tecnologia também tem um grande foco em gestão de pessoas.
+ 
+Possui 6 certificações e 2 Especializações OutSystems, sendo elas: Associate Traditional Web Developer, Professional Tradional Web Developer, Expert Traditional Web Developer, Associate Reactive Developer, Associate Tech Lead, Professional Platform Ops Engineer, Architecture Specialist e Mobile Developer Specialist.
+ 
+Integra o Comité Operacional da Askblue e é gestor de uma Unidade de Negócio técnica chamada Innovation Lab.
+`,
         subjectResume: `Partilha de experiência de o que é sair do Brasil para morar fora e o foco em uma carreira sustentável imerso em uma cultura diferente.
 
       `,
@@ -632,6 +638,8 @@ export default class Escola extends Vue {
                   Selecionada pelo Edital Conexão Cultura Intercâmbios realizado pelo Ministério da Cultura para sua capacitação profissional no curso Design Contemporâneo Italiano e Tendências no Istituto Europeu di Design Milano.
         `,
         subjectResume: `A palestra aborda a trajetória da egressa do curso de Design da PUC Goiás e suas experiências exitosas em atividades profissionais e acadêmicas internacionalmente.
+Paula atualmente é doutoranda pela University College Cork e Cork University Hospital, Irlanda, tendo como foco de sua pesquisa o design de serviços para inovação na área da saúde. Foi bolsista do Ministério da Cultura do Brasil em 2015 para formação profissional em tendências e design no Instituto Europeo di Design Milano, Italia.
+
         `,
         img: "/assets/img/speakers/Paula_Leocadio_Provisorio.jpg",
         customSize: "100%",
@@ -649,9 +657,10 @@ export default class Escola extends Vue {
         description: `Nivia Ferreira, designer de UX/UI, pesquisadora e palestrante com interesse particular em Artes e Design. Possuo mestrado, com dissertação sobre game design e experiência do jogador, e sou doutorando, 
                   com tese sobre game design e neurociência, ambos em Design pela Universidade Anhembi Morumbi (UAM-SP), Brasil. Sou bacharel em Design de Comunicação pela Pontifícia Universidade Católica de Goiás (PUC-GO) com pesquisa prática sobre interfaces para plataformas de e-learning. 
         `,
-        subjectResume: `A palestra aborda a trajetória da egressa do curso de Design da PUC Goiás e suas experiências exitosas em atividades profissionais e acadêmicas internacionalmente. 
+        subjectResume: `A palestra aborda a trajetória da egressa do curso de Design da PUC Goiás e suas experiências exitosas em atividades profissionais e acadêmicas internacionalmente.
+Nivia tem estado continuamente envolvida na investigação acadêmica. Faz parte do DEED – Design, Entertainment, and Education Research Cluster e do Global South Practices Design Research Cluster. Além disso, é uma das fundadoras do “Gaming for all”, um evento para promover a diversidade na indústria de jogos e na academia no Brasil.
         `,
-        img: "/assets/img/speakers/user-vector-woman.jpg",
+        img: "/assets/img/speakers/Nivia_Boz.png",
         customSize: "100%",
         datentime: {
           date: "10/05",
@@ -725,7 +734,7 @@ export default class Escola extends Vue {
         },
       },
       {
-        name: "Prof Sandeco Macedo",
+        name: "Prof. Sandeco Macedo",
         institution: "",
         speaking: `Campus Party Goiás 2 – Reiniciando tudo em 3, 2, 1 
         `,
@@ -739,9 +748,9 @@ export default class Escola extends Vue {
         img: "/assets/img/speakers/Sandeco_Macedo.jpeg",
         customSize: "100%",
         datentime: {
-          date: "A definir",
-          time: "A definir",
-          place: "A definir",
+          date: "11/05",
+          time: "10:00-11:30",
+          place: "Auditório 2, área II",
         },
       },
       {
@@ -780,6 +789,52 @@ export default class Escola extends Vue {
           time: "08:00 - 09:30",
           place: "Auditório 2, área II",
         },
+      },
+      {
+        name: 'Fernando Felipe',
+        institution: 'Plano D Design de produtos',
+        speaking: 'Design de mobiliário - vivências, experiências profissionais e sintonias entre arquitetura e design ',
+        description: `Plano D Design de produtos  
+
+        Design autoral brasileiro. 
+        
+        Através da experiênca proporcionada pelos produtos, acreditamos ter a capacidade de poder interferir positivamente na vida e no propósito das pessoas. Pessoas que movem e são o sustento físico do nosso imenso universo concreto e criativo. 
+        
+        Viver design, respirar design, conviver com o design é entender o mundo e como ele funciona, como podemos melhorá-lo.  
+        
+        O design é humano e ser designer é uma escolha feita por amor e prazer de ver acontecer e fazer funcionar. Isso é ser Plano D. `,
+        subjectResume: `A palestra aborda o case do desenvolvimento de peças com design autoral e projeto inovador para a ambientação de um espaço Casa Cor trabalhado por meio da arquitetura de ambientes. Com este case em apresentação, os palestrantes abrem diálogo sobre suas vivências, experiências profissionais e o chão de fábrica da produção de peças e artefatos de design. 
+        `,
+        img: '/assets/img/speakers/Fernando_Felipe.png',
+        customSize: '100%',
+        datentime: {
+          date: '09/05',
+          time: '08:30 - 10:00',
+          place: 'Auditório Marisa Roriz, área III'
+        }
+      },
+      {
+        name: 'Thiago Ribeiro',
+        institution: 'Plano D Design de produtos',
+        speaking: 'Design de mobiliário - vivências, experiências profissionais e sintonias entre arquitetura e design ',
+        description: `Plano D Design de produtos  
+
+        Design autoral brasileiro. 
+        
+        Através da experiênca proporcionada pelos produtos, acreditamos ter a capacidade de poder interferir positivamente na vida e no propósito das pessoas. Pessoas que movem e são o sustento físico do nosso imenso universo concreto e criativo. 
+        
+        Viver design, respirar design, conviver com o design é entender o mundo e como ele funciona, como podemos melhorá-lo.  
+        
+        O design é humano e ser designer é uma escolha feita por amor e prazer de ver acontecer e fazer funcionar. Isso é ser Plano D. `,
+        subjectResume: `A palestra aborda o case do desenvolvimento de peças com design autoral e projeto inovador para a ambientação de um espaço Casa Cor trabalhado por meio da arquitetura de ambientes. Com este case em apresentação, os palestrantes abrem diálogo sobre suas vivências, experiências profissionais e o chão de fábrica da produção de peças e artefatos de design. 
+        `,
+        img: '/assets/img/speakers/Thiago_Ribeiro.png',
+        customSize: '100%',
+        datentime: {
+          date: '09/05',
+          time: '08:30 - 10:00',
+          place: 'Auditório Marisa Roriz, área III'
+        }
       },
     ]
   }
