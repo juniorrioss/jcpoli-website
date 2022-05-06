@@ -14,7 +14,7 @@ const Competicao = [
     title: "Desafio em Ciência de dados",
   instructor: "Prof.ª Maria José Pereira Dantas e Prof. José Elmo de Menezes",
   institution: "PUC Goiás",
-  desc: `O “Desafio em Ciência de Dados” é uma competição que visa reunir alunos da
+  desc: `O “Desafio em Ciência de Dados” é uma atividade do mestrado em Engenharia de produção de sistemas (MEPROS) e uma competição que visa reunir alunos da
   pós-graduação, graduação, iniciação científica, ensino médio e egressos da PUC Goiás
   (ou de outras IES) para trocar e compartilhar experiências, na solução de questões de
   pesquisa, a partir de uma base de dados pública.
@@ -26,7 +26,7 @@ período de 2000 a 2017, um problema real de modelagem para previsão do tempo d
 espera na fila, usando ciência dos dados
   `,
   date: "09/05 - 13/05",
-  time: "09/05 às 10:00 - Apresentação do desafio",
+  time: `Abertura dia 09/05 das 10h às 12h Apresentação dia 13/05 das 19h às 22h Premiação dia 14/05`,
   place: "A definir",
   image: "assets/img/slider/logo-desafiodados.jpeg"
   },
