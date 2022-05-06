@@ -33,7 +33,7 @@ const Exposicao_Arquitetura = [
       
       Desenvolver exercício integrado das disciplinas do 1º ciclo com experimentações de metodologia de projeto. `,
     date: "09/05 até 16/05",
-    time: "Abertura da Exposição às 18:00",
+    time: "Abertura da Exposição dia 09/05 às 18:00",
     place: "Foyer dos auditórios 2 e 3 na área II",
     image: "assets/img/slider/expo_arqui.jpg"
   },

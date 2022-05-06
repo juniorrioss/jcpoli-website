@@ -576,7 +576,7 @@ Integra o Comité Operacional da Askblue e é gestor de uma Unidade de Negócio 
         subjectResume: `Os ouvintes aprenderão um pouco sobre como funciona a área de Segurança da Informação nas grandes empresas, alguns tipos de ataques hacker, como começar na área e por fim o caso de 
                   como hackeei o sistema de tickets de metrô de uma grande capital brasileira e quais seriam as consequências disso caso tivesse sido feito por um hacker malicioso.
         `,
-        img: "",
+        img: "/assets/img/speakers/Hector_Grecco_Provisorio.jpg",
         customSize: "100%",
         datentime: {
           date: "09/05",
@@ -587,7 +587,7 @@ Integra o Comité Operacional da Askblue e é gestor de uma Unidade de Negócio 
       {
         name: "Paulo Alexandre Bernardo dos Santos Nunes",
         institution: "Askblue",
-        speaking: `Palestra de Abertura - AskBlue, dos 0 aos 500
+        speaking: `AskBlue, dos 0 aos 500
         `,
         description: `Paulo Nunes, 56 anos, iniciou a sua carreira no INESC, tendo posteriormente assumido posições de Manager na Link Consulting, Link Management Solutions e Link África, onde liderou vários projetos de Sistemas de Informação para o mercado Nacional, Cabo Verde a Angola.
 
