@@ -131,14 +131,20 @@ Palestra sobre a situação atual dos transplantes no Brasil e em Goiás e sobre
 
   {
     name: "Maycon Silva",
-    institution: "Head of Innovation Lab",
-    speaking: "",
-    description: `Maycon Silva é responsável pelo Innovation Lab e está focado em acompanhar as últimas tendências tecnológicas e promove a transferência de conhecimento para as equipes, parceiros e colaboradores de nossos clientes. Maycon tem e seu portifólio serviços de planejamento e criação de centros tecnológicos de excelência (CoEs), renovações tecnológicas, análise e definição de arquitetura, desenvolvimento de aplicativos, entre outros.   
+    institution: "Askblue",
+    speaking: "De Goiânia para o mundo",
+    description: `Maycon Silva, 34 anos, formado em Análise de Sistemas, militar do Exército Brasileiro por 4 anos, iniciou a carreira em Tecnologia da Informação em 2010. Atou em funções como suporte, desenvolvedor, analista de processos, analista de indicadores, consultor OutSystems, Tech Lead e gestor de projetos e atualmente mora em Portugal.
+ 
+    Apesar de ser gestor de uma área extremamente técnica, para além da tecnologia também tem um grande foco em gestão de pessoas.
+     
+    Possui 6 certificações e 2 Especializações OutSystems, sendo elas: Associate Traditional Web Developer, Professional Tradional Web Developer, Expert Traditional Web Developer, Associate Reactive Developer, Associate Tech Lead, Professional Platform Ops Engineer, Architecture Specialist e Mobile Developer Specialist.
+     
+    Integra o Comité Operacional da Askblue e é gestor de uma Unidade de Negócio técnica chamada Innovation Lab.
 `,
-    subjectResume: `
+    subjectResume: `Partilha de experiência de o que é sair do Brasil para morar fora e o foco em uma carreira sustentável imerso em uma cultura diferente.
 
 `,
-    img: "",
+    img: "/assets/img/speakers/Maycon_Silva.jpeg",
     customSize: "100%",
     datentime: {
       date: "10/05",
@@ -283,7 +289,7 @@ Palestra sobre a situação atual dos transplantes no Brasil e em Goiás e sobre
     `,
     subjectResume: `
     `,
-    img: '',
+    img: '/assets/img/speakers/Jose_Assumpção.jpg',
     customSize: '100%',
     datentime: {
       date: '09/05',
@@ -350,14 +356,22 @@ Palestra sobre a situação atual dos transplantes no Brasil e em Goiás e sobre
   },
   {
     name: 'Paulo Alexandre Bernardo dos Santos Nunes',
-    institution: 'Manager, Junior Talent Unit (JTU)',
-    speaking: `
+    institution: 'Askblue',
+    speaking: `Palestra de Abertura - AskBlue, dos 0 aos 500
     `,
-    description: `Paulo Nunes está focado nos mercados internacionais, nomeadamente norte da Europa, América e Médio Oriente. Paulo Nunes lidera também a Junior Talent Unit (JTU), gerindo a formação e programas de recrutamento. 
+    description: `Paulo Nunes, 56 anos, iniciou a sua carreira no INESC, tendo posteriormente assumido posições de Manager na Link Consulting, Link Management Solutions e Link África, onde liderou vários projetos de Sistemas de Informação para o mercado Nacional, Cabo Verde a Angola.
+
+    Antes de ter ingressado na askblue teve funções de Business Development Manager na Pessoas & Processos, onde desenvolveu a área internacional, tendo sido responsável vários projetos internacionais.
+    
+    Com uma carreira de 32 anos, desenvolvida na área de tecnologia de informação, consultoria, gestão de projetos e desenvolvimento de negócio, o Paulo Nunes frequentou a Pós-Graduação em Sistemas de Informação (POSI) ministrada pelo Instituto Superior Técnico, tendo feito a sua formação base no Instituto Português de informática.
+    
+    Conta, ainda, com as seguintes certificações : Chief Happiness Officer (CHO): Certified Project Manager pelo PMI; OutSystems Traditional Web Developer; OutSystems Mobile Developer, entre outras.
+    
+    Faz parte da Comissão Executiva da AskBlue, onde lidera a área Internacional e a Junior Talent Unit. 
     `,
-    subjectResume: `
+    subjectResume: `AskBlue, Uma breve história de sucesso; O processo de internacionalização; Visão para 2025.
     `,
-    img: '/assets/img/speakers/Paulo_Nunes_Provisorio.jpg',
+    img: '/assets/img/speakers/Paulo_Nunes.jpeg',
     customSize: '100%',
     datentime: {
       date: '09/05',
@@ -373,9 +387,11 @@ Palestra sobre a situação atual dos transplantes no Brasil e em Goiás e sobre
     description: `Nivia Ferreira, designer de UX/UI, pesquisadora e palestrante com interesse particular em Artes e Design. Possuo mestrado, com dissertação sobre game design e experiência do jogador, e sou doutorando, 
               com tese sobre game design e neurociência, ambos em Design pela Universidade Anhembi Morumbi (UAM-SP), Brasil. Sou bacharel em Design de Comunicação pela Pontifícia Universidade Católica de Goiás (PUC-GO) com pesquisa prática sobre interfaces para plataformas de e-learning. 
     `,
-    subjectResume: `A palestra aborda a trajetória da egressa do curso de Design da PUC Goiás e suas experiências exitosas em atividades profissionais e acadêmicas internacionalmente. 
+    subjectResume: `A palestra aborda a trajetória da egressa do curso de Design da PUC Goiás e suas experiências exitosas em atividades profissionais e acadêmicas internacionalmente.
+    Nivia tem estado continuamente envolvida na investigação acadêmica. Faz parte do DEED – Design, Entertainment, and Education Research Cluster e do Global South Practices Design Research Cluster. Além disso, é uma das fundadoras do “Gaming for all”, um evento para promover a diversidade na indústria de jogos e na academia no Brasil.
+    
     `,
-    img: '/assets/img/speakers/user-vector-woman.jpg',
+    img: '/assets/img/speakers/Nivia_Boz.png',
     customSize: '100%',
     datentime: {
       date: '10/05',
@@ -412,6 +428,8 @@ Palestra sobre a situação atual dos transplantes no Brasil e em Goiás e sobre
               Selecionada pelo Edital Conexão Cultura Intercâmbios realizado pelo Ministério da Cultura para sua capacitação profissional no curso Design Contemporâneo Italiano e Tendências no Istituto Europeu di Design Milano.
     `,
     subjectResume: `A palestra aborda a trajetória da egressa do curso de Design da PUC Goiás e suas experiências exitosas em atividades profissionais e acadêmicas internacionalmente.
+    Paula atualmente é doutoranda pela University College Cork e Cork University Hospital, Irlanda, tendo como foco de sua pesquisa o design de serviços para inovação na área da saúde. Foi bolsista do Ministério da Cultura do Brasil em 2015 para formação profissional em tendências e design no Instituto Europeo di Design Milano, Italia.
+    
     `,
     img: '/assets/img/speakers/Paula_Leocadio_Provisorio.jpg',
     customSize: '100%',
@@ -458,8 +476,10 @@ Palestra sobre a situação atual dos transplantes no Brasil e em Goiás e sobre
     institution: 'PUC Goiás',
     speaking: `Planejamento de Voo
     `,
+    speaking2:'Estrutura do Espaço Aéreo Brasileiro',
     description: `Graduado em Desenvolvimento de Sistemas de Informação, Especialista em Docência do Ensino Superior e em Gestão de Segurança da Informação e Comunicações pela Universidade de Brasília. Militar da reserva da Força Aérea onde exerceu a função de Supervisor e Instrutor de órgãos de controle de tráfego aéreo, com atuação na Prevenção e Investigação de Acidentes Aeronáuticos, Gerenciamento de Sistemas de Segurança Operacional, Inspeção em Prestadores de Serviço de Navegação Aérea e instrução em diversos cursos do SISCEAB. Atualmente é Coordenador do Curso de Ciências Aeronáuticas da Pontifícia Universidade Católica de Goiás. `,
     subjectResume: `Interpretação de cartas, ROTAER, análise e escolha dos aeródromos; escolha da rota a ser percorrida; análise da meteorologia atual e prevista; cálculos de performance da aeronave; preenchimento e envio do formulário de plano de voo, conferência da documentação necessária ao voo. `,
+    subjectResume2: `Espaço aéreo inferior, superior, espaços aéreos controlados, classes de espaço aéreo, região de informação de voo, órgãos ATS e serviços prestados. `,
     img: '/assets/img/speakers/Salmen_Chaquip.jpg',
     customSize: '100%',
     datentime: {
@@ -468,35 +488,126 @@ Palestra sobre a situação atual dos transplantes no Brasil e em Goiás e sobre
       place: 'Auditório 2, área II'
     }
   },
-  /* PROVISORIO FALTA DADOS
   {
-    name: 'Plano D Design de produtos e Moov arquitetura e interiores',
-    institution: 'Plano D Design de produtos e Moov arquitetura e interiores',
-    speaking: 'Experiências de Arquitetura e Design em sintonia – O design de mobiliário e o ambiente',
+    name: "Profa Luri Sabina Cosme da Silva Matos",
+    institution: "PUC Goiás",
+    speaking: `Criação de apresentações de trabalhos científicos 
+    `,
+    description: `
+    `,
+    subjectResume: `
+    `,
+    img: "/assets/img/speakers/Luri_Sabina.jpg",
+    customSize: "100%",
+    datentime: {
+      date: "09/05",
+      time: "15:00 - 16:30",
+      place: "Microsoft Teams",
+    },
+  },
+  {
+    name: "Prof. Sandeco Macedo",
+    institution: "",
+    speaking: `Campus Party Goiás 2 – Reiniciando tudo em 3, 2, 1 
+    `,
+    description: `Embaixador Campus Party Brasil.  
+    Professor e Pesquisador em Inteligência Artificial e Data Science pelo Instituto Federal de Goiás - IFG.
+    Coordenador da Revista Científica Campus Party
+    Mentor e Apresentador do Canal Sandeco - Inteligência Artificial Descomplicada no youtube.
+    `,
+    subjectResume: `No final da palestra ocorrerá um sorteio de 15 ingressos para Campus Party Goiás 2.
+    `,
+    img: "/assets/img/speakers/Sandeco_Macedo.jpeg",
+    customSize: "100%",
+    datentime: {
+      date: "11/05",
+      time: "10:00-11:30",
+      place: "Auditório 2, área II",
+    },
+  },
+  {
+    name: "Prof. Msc. Carbio Almeida Waqued",
+    institution: "Coordenador Incubadora PUC GOIÁS",
+    speaking: `Como a Incubadora PUC Goiás pode transformar a sua ideia em um projeto real
+    `,
+    description: `Presidente da Rede Goiana de Inovação, Mentor de carreira,  Administrador, Especialista em Marketing e mestre em Engenharia de Produção. Atualmente é Consultor da Merkado de Ideias Estratégicas, atendendo empresas de Serviços, Indústria e Varejo Goiano. Professor de graduação, pós graduação, coordenador da Incubadora de Empresas na PUC Goiás. Ministra aulas de especialização pelo Brasil.Tem experiência na área de Administração, Desenvolvimento de pessoas, Comunicação e Publicidade. Palestrante na área de Mentoria de carreira, potencial humano e Marketing.
+    `,
+    subjectResume: `A incubadora PUC Goiás é uma instituição que auxiliará micro e pequenas empresas nascentes ou que estejam em operação, que tenham como principal característica a oferta de produtos e serviços com significativo grau de diferenciação. Ela oferece suporte técnico, gerencial e formação complementar ao empreendedor e facilitará o desenvolvimento tecnológico e o acesso a mercados e a investimentos.
+    As empresas que buscarem a incubadora PUC Goiás, além de receberem suporte gerencial, administrativo e mercadológico, recebem apoio técnico para o desenvolvimento de sua tecnologia. Com isso, o empreendimento pode ser acompanhado desde a fase de ideação, onde o conceito e o modelo de negócio ainda não estão claros e precisam ser validados pelo mercado, até a consolidação de suas atividades, onde estarão aptas a serem graduadas, ou seja, obter a emancipação da incubadora com condições competitivas de ir ao mercado.
+    Nossa incubadora de empresas favorece ao empreendedor, por meio de assessorias: Gestão empresarial; Gestão tecnológica; Comercialização de produtos e serviços; Contabilidade; Marketing; Assistência jurídica entre outras.
+    
+    `,
+    img: "/assets/img/speakers/Carbio_Almeida.jpg",
+    customSize: "100%",
+    datentime: {
+      date: "09/05",
+      time: "20:30",
+      place: "YouTube",
+    },
+  },
+  {
+    name: "João Asmar Júnior",
+    institution: "Emater Goiás",
+    speaking: `A Importância da Agronomia no Cenário do Agronegócio Brasileiro e os Desafios e perspectivas da Emater para Goiás 
+    `,
+    description: `Engenheiro Agrícola pela Universidade Estadual de Goiás (2009). Diplomado pela ASSOCIAÇÃO DOS DIPLOMADOS DA ESCOLA SUPERIOR DE GUERRA, com o XXII curso de Política e Estratégia em 2009. Pós-graduado Formação de Professores e Didática e Gestão Educacional. Pós-graduado em Logística e Distribuição de Produtos. Mestre em Ciências Ambientais, na área de Sociedade Tecnologia e Meio Ambiente. Doutorando em Ciências Ambientais, na área de Sociedade Tecnologia e Meio Ambiente. Professor no Centro Universitário Ânima - Jataí/GO. Diretor de Pesquisas Agropecuárias da Emater Goiás.  
+    `,
+    subjectResume: `
+    `,
+    img: "/assets/img/speakers/Joao_Asmar.png",
+    customSize: "100%",
+    datentime: {
+      date: "11/05",
+      time: "08:00 - 09:30",
+      place: "Auditório 2, área II",
+    },
+  },
+  {
+    name: 'Fernando Felipe',
+    institution: 'Plano D Design de produtos',
+    speaking: 'Design de mobiliário - vivências, experiências profissionais e sintonias entre arquitetura e design ',
     description: `Plano D Design de produtos  
 
     Design autoral brasileiro. 
     
-    Através da experiência proporcionada pelos produtos, acreditamos ter a capacidade de poder interferir positivamente na vida e no propósito das pessoas. Pessoas que movem e são o sustento físico do nosso imenso universo concreto e criativo. 
+    Através da experiênca proporcionada pelos produtos, acreditamos ter a capacidade de poder interferir positivamente na vida e no propósito das pessoas. Pessoas que movem e são o sustento físico do nosso imenso universo concreto e criativo. 
     
     Viver design, respirar design, conviver com o design é entender o mundo e como ele funciona, como podemos melhorá-lo.  
     
-    O design é humano e ser designer é uma escolha feita por amor e prazer de ver acontecer e fazer funcionar. Isso é ser Plano D. 
-    
-    Moov arquitetura e interiores 
-    
-    O Studio Moov abre as portas sob um olhar diferenciado na produção de arquitetura, urbanismo, design de ambientes e produtos. Composto por três amigos e parceiros profissionais, nossas prioridades são os desejos e individualidade de cada usuário, com base nos pilares que sustentam nosso conceito: design | emoção | movimento. Enxergamos através destes conceitos que a arquitetura e o design podem mover e transformar a vida das pessoas. 
+    O design é humano e ser designer é uma escolha feita por amor e prazer de ver acontecer e fazer funcionar. Isso é ser Plano D. `,
+    subjectResume: `A palestra aborda o case do desenvolvimento de peças com design autoral e projeto inovador para a ambientação de um espaço Casa Cor trabalhado por meio da arquitetura de ambientes. Com este case em apresentação, os palestrantes abrem diálogo sobre suas vivências, experiências profissionais e o chão de fábrica da produção de peças e artefatos de design. 
     `,
-    subjectResume: `A palestra aborda o case do desenvolvimento de peças com design autoral e projeto inovador para a ambientação de um espaço Casa Cor trabalhado por meio da arquitetura de ambientes. Receberemos os egressos de ambos os cursos para falarem de suas experiências profissionais e da ligação importante entre as áreas de atuação e de formação originais da PUC Goiás.
-    `,
-    img: '',
+    img: '/assets/img/speakers/Fernando_Felipe.png',
     customSize: '100%',
     datentime: {
       date: '09/05',
       time: '08:30 - 10:00',
       place: 'Auditório Marisa Roriz, área III'
     }
-  },*/
+  },
+  {
+    name: 'Thiago Ribeiro',
+    institution: 'Plano D Design de produtos',
+    speaking: 'Design de mobiliário - vivências, experiências profissionais e sintonias entre arquitetura e design ',
+    description: `Plano D Design de produtos  
+
+    Design autoral brasileiro. 
+    
+    Através da experiênca proporcionada pelos produtos, acreditamos ter a capacidade de poder interferir positivamente na vida e no propósito das pessoas. Pessoas que movem e são o sustento físico do nosso imenso universo concreto e criativo. 
+    
+    Viver design, respirar design, conviver com o design é entender o mundo e como ele funciona, como podemos melhorá-lo.  
+    
+    O design é humano e ser designer é uma escolha feita por amor e prazer de ver acontecer e fazer funcionar. Isso é ser Plano D. `,
+    subjectResume: `A palestra aborda o case do desenvolvimento de peças com design autoral e projeto inovador para a ambientação de um espaço Casa Cor trabalhado por meio da arquitetura de ambientes. Com este case em apresentação, os palestrantes abrem diálogo sobre suas vivências, experiências profissionais e o chão de fábrica da produção de peças e artefatos de design. 
+    `,
+    img: '/assets/img/speakers/Thiago_Ribeiro.png',
+    customSize: '100%',
+    datentime: {
+      date: '09/05',
+      time: '08:30 - 10:00',
+      place: 'Auditório Marisa Roriz, área III'
+    }
+  },
 
 ]
 

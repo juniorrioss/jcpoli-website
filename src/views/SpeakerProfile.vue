@@ -44,6 +44,12 @@
           </i>
           <p>{{speaker.subjectResume}}</p>
         </div>
+        <div>
+          <i>
+            <h5>{{speaker.speaking2}}</h5>
+          </i>
+          <p>{{speaker.subjectResume2}}</p>
+        </div>
       </div>
 
       <label for="curriculum">

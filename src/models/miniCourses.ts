@@ -1,14 +1,6 @@
 
 let Courses = [
-  {
-    title: "I Workshop de Inspeção Predial: Inspeção em obras de infraestrutura: pontes, viadutos, barragens e usinas hidrelétricas",
-    instructor: "Prof. Ricardo Barbosa Ferreira, Profa. Rosana Lucas de Melo Brandão",
-    institution: "PUC Goiás",
-    desc: ``,
-    date: "09/05",
-    time: "10:00-12:00",
-    place: "Auditório 3, área II"
-  },
+  
   {
     title: "Navegação Aérea",
     instructor: "Roberto Márcio dos Santos",
@@ -40,15 +32,6 @@ let Courses = [
     place: "Lab. 101C, área II",
   },
   {
-    title: "OFICINA: Interpretação de Mapa Fluxo de Valor - uma abordagem prática",
-    instructor: "Enga. de Produção Mariana do Prado e Silva",
-    institution: "IFG - Senador Canedo",
-    desc: `Apresentação de UX, da empresa e de vagas.`,
-    date: "10/05",
-    time: "08:00-09:30",
-    place: "Auditório 2, área II",
-  }, 
-  {
     title: "Planejamento de Voo",
     instructor: "Salmen Chaquip Bukzem",
     institution: "PUC Goiás",
@@ -59,7 +42,7 @@ let Courses = [
   },
   {
     title: "Smath Studio: aplicações em cálculos de Engenharia",
-    instructor: "Prof. Me. Antônio Manuel Corado Pombo Fernandes",
+    instructor: "Prof. Me. Alberto Vilela Chaer",
     institution: "PUC Goiás",
     desc: `Requisito: Realizar download e instalação prévia do Smath Studio pelo link https://en.smath.com/view/SMathStudio/summary `,
     date: "10/05",
@@ -67,15 +50,7 @@ let Courses = [
     place: "Microsoft Teams",
     link: "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1651584839051?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2219202b0c-a430-4a6f-8eac-33d2cc220195%22%7d"
   },
-  {
-    title: "Simulação de degradação e ensaios de desempenho como ferramentas para a inspeção predial",
-    instructor: "Prof. Me. Antônio Manuel Corado Pombo Fernandes",
-    institution: "PUC Goiás",
-    desc: ``,
-    date: "11/05",
-    time: "10:00-12:00",
-    place: "Auditório 3, área II"
-  },
+  
   {
     title: "Estrutura do Espaço Aéreo Brasileiro",
     instructor: "Salmen Chaquip Bukzem",
@@ -94,15 +69,7 @@ let Courses = [
     time: "14:00-16:45",
     place: "Espaço de Palestras ITS (Campus II)"
   }, 
-  {
-    title: "Inspeção em protótipos",
-    instructor: "Prof. Me. Antônio Manuel Corado Pombo Fernandes",
-    institution: "PUC Goiás",
-    desc: ``,
-    date: "11/05",
-    time: "15:00-16:00",
-    place: "Teatro de Arena, área III"
-  },
+  
 ]
 
 /*

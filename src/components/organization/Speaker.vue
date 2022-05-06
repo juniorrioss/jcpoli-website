@@ -11,6 +11,8 @@
     <div class="institution">{{speaker.institution}}</div>
     <div class="speaking">
       <i>{{speaker.speaking}}</i>
+      <br>
+      <i>{{speaker.speaking2}}</i>
     </div>
     <div class="more">
       <v-btn color="primary" @click="showProfile(speaker.name)">Leia completo</v-btn>

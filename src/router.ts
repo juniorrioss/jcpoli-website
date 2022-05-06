@@ -85,6 +85,11 @@ const router = new Router({
         import(/* webpackChunkName: "programacao" */ "./views/Competicao.vue")
     },
     {
+      path: "/egressos",
+      component: () =>
+        import(/* webpackChunkName: "egressos" */ "./views/Egressos.vue")
+    },
+    {
       path: "*",
       component: () =>
         import(/* webpackChunkName: "ops" */ "./views/four04.vue")
