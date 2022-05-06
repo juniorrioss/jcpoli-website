@@ -861,7 +861,13 @@ Nivia tem estado continuamente envolvida na investigação acadêmica. Faz parte
   text-align: center;
 }
 
-@media screen and (max-width: 576px) {
+@media screen and (min-width: 800px) {
+  .list-container {
+    max-height: 50vh;
+  }
+}
+
+@media screen and (max-width: 680px) {
   .list-container {
     max-height: 200vh;
     margin-right: 2rem;
