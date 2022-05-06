@@ -65,14 +65,14 @@ export default class Escola extends Vue {
       '/assets/img/egressos/14.jpeg',
       '/assets/img/egressos/15.jpeg',
       '/assets/img/egressos/16.jpeg',
+      '/assets/img/egressos/8.jpeg',
       '/assets/img/egressos/1.jpeg',
       '/assets/img/egressos/2.jpeg',
       '/assets/img/egressos/3.jpeg',
       '/assets/img/egressos/4.jpeg',
       '/assets/img/egressos/5.jpeg',
       '/assets/img/egressos/6.jpeg',
-      '/assets/img/egressos/7.jpeg',
-      '/assets/img/egressos/8.jpeg'
+      '/assets/img/egressos/7.jpeg'
     ]
   }
 }
@@ -88,35 +88,40 @@ body {
 .gallery {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(20rem, 1fr));
-  grid-gap: 5rem;
+  grid-gap: 2rem;
   margin: 5rem auto;
 }
 
 .gallery-panel img {
   height: 15rem;
-  width: 50rem;
+  width: 25rem;
 
   object-fit: cover;
   border-radius: 0.75rem;
-
-  transition: transform 0.5s;
-}
-
-.gallery-panel img:hover {
-  object-fit: contain;
-
-  transform: scale(1.8);
-
-  padding: 3rem;
 }
 
 @media screen and (min-width: 800px) {
+  .gallery {
+    grid-gap: 5rem;
+  }
+
   .gallery-panel img {
     height: 25rem;
-    width: 21rem;
+    width: 22rem;
 
     object-fit: cover;
     border-radius: 0.75rem;
+
+    transition: transform 0.5s;
+  }
+
+  .gallery-panel img:hover {
+    object-fit: contain;
+
+    transform: scale(1.5);
+
+    padding: 2rem;
+    border-radius: 2rem;
   }
 }
 </style>
