@@ -131,14 +131,14 @@ Palestra sobre a situação atual dos transplantes no Brasil e em Goiás e sobre
 
   {
     name: "Maycon Silva",
-    institution: "Head of Innovation Lab",
-    speaking: "",
-    description: `Maycon Silva é responsável pelo Innovation Lab e está focado em acompanhar as últimas tendências tecnológicas e promove a transferência de conhecimento para as equipes, parceiros e colaboradores de nossos clientes. Maycon tem e seu portifólio serviços de planejamento e criação de centros tecnológicos de excelência (CoEs), renovações tecnológicas, análise e definição de arquitetura, desenvolvimento de aplicativos, entre outros.   
+    institution: "Askblue",
+    speaking: "De Goiânia para o mundo",
+    description: `Maycon Silva, 34 anos, formado em Análise de Sistemas, militar do Exército Brasileiro por 4 anos, iniciou a carreira em Tecnologia da Informação em 2010. Atou em funções como suporte, desenvolvedor, analista de processos, analista de indicadores, consultor OutSystems, Tech Lead e gestor de projetos e atualmente mora em Portugal.   
 `,
-    subjectResume: `
+    subjectResume: `Partilha de experiência de o que é sair do Brasil para morar fora e o foco em uma carreira sustentável imerso em uma cultura diferente.
 
 `,
-    img: "",
+    img: "/assets/img/speakers/Maycon_Silva.jpeg",
     customSize: "100%",
     datentime: {
       date: "10/05",
@@ -350,14 +350,22 @@ Palestra sobre a situação atual dos transplantes no Brasil e em Goiás e sobre
   },
   {
     name: 'Paulo Alexandre Bernardo dos Santos Nunes',
-    institution: 'Manager, Junior Talent Unit (JTU)',
-    speaking: `Palestra de Abertura
+    institution: 'Askblue',
+    speaking: `Palestra de Abertura - AskBlue, dos 0 aos 500
     `,
-    description: `Paulo Nunes está focado nos mercados internacionais, nomeadamente norte da Europa, América e Médio Oriente. Paulo Nunes lidera também a Junior Talent Unit (JTU), gerindo a formação e programas de recrutamento. 
+    description: `Paulo Nunes, 56 anos, iniciou a sua carreira no INESC, tendo posteriormente assumido posições de Manager na Link Consulting, Link Management Solutions e Link África, onde liderou vários projetos de Sistemas de Informação para o mercado Nacional, Cabo Verde a Angola.
+
+    Antes de ter ingressado na askblue teve funções de Business Development Manager na Pessoas & Processos, onde desenvolveu a área internacional, tendo sido responsável vários projetos internacionais.
+    
+    Com uma carreira de 32 anos, desenvolvida na área de tecnologia de informação, consultoria, gestão de projetos e desenvolvimento de negócio, o Paulo Nunes frequentou a Pós-Graduação em Sistemas de Informação (POSI) ministrada pelo Instituto Superior Técnico, tendo feito a sua formação base no Instituto Português de informática.
+    
+    Conta, ainda, com as seguintes certificações : Chief Happiness Officer (CHO): Certified Project Manager pelo PMI; OutSystems Traditional Web Developer; OutSystems Mobile Developer, entre outras.
+    
+    Faz parte da Comissão Executiva da AskBlue, onde lidera a área Internacional e a Junior Talent Unit. 
     `,
-    subjectResume: `
+    subjectResume: `AskBlue, Uma breve história de sucesso; O processo de internacionalização; Visão para 2025.
     `,
-    img: '/assets/img/speakers/Paulo_Nunes_Provisorio.jpg',
+    img: '/assets/img/speakers/Paulo_Nunes.jpeg',
     customSize: '100%',
     datentime: {
       date: '09/05',
@@ -469,6 +477,80 @@ Palestra sobre a situação atual dos transplantes no Brasil e em Goiás e sobre
       time: '13:30 - 17:00',
       place: 'Auditório 2, área II'
     }
+  },
+  {
+    name: "Profa Luri Sabina Cosme da Silva Matos",
+    institution: "PUC Goiás",
+    speaking: `Criação de apresentações de trabalhos científicos 
+    `,
+    description: `
+    `,
+    subjectResume: `
+    `,
+    img: "/assets/img/speakers/Luri_Sabina.jpg",
+    customSize: "100%",
+    datentime: {
+      date: "09/05",
+      time: "15:00 - 16:30",
+      place: "Microsoft Teams",
+    },
+  },
+  {
+    name: "Prof Sandeco Macedo",
+    institution: "",
+    speaking: `Campus Party Goiás 2 – Reiniciando tudo em 3, 2, 1 
+    `,
+    description: `Embaixador Campus Party Brasil.  
+    Professor e Pesquisador em Inteligência Artificial e Data Science pelo Instituto Federal de Goiás - IFG.
+    Coordenador da Revista Científica Campus Party
+    Mentor e Apresentador do Canal Sandeco - Inteligência Artificial Descomplicada no youtube.
+    `,
+    subjectResume: `No final da palestra ocorrerá um sorteio de 15 ingressos para Campus Party Goiás 2.
+    `,
+    img: "/assets/img/speakers/Sandeco_Macedo.jpeg",
+    customSize: "100%",
+    datentime: {
+      date: "A definir",
+      time: "A definir",
+      place: "A definir",
+    },
+  },
+  {
+    name: "Prof. Msc. Carbio Almeida Waqued",
+    institution: "Coordenador Incubadora PUC GOIÁS",
+    speaking: `Como a Incubadora PUC Goiás pode transformar a sua ideia em um projeto real
+    `,
+    description: `Presidente da Rede Goiana de Inovação, Mentor de carreira,  Administrador, Especialista em Marketing e mestre em Engenharia de Produção. Atualmente é Consultor da Merkado de Ideias Estratégicas, atendendo empresas de Serviços, Indústria e Varejo Goiano. Professor de graduação, pós graduação, coordenador da Incubadora de Empresas na PUC Goiás. Ministra aulas de especialização pelo Brasil.Tem experiência na área de Administração, Desenvolvimento de pessoas, Comunicação e Publicidade. Palestrante na área de Mentoria de carreira, potencial humano e Marketing.
+    `,
+    subjectResume: `A incubadora PUC Goiás é uma instituição que auxiliará micro e pequenas empresas nascentes ou que estejam em operação, que tenham como principal característica a oferta de produtos e serviços com significativo grau de diferenciação. Ela oferece suporte técnico, gerencial e formação complementar ao empreendedor e facilitará o desenvolvimento tecnológico e o acesso a mercados e a investimentos.
+    As empresas que buscarem a incubadora PUC Goiás, além de receberem suporte gerencial, administrativo e mercadológico, recebem apoio técnico para o desenvolvimento de sua tecnologia. Com isso, o empreendimento pode ser acompanhado desde a fase de ideação, onde o conceito e o modelo de negócio ainda não estão claros e precisam ser validados pelo mercado, até a consolidação de suas atividades, onde estarão aptas a serem graduadas, ou seja, obter a emancipação da incubadora com condições competitivas de ir ao mercado.
+    Nossa incubadora de empresas favorece ao empreendedor, por meio de assessorias: Gestão empresarial; Gestão tecnológica; Comercialização de produtos e serviços; Contabilidade; Marketing; Assistência jurídica entre outras.
+    
+    `,
+    img: "/assets/img/speakers/Carbio_Almeida.jpg",
+    customSize: "100%",
+    datentime: {
+      date: "09/05",
+      time: "20:30",
+      place: "YouTube",
+    },
+  },
+  {
+    name: "João Asmar Júnior",
+    institution: "Emater Goiás",
+    speaking: `A Importância da Agronomia no Cenário do Agronegócio Brasileiro e os Desafios e perspectivas da Emater para Goiás 
+    `,
+    description: `Engenheiro Agrícola pela Universidade Estadual de Goiás (2009). Diplomado pela ASSOCIAÇÃO DOS DIPLOMADOS DA ESCOLA SUPERIOR DE GUERRA, com o XXII curso de Política e Estratégia em 2009. Pós-graduado Formação de Professores e Didática e Gestão Educacional. Pós-graduado em Logística e Distribuição de Produtos. Mestre em Ciências Ambientais, na área de Sociedade Tecnologia e Meio Ambiente. Doutorando em Ciências Ambientais, na área de Sociedade Tecnologia e Meio Ambiente. Professor no Centro Universitário Ânima - Jataí/GO. Diretor de Pesquisas Agropecuárias da Emater Goiás.  
+    `,
+    subjectResume: `
+    `,
+    img: "/assets/img/speakers/Joao_Asmar.png",
+    customSize: "100%",
+    datentime: {
+      date: "11/05",
+      time: "08:00 - 09:30",
+      place: "Auditório 2, área II",
+    },
   },
   /* PROVISORIO FALTA DADOS
   {
