@@ -4,7 +4,7 @@
       <i class="fas fa-graduation-cap"></i>
       <h3
         :title="course.title"
-        v-bind:id="'true' ? course.title === 'Palestra de Abertura' : ''"
+        v-bind:id="'true' ? course.title === 'Palestra de Abertura da Jornada: AskBlue, dos 0 aos 500' : ''"
       >
         {{ course.title }}
       </h3>

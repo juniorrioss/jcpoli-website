@@ -136,7 +136,7 @@ let Palestras = [
   },
 
   {
-    title: "Palestra de Abertura - AskBlue, dos 0 aos 500",
+    title: "Palestra de Abertura da Jornada: AskBlue, dos 0 aos 500",
     instructor: "Paulo Alexandre Bernardo dos Santos Nunes",
     institution: "Askblue",
     desc: `AskBlue, Uma breve história de sucesso; O processo de internacionalização; Visão para 2025.`,

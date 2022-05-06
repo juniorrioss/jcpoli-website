@@ -375,11 +375,11 @@ export default class Escola extends Vue {
         institution: 'Askblue',
         speaking: 'De Goiânia para o mundo',
         description: `Maycon Silva, 34 anos, formado em Análise de Sistemas, militar do Exército Brasileiro por 4 anos, iniciou a carreira em Tecnologia da Informação em 2010. Atou em funções como suporte, desenvolvedor, analista de processos, analista de indicadores, consultor OutSystems, Tech Lead e gestor de projetos e atualmente mora em Portugal.
- 
+
 Apesar de ser gestor de uma área extremamente técnica, para além da tecnologia também tem um grande foco em gestão de pessoas.
- 
+
 Possui 6 certificações e 2 Especializações OutSystems, sendo elas: Associate Traditional Web Developer, Professional Tradional Web Developer, Expert Traditional Web Developer, Associate Reactive Developer, Associate Tech Lead, Professional Platform Ops Engineer, Architecture Specialist e Mobile Developer Specialist.
- 
+
 Integra o Comité Operacional da Askblue e é gestor de uma Unidade de Negócio técnica chamada Innovation Lab.
 `,
         subjectResume: `Partilha de experiência de o que é sair do Brasil para morar fora e o foco em uma carreira sustentável imerso em uma cultura diferente.
@@ -482,7 +482,7 @@ Integra o Comité Operacional da Askblue e é gestor de uma Unidade de Negócio 
                Foi membro da Comissão Assessora de área do Exame Nacional de Desempenho dos Estudantes — Enade, de Tecnologia em Design Gráfico 2018 e 2019.
                Foi docente na UFG, PUC-GO e Faculdade Senac GO. Desenvolve pesquisas e trabalhos visuais a partir do resgate da imagem de povos originários do Brasil.
 `,
-        subjectResume: `A palestra aborda o mesmo tema da exposição que deve abrir na mesma data. Os povos originários são guardiões de tradições de verdadeiros tesouros imateriais, infelizmente esta é uma ideia recente. No passado muito se perdeu por falta consciência do valor e de registros adequados. Em busca do resgate da memória perdida, o designer Marcos Costa iniciou um trabalho autoral para reconstruir imagens de alguns desses povos. 
+        subjectResume: `A palestra aborda o mesmo tema da exposição que deve abrir na mesma data. Os povos originários são guardiões de tradições de verdadeiros tesouros imateriais, infelizmente esta é uma ideia recente. No passado muito se perdeu por falta consciência do valor e de registros adequados. Em busca do resgate da memória perdida, o designer Marcos Costa iniciou um trabalho autoral para reconstruir imagens de alguns desses povos.
                 Será uma mesa redonda com mediação feita pela coordenadora do curso de Design, Genilda Alexandria, sobre o trabalho de pesquisa, levantamento histórico e reprodução artística em carvão dos desenhos de Marcos Costa. A participação da professora dra. Maria Cristina Nunes F. Neto fará o evento interdisciplinar, fortalecendo o vínculo com o fazer científico e com a conexão antropológica do tema. `,
         img: '/assets/img/speakers/Marcos_Costa.jpg',
         customSize: '100%',
@@ -499,8 +499,8 @@ Integra o Comité Operacional da Askblue e é gestor de uma Unidade de Negócio 
           'Mesa redonda: Povos primordiais – o resgate inédito da imagem de etnias desaparecidas',
         description: `Graduada em História pela Universidade Federal de Uberlândia (1995), Mestrado em História pela Universidade Estadual de Campinas (1998) e Doutorado em História pela Universidade Estadual de Campinas (2002). Atualmente é professora adjunto da Pontifícia Universidade Católica de Goiás (PUC-GO), no Mestrado de História, nos cursos de graduação de História e Relações Internacionais.
 `,
-        subjectResume: `A palestra aborda o mesmo tema da exposição que deve abrir na mesma data. Os povos originários são guardiões de tradições de verdadeiros tesouros imateriais, infelizmente esta é uma ideia recente. No passado muito se perdeu por falta consciência do valor e de registros adequados. Em busca do resgate da memória perdida, o designer Marcos Costa iniciou um trabalho autoral para reconstruir imagens de alguns desses povos. 
-                Será uma mesa redonda com mediação feita pela coordenadora do curso de Design, Genilda Alexandria, sobre o trabalho de pesquisa, levantamento histórico e reprodução artística em carvão dos desenhos de Marcos Costa. A participação da professora dra. Maria Cristina Nunes F. Neto fará o evento interdisciplinar, fortalecendo o vínculo com o fazer científico e com a conexão antropológica do tema. 
+        subjectResume: `A palestra aborda o mesmo tema da exposição que deve abrir na mesma data. Os povos originários são guardiões de tradições de verdadeiros tesouros imateriais, infelizmente esta é uma ideia recente. No passado muito se perdeu por falta consciência do valor e de registros adequados. Em busca do resgate da memória perdida, o designer Marcos Costa iniciou um trabalho autoral para reconstruir imagens de alguns desses povos.
+                Será uma mesa redonda com mediação feita pela coordenadora do curso de Design, Genilda Alexandria, sobre o trabalho de pesquisa, levantamento histórico e reprodução artística em carvão dos desenhos de Marcos Costa. A participação da professora dra. Maria Cristina Nunes F. Neto fará o evento interdisciplinar, fortalecendo o vínculo com o fazer científico e com a conexão antropológica do tema.
 `,
 
         img: '/assets/img/speakers/Maria_Cristina.jpg',
@@ -549,12 +549,12 @@ Integra o Comité Operacional da Askblue e é gestor de uma Unidade de Negócio 
         institution: 'GRUPO HAUS – Stefanini group',
         speaking: `Carreiras Digitais no grupo HAUS.
         `,
-        description: `PEOPLE & CULTURE MANAGER, Professional & Self Coaching e Practitioner Programação Neurolinguística e Neurociência. 
+        description: `PEOPLE & CULTURE MANAGER, Professional & Self Coaching e Practitioner Programação Neurolinguística e Neurociência.
         Mais de 10 anos ajudando as pessoas a se desenvolverem através do autoconhecimento. Experiência com Gestão de Talentos, HRBP, People Engagement, Performance Review, Employer Brand, Talent Acquisition e nos últimos 4 anos no processo de aquisições de novas empresas.
         `,
-        subjectResume: `Se olharmos nos últimos 10 anos o quanto o consumidor evoluiu, procurando uma melhor experiência, buscando mais agilidade, bom atendimento e se tornando mais exigente, 
-        e consequentemente os nossos clientes também. E aí que o Grupo Haus surge, a nossa missão é ajudar nossos clientes a se relacionarem melhor com seus consumidores. 
-        E nosso DNA é composto por um amplo ecossistema de empresas, ventures e startups que oferecem as mais diversificadas soluções tecnológicas e inovadoras do mercado, investimos em transformação digital, 
+        subjectResume: `Se olharmos nos últimos 10 anos o quanto o consumidor evoluiu, procurando uma melhor experiência, buscando mais agilidade, bom atendimento e se tornando mais exigente,
+        e consequentemente os nossos clientes também. E aí que o Grupo Haus surge, a nossa missão é ajudar nossos clientes a se relacionarem melhor com seus consumidores.
+        E nosso DNA é composto por um amplo ecossistema de empresas, ventures e startups que oferecem as mais diversificadas soluções tecnológicas e inovadoras do mercado, investimos em transformação digital,
         comunicação, cobertura de eventos, live commerce, gestão de branding, reputação da marca, gestão de crises, digital analytics e User Experience (UX).
         `,
         img: '/assets/img/speakers/Dani_Moreira_Provisorio.jpg',
@@ -570,13 +570,13 @@ Integra o Comité Operacional da Askblue e é gestor de uma Unidade de Negócio 
         institution: 'CTO na Suney (@suneybr)',
         speaking: `Hackeando o transporte público: Como descobri uma falha de segurança que me deixaria andar de metrô de graça para sempre.
         `,
-        description: `Engenheiro de Software com foco em Fintechs e Pesquisador de Segurança da Informação nas horas vagas com passagens por empresas como PagSeguro, 
+        description: `Engenheiro de Software com foco em Fintechs e Pesquisador de Segurança da Informação nas horas vagas com passagens por empresas como PagSeguro,
                   Kovi e EBANX. Atualmente é co-fundador e CTO da Suney: uma fintech de crédito para energia solar. Formado em Análise de Sistemas (PUC/GO e UCB) e Pós-Graduando em Computação Forense e Perícia Digital (IPOG).
         `,
-        subjectResume: `Os ouvintes aprenderão um pouco sobre como funciona a área de Segurança da Informação nas grandes empresas, alguns tipos de ataques hacker, como começar na área e por fim o caso de 
+        subjectResume: `Os ouvintes aprenderão um pouco sobre como funciona a área de Segurança da Informação nas grandes empresas, alguns tipos de ataques hacker, como começar na área e por fim o caso de
                   como hackeei o sistema de tickets de metrô de uma grande capital brasileira e quais seriam as consequências disso caso tivesse sido feito por um hacker malicioso.
         `,
-        img: '',
+        img: '/assets/img/speakers/Hector_Grecco_Provisorio.jpg',
         customSize: '100%',
         datentime: {
           date: '09/05',
@@ -587,17 +587,17 @@ Integra o Comité Operacional da Askblue e é gestor de uma Unidade de Negócio 
       {
         name: 'Paulo Alexandre Bernardo dos Santos Nunes',
         institution: 'Askblue',
-        speaking: `Palestra de Abertura - AskBlue, dos 0 aos 500
+        speaking: `AskBlue, dos 0 aos 500
         `,
         description: `Paulo Nunes, 56 anos, iniciou a sua carreira no INESC, tendo posteriormente assumido posições de Manager na Link Consulting, Link Management Solutions e Link África, onde liderou vários projetos de Sistemas de Informação para o mercado Nacional, Cabo Verde a Angola.
 
         Antes de ter ingressado na askblue teve funções de Business Development Manager na Pessoas & Processos, onde desenvolveu a área internacional, tendo sido responsável vários projetos internacionais.
-        
+
         Com uma carreira de 32 anos, desenvolvida na área de tecnologia de informação, consultoria, gestão de projetos e desenvolvimento de negócio, o Paulo Nunes frequentou a Pós-Graduação em Sistemas de Informação (POSI) ministrada pelo Instituto Superior Técnico, tendo feito a sua formação base no Instituto Português de informática.
-        
+
         Conta, ainda, com as seguintes certificações : Chief Happiness Officer (CHO): Certified Project Manager pelo PMI; OutSystems Traditional Web Developer; OutSystems Mobile Developer, entre outras.
-        
-        Faz parte da Comissão Executiva da AskBlue, onde lidera a área Internacional e a Junior Talent Unit. 
+
+        Faz parte da Comissão Executiva da AskBlue, onde lidera a área Internacional e a Junior Talent Unit.
         `,
         subjectResume: `AskBlue, Uma breve história de sucesso; O processo de internacionalização; Visão para 2025.
         `,
@@ -614,7 +614,7 @@ Integra o Comité Operacional da Askblue e é gestor de uma Unidade de Negócio 
         institution: 'Megasoft Informática',
         speaking: `Automação Residencial Uma Realidade de Futuro.
         `,
-        description: `Graduado em Engenharia de Computação, PUC-GO, desenvolvedor de Sistemas Senior, Diretor Técnico da Megasoft Informática, empresa especializada em desenvolvimento de Sistemas para gestão pública e 
+        description: `Graduado em Engenharia de Computação, PUC-GO, desenvolvedor de Sistemas Senior, Diretor Técnico da Megasoft Informática, empresa especializada em desenvolvimento de Sistemas para gestão pública e
                   integração das Prefeituras aos Tribunais de Contas, Pós Graduando em Growth Hacking & Agile Mindset pela HSM University.
         `,
         subjectResume: `Abordagem dos conceitos de automação, internet das coisas, algumas novidades atuais e a tendência do mercado.
@@ -632,9 +632,9 @@ Integra o Comité Operacional da Askblue e é gestor de uma Unidade de Negócio 
         institution: 'Universidade de Cork - Irlanda',
         speaking: `Internacionalização na área de Design – série Trajetórias, com Paula Leocadio.
         `,
-        description: `Atualmente phd researcher at university college cork. 
-                  Certificada com proficiência em Comunicação Visual e Design pela Assabet Valley Regional Technical High School de Marlborough, MA nos EUA e Bacharel com excelência em Design Gráfico, Produtos e Ambientes pela PUC Goiás. 
-                  Destacando também por méritos na movimentação estudantil da cidade. Idealizadora e organizadora da Semana Integrada de Design - seintegra! 2013 e Comissão Organizadora do Encontro Nacional de Estudantes de Design, N_Design 2014. 
+        description: `Atualmente phd researcher at university college cork.
+                  Certificada com proficiência em Comunicação Visual e Design pela Assabet Valley Regional Technical High School de Marlborough, MA nos EUA e Bacharel com excelência em Design Gráfico, Produtos e Ambientes pela PUC Goiás.
+                  Destacando também por méritos na movimentação estudantil da cidade. Idealizadora e organizadora da Semana Integrada de Design - seintegra! 2013 e Comissão Organizadora do Encontro Nacional de Estudantes de Design, N_Design 2014.
                   Selecionada pelo Edital Conexão Cultura Intercâmbios realizado pelo Ministério da Cultura para sua capacitação profissional no curso Design Contemporâneo Italiano e Tendências no Istituto Europeu di Design Milano.
         `,
         subjectResume: `A palestra aborda a trajetória da egressa do curso de Design da PUC Goiás e suas experiências exitosas em atividades profissionais e acadêmicas internacionalmente.
@@ -654,8 +654,8 @@ Paula atualmente é doutoranda pela University College Cork e Cork University Ho
         institution: 'Auckland University of Technology - Aotearoa/New Zealand',
         speaking: `Internacionalização na área de Design – série Trajetórias, com Nivia Boz
         `,
-        description: `Nivia Ferreira, designer de UX/UI, pesquisadora e palestrante com interesse particular em Artes e Design. Possuo mestrado, com dissertação sobre game design e experiência do jogador, e sou doutorando, 
-                  com tese sobre game design e neurociência, ambos em Design pela Universidade Anhembi Morumbi (UAM-SP), Brasil. Sou bacharel em Design de Comunicação pela Pontifícia Universidade Católica de Goiás (PUC-GO) com pesquisa prática sobre interfaces para plataformas de e-learning. 
+        description: `Nivia Ferreira, designer de UX/UI, pesquisadora e palestrante com interesse particular em Artes e Design. Possuo mestrado, com dissertação sobre game design e experiência do jogador, e sou doutorando,
+                  com tese sobre game design e neurociência, ambos em Design pela Universidade Anhembi Morumbi (UAM-SP), Brasil. Sou bacharel em Design de Comunicação pela Pontifícia Universidade Católica de Goiás (PUC-GO) com pesquisa prática sobre interfaces para plataformas de e-learning.
         `,
         subjectResume: `A palestra aborda a trajetória da egressa do curso de Design da PUC Goiás e suas experiências exitosas em atividades profissionais e acadêmicas internacionalmente.
 Nivia tem estado continuamente envolvida na investigação acadêmica. Faz parte do DEED – Design, Entertainment, and Education Research Cluster e do Global South Practices Design Research Cluster. Além disso, é uma das fundadoras do “Gaming for all”, um evento para promover a diversidade na indústria de jogos e na academia no Brasil.
@@ -688,8 +688,8 @@ Nivia tem estado continuamente envolvida na investigação acadêmica. Faz parte
         institution: 'PUC Goiás',
         speaking: `Navegação Aérea
         `,
-        description: `Capitão RF Especialista em Aeronáutica - Controlador de Tráfego Aéreo - pela Força Aérea Brasileira (1981). Psicopedagogo, pela PUC-GOIÁS (2019). Possui experiência na área de Educação, 
-                com ênfase em Métodos e Técnicas de Ensino para o ensino regular e para a educação especial, em particular, para autistas e outros problemas do desenvolvimento, e na área da Aviação, com ênfase em Formação de Pessoal, 
+        description: `Capitão RF Especialista em Aeronáutica - Controlador de Tráfego Aéreo - pela Força Aérea Brasileira (1981). Psicopedagogo, pela PUC-GOIÁS (2019). Possui experiência na área de Educação,
+                com ênfase em Métodos e Técnicas de Ensino para o ensino regular e para a educação especial, em particular, para autistas e outros problemas do desenvolvimento, e na área da Aviação, com ênfase em Formação de Pessoal,
                 Controle do Espaço Aéreo, Segurança Operacional, Segurança da Aviação Contra Atos de Interferência Ilícita (AESEC) Novas Tecnologias Satelitais (CNS-ATM), História da Aviação e Medicina Aeroespacial. `,
         subjectResume: `Planejamento de voo, procedimentos de saída, TOC, voo em rota, efeitos do vento, TOD, procedimentos de aproximação. Cálculos de razão de subida, descida, velocidades e estimados.`,
         img: '/assets/img/speakers/Roberto_Márcio.png',
@@ -719,7 +719,7 @@ Nivia tem estado continuamente envolvida na investigação acadêmica. Faz parte
       {
         name: 'Profa Luri Sabina Cosme da Silva Matos',
         institution: 'PUC Goiás',
-        speaking: `Criação de apresentações de trabalhos científicos 
+        speaking: `Criação de apresentações de trabalhos científicos
         `,
         description: `
         `,
@@ -736,9 +736,9 @@ Nivia tem estado continuamente envolvida na investigação acadêmica. Faz parte
       {
         name: 'Prof. Sandeco Macedo',
         institution: '',
-        speaking: `Campus Party Goiás 2 – Reiniciando tudo em 3, 2, 1 
+        speaking: `Campus Party Goiás 2 – Reiniciando tudo em 3, 2, 1
         `,
-        description: `Embaixador Campus Party Brasil.  
+        description: `Embaixador Campus Party Brasil.
         Professor e Pesquisador em Inteligência Artificial e Data Science pelo Instituto Federal de Goiás - IFG.
         Coordenador da Revista Científica Campus Party
         Mentor e Apresentador do Canal Sandeco - Inteligência Artificial Descomplicada no youtube.
@@ -763,7 +763,7 @@ Nivia tem estado continuamente envolvida na investigação acadêmica. Faz parte
         subjectResume: `A incubadora PUC Goiás é uma instituição que auxiliará micro e pequenas empresas nascentes ou que estejam em operação, que tenham como principal característica a oferta de produtos e serviços com significativo grau de diferenciação. Ela oferece suporte técnico, gerencial e formação complementar ao empreendedor e facilitará o desenvolvimento tecnológico e o acesso a mercados e a investimentos.
         As empresas que buscarem a incubadora PUC Goiás, além de receberem suporte gerencial, administrativo e mercadológico, recebem apoio técnico para o desenvolvimento de sua tecnologia. Com isso, o empreendimento pode ser acompanhado desde a fase de ideação, onde o conceito e o modelo de negócio ainda não estão claros e precisam ser validados pelo mercado, até a consolidação de suas atividades, onde estarão aptas a serem graduadas, ou seja, obter a emancipação da incubadora com condições competitivas de ir ao mercado.
         Nossa incubadora de empresas favorece ao empreendedor, por meio de assessorias: Gestão empresarial; Gestão tecnológica; Comercialização de produtos e serviços; Contabilidade; Marketing; Assistência jurídica entre outras.
-        
+
         `,
         img: '/assets/img/speakers/Carbio_Almeida.jpg',
         customSize: '100%',
@@ -776,9 +776,9 @@ Nivia tem estado continuamente envolvida na investigação acadêmica. Faz parte
       {
         name: 'João Asmar Júnior',
         institution: 'Emater Goiás',
-        speaking: `A Importância da Agronomia no Cenário do Agronegócio Brasileiro e os Desafios e perspectivas da Emater para Goiás 
+        speaking: `A Importância da Agronomia no Cenário do Agronegócio Brasileiro e os Desafios e perspectivas da Emater para Goiás
         `,
-        description: `Engenheiro Agrícola pela Universidade Estadual de Goiás (2009). Diplomado pela ASSOCIAÇÃO DOS DIPLOMADOS DA ESCOLA SUPERIOR DE GUERRA, com o XXII curso de Política e Estratégia em 2009. Pós-graduado Formação de Professores e Didática e Gestão Educacional. Pós-graduado em Logística e Distribuição de Produtos. Mestre em Ciências Ambientais, na área de Sociedade Tecnologia e Meio Ambiente. Doutorando em Ciências Ambientais, na área de Sociedade Tecnologia e Meio Ambiente. Professor no Centro Universitário Ânima - Jataí/GO. Diretor de Pesquisas Agropecuárias da Emater Goiás.  
+        description: `Engenheiro Agrícola pela Universidade Estadual de Goiás (2009). Diplomado pela ASSOCIAÇÃO DOS DIPLOMADOS DA ESCOLA SUPERIOR DE GUERRA, com o XXII curso de Política e Estratégia em 2009. Pós-graduado Formação de Professores e Didática e Gestão Educacional. Pós-graduado em Logística e Distribuição de Produtos. Mestre em Ciências Ambientais, na área de Sociedade Tecnologia e Meio Ambiente. Doutorando em Ciências Ambientais, na área de Sociedade Tecnologia e Meio Ambiente. Professor no Centro Universitário Ânima - Jataí/GO. Diretor de Pesquisas Agropecuárias da Emater Goiás.
         `,
         subjectResume: `
         `,
@@ -795,16 +795,16 @@ Nivia tem estado continuamente envolvida na investigação acadêmica. Faz parte
         institution: 'Plano D Design de produtos',
         speaking:
           'Design de mobiliário - vivências, experiências profissionais e sintonias entre arquitetura e design ',
-        description: `Plano D Design de produtos  
+        description: `Plano D Design de produtos
 
-        Design autoral brasileiro. 
-        
-        Através da experiênca proporcionada pelos produtos, acreditamos ter a capacidade de poder interferir positivamente na vida e no propósito das pessoas. Pessoas que movem e são o sustento físico do nosso imenso universo concreto e criativo. 
-        
-        Viver design, respirar design, conviver com o design é entender o mundo e como ele funciona, como podemos melhorá-lo.  
-        
+        Design autoral brasileiro.
+
+        Através da experiênca proporcionada pelos produtos, acreditamos ter a capacidade de poder interferir positivamente na vida e no propósito das pessoas. Pessoas que movem e são o sustento físico do nosso imenso universo concreto e criativo.
+
+        Viver design, respirar design, conviver com o design é entender o mundo e como ele funciona, como podemos melhorá-lo.
+
         O design é humano e ser designer é uma escolha feita por amor e prazer de ver acontecer e fazer funcionar. Isso é ser Plano D. `,
-        subjectResume: `A palestra aborda o case do desenvolvimento de peças com design autoral e projeto inovador para a ambientação de um espaço Casa Cor trabalhado por meio da arquitetura de ambientes. Com este case em apresentação, os palestrantes abrem diálogo sobre suas vivências, experiências profissionais e o chão de fábrica da produção de peças e artefatos de design. 
+        subjectResume: `A palestra aborda o case do desenvolvimento de peças com design autoral e projeto inovador para a ambientação de um espaço Casa Cor trabalhado por meio da arquitetura de ambientes. Com este case em apresentação, os palestrantes abrem diálogo sobre suas vivências, experiências profissionais e o chão de fábrica da produção de peças e artefatos de design.
         `,
         img: '/assets/img/speakers/Fernando_Felipe.png',
         customSize: '100%',
@@ -819,16 +819,16 @@ Nivia tem estado continuamente envolvida na investigação acadêmica. Faz parte
         institution: 'Plano D Design de produtos',
         speaking:
           'Design de mobiliário - vivências, experiências profissionais e sintonias entre arquitetura e design ',
-        description: `Plano D Design de produtos  
+        description: `Plano D Design de produtos
 
-        Design autoral brasileiro. 
-        
-        Através da experiênca proporcionada pelos produtos, acreditamos ter a capacidade de poder interferir positivamente na vida e no propósito das pessoas. Pessoas que movem e são o sustento físico do nosso imenso universo concreto e criativo. 
-        
-        Viver design, respirar design, conviver com o design é entender o mundo e como ele funciona, como podemos melhorá-lo.  
-        
+        Design autoral brasileiro.
+
+        Através da experiênca proporcionada pelos produtos, acreditamos ter a capacidade de poder interferir positivamente na vida e no propósito das pessoas. Pessoas que movem e são o sustento físico do nosso imenso universo concreto e criativo.
+
+        Viver design, respirar design, conviver com o design é entender o mundo e como ele funciona, como podemos melhorá-lo.
+
         O design é humano e ser designer é uma escolha feita por amor e prazer de ver acontecer e fazer funcionar. Isso é ser Plano D. `,
-        subjectResume: `A palestra aborda o case do desenvolvimento de peças com design autoral e projeto inovador para a ambientação de um espaço Casa Cor trabalhado por meio da arquitetura de ambientes. Com este case em apresentação, os palestrantes abrem diálogo sobre suas vivências, experiências profissionais e o chão de fábrica da produção de peças e artefatos de design. 
+        subjectResume: `A palestra aborda o case do desenvolvimento de peças com design autoral e projeto inovador para a ambientação de um espaço Casa Cor trabalhado por meio da arquitetura de ambientes. Com este case em apresentação, os palestrantes abrem diálogo sobre suas vivências, experiências profissionais e o chão de fábrica da produção de peças e artefatos de design.
         `,
         img: '/assets/img/speakers/Thiago_Ribeiro.png',
         customSize: '100%',
