@@ -723,7 +723,7 @@ Nivia tem estado continuamente envolvida na investigação acadêmica. Faz parte
         `,
         description: `
         `,
-        subjectResume: `
+        subjectResume: `O minicurso tem como objetivo apresentar o aplicativo CANVA como ferramenta para o desenvolvimento de trabalho acadêmico, enfatizar os tópicos mais relevantes para montar uma apresentação interessante e abordar sobre a postura adequada durante a explanação do trabalho.
         `,
         img: '/assets/img/speakers/Luri_Sabina.jpg',
         customSize: '100%',
@@ -837,7 +837,69 @@ Nivia tem estado continuamente envolvida na investigação acadêmica. Faz parte
           time: '08:30 - 10:00',
           place: 'Auditório Marisa Roriz, área III'
         }
-      }
+      },
+      {
+        name: 'Prof. Dr. Jefferson Lins da Silva',
+        institution: 'EESC/USP',
+        speaking: 'Aplicação de geossintéticos em pavimentação rodoviária',
+        description: `Professor Associado da USP na Escola de Engenharia de São Carlos (EESC) junto ao Departamento de Geotecnia (SGS). 
+        Bolsista de Produtividade em Pesquisa do CNPq - Nível 2
+        Responsável pelo Laboratório de Geossintéticos da EESC/USP. 
+        Coordenador do Curso de Engenharia Civil da EESC/USP desde 2019. 
+        Vice-Chefe do Departamento de Geotecnia (SGS) da EESC/USP desde 2021. 
+        Coordenador da Comissão de Estudo Especial de Geossintéticos da ABNT de 2014 a 2020.
+        `,
+        subjectResume: `
+        `,
+        img: '/assets/img/speakers/Jefferson_Lins.jpg',
+        customSize: '100%',
+        datentime: {
+          date: '09/05',
+          time: '20:00 - 21:00',
+          place: 'Microsoft Teams'
+        }
+      },
+      {
+        name: 'Profa. Dra. Marta Pereira da Luz',
+        institution: 'POLI/PUC Goiás',
+        speaking: 'Aplicação de geossintéticos em pavimentação rodoviária',
+        description: `Professora Adjunta PUC Goiás 
+        Bolsista de Produtividade em Pesquisa do CNPq - Nível 2
+        Secretária Geral do Núcleo Regional Centro-Oeste da Associação Brasileira de Mecânica dos Solos e Engenharia Geotécnica - NRCO ABMS
+        Pós-Doutorado em Geotecnia e Construções Sustentáveis - Heriot-Watt University Reino Unido.
+        `,
+        subjectResume: `
+        `,
+        img: '/assets/img/speakers/Marta_Pereira.jpg',
+        customSize: '100%',
+        datentime: {
+          date: '09/05',
+          time: '20:00 - 21:00',
+          place: 'Microsoft Teams'
+        }
+      },
+      {
+        name: 'Eng. Civil Paulo Rocha',
+        institution: 'Geo Soluções',
+        speaking: 'Aplicação de software para análise de estabilidade de taludes',
+        description: `Engenheiro Civil graduado pela Escola de Engenharia de São Carlos EESC USP, Pós Graduado em Gerenciamento de Projetos PMI, e aluno do programa de pós graduação da UFSCar
+    
+        Professor de Mecânica dos Solos, Obras de Terra, entre outras disciplinas de 2014 a 2019.
+        
+        Trabalha com geossintéticos desde 2007, dimensionando, especificando, ensaiando, avaliando, apresentando e instalando estes materiais em toda a América Latina.
+        
+        Especialista em geossintéticos na Geo Soluções Engenharia Geotécnica.    
+        `,
+        subjectResume: `
+        `,
+        img: '/assets/img/speakers/Paulo_Rocha.jpg',
+        customSize: '100%',
+        datentime: {
+          date: '11/05',
+          time: '19:00 - 20:00',
+          place: 'Microsoft Teams'
+        }
+      },
     ]
   }
 }

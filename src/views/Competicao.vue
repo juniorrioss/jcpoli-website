@@ -36,7 +36,10 @@
               <i class="fas fa-map-marker-alt"></i>
               <div>{{ comp.date }}</div>
               <div>{{ comp.time }}</div>
-              <div>{{ comp.place }}</div>
+              <div>
+              <a v-if="comp.link":href="comp.link" target="_blank">{{ comp.place }}</a>
+              <div v-if="comp.link == null">{{ comp.place }}</div>
+              </div>
             </div>
             <hr />
           </div>
