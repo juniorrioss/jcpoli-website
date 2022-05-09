@@ -37,8 +37,9 @@
               <div>{{ comp.date }}</div>
               <div>{{ comp.time }}</div>
               <div>
-              <a v-if="comp.link":href="comp.link" target="_blank">{{ comp.place }}</a>
-              <div v-if="comp.link == null">{{ comp.place }}</div>
+              {{ comp.place }}
+              <a v-if="comp.link":href="comp.link" target="_blank">{{ comp.place2 }}</a>
+              {{ comp.place3 }}
               </div>
             </div>
             <hr />
