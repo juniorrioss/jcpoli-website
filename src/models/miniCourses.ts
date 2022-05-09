@@ -11,7 +11,7 @@ let Courses = [
     place: "Auditório 3, área II",
   }, 
   {
-    title: "Criação de apresentações de trabalhos científicos",
+    title: "Uso da ferrramenta CANVA para apresentação de trabalho acadêmico",
     instructor: "Profa Luri Sabina Cosme da Silva Matos",
     institution: "PUC Goiás",
     desc: `O minicurso tem como objetivo apresentar o aplicativo CANVA como ferramenta para o desenvolvimento de trabalho acadêmico, enfatizar os tópicos mais relevantes para montar uma apresentação interessante e abordar sobre a postura adequada durante a explanação do trabalho.`,

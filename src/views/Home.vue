@@ -611,7 +611,7 @@ Nivia tem estado continuamente envolvida na investigação acadêmica. Faz parte
       {
         name: "Profa Luri Sabina Cosme da Silva Matos",
         institution: "PUC Goiás",
-        speaking: `Criação de apresentações de trabalhos científicos 
+        speaking: `Uso da ferrramenta CANVA para apresentação de trabalho acadêmico 
         `,
         description: `Graduação em Arquitetura e Urbanismo pela Pontifícia Universidade Católica de Goiás e Design Gráfico pela Universidade Federal de Goiás, especialização e mestrado em Geotecnia e Construção Civil pela Universidade Federal de Goiás, MBA em Recursos Hídricos e Engenharia Sanitária. Trabalhou 12 anos no setor de obras da Pontifícia Universidade Católica de Goiás, foi professora substituta no Instituto Federal de Goiás - Campus Aparecida de Goiânia, foi Coordenadora de Projetos na Serpal Engenharia (SP), foi arquiteta na Navarrete Engenharia (GO), Coordenou o laboratório de Engenharia elétrica da PUC Goiás de 2018 a 2020. Atualmente é professora horista assistente na Pontifícia Universidade Católica de Goiás, assessora na Coordenação de Extensão da PUC Goiás (CDEX) e coordena a Comissão de Comunicação, gerencia as redes sociais dos programas de extensão.
         `,
@@ -788,6 +788,120 @@ Nivia tem estado continuamente envolvida na investigação acadêmica. Faz parte
           date: '11/05',
           time: '19:00 - 20:00',
           place: 'Microsoft Teams'
+        }
+      },
+      {
+        name: 'Victor Honorato Cunha ',
+        institution: 'Norven',
+        speaking: 'Mercado e competências dos profissionais de regulação do setor elétrico',
+        description: `Graduado em Engenharia Elétrica pela Pontifícia Universidade Católica de Goiás. Foi bolsista FAPEG como aluno de iniciação científica na área de planejamento de redes de telecomunicações e algoritmos genéticos. Fez seu estágio curricular no Instituto Senai de Tecnologia em Automação-Goiás, com foco na área de eletrônica e sistemas de controle. Realizou a transição da área técnica para gestão como estagiário na ORBIS Engenharia Clínica, desempenhando atividades gestão dos equipamentos de saúde. No setor elétrico iniciou suas atividades como estagiário na Setra Soluções, consultoria especializada na gestão da Base de Remuneração Regulatória (BRR) de distribuidoras de energia elétrica. Hoje, ainda na Setra soluções, segue como especialista de BRR realizando atividades de apoio na tomada de decisões estratégicas.     
+        `,
+        subjectResume: `Nesta palestra será abordada a estrutura do setor elétrico, os tipos de regulação existentes e o perfil do profissional desse setor. Ao final do evento os ouvintes serão capazes de responder as seguintes perguntas: 
+1-Regulação o que é isso e por que é importante? 
+2-Por que existe apenas uma concessionária de energia? 
+3-Quais oportunidades existem nesse setor? 
+4-Quais habilidades necessárias para aproveitar essas oportunidades?
+        `,
+        img: '/assets/img/speakers/Victor_Honorato.jpeg',
+        customSize: '100%',
+        datentime: {
+          date: '11/05',
+          time: '09:00 - 10:00',
+          place: 'Auditório 3, área II'
+        }
+      },
+      {
+        name: 'Cleber Margarida',
+        institution: 'LG Lugar de Gente',
+        speaking: 'Como Começar sua carreira na tecnologia.',
+        description: `Desenvolvedor Backend .Net & Instrutor de Programação Avançada Daniel Pinheiro - Desenvolvedor Mobile, instrutor do modulo Mobile do programa de estágio da LG Lugar de Gente, Instrutor de TI e Estudante de Engenharia de Software.
+        `,
+        subjectResume: `Cleber ministrará a palestra "Como Começar sua carreira na tecnologia", que irá abordar assuntos que todo o inciante em programação deve seguir para garantir sucesso no seu aprendizado. Etapas que evitem você travar ou se desmotivar no caminho.
+        `,
+        img: '/assets/img/speakers/Cleber_Margarida.jpg',
+        customSize: '100%',
+        datentime: {
+          date: '10/05',
+          time: '19:00 - 20:30',
+          place: 'Auditório 3, área II'
+        }
+      },
+      {
+        name: 'Daniel Pinheiro',
+        institution: 'LG Lugar de Gente',
+        speaking: 'Aprendizado direcionado ao mercado de TI.',
+        description: `Desenvolvedor Mobile, instrutor do modulo Mobile do programa de estágio da LG Lugar de Gente, Instrutor de TI e Estudante de Engenharia de Software.
+        `,
+        subjectResume: `Daniel ministrará a palestra "Aprendizado direcionado ao mercado de TI", o qual levantará questionamentos, reflexões e buscará direcionar o público para a solução das seguintes dúvidas: “O que de fato estudar para o mercado de TI? O que eu estudo na faculdade é suficiente e aplicável?”, “Quando eu sei que estou pronto para iniciar no mercado de trabalho?”
+        `,
+        img: '/assets/img/speakers/Daniel_Pinheiro.jpg',
+        customSize: '100%',
+        datentime: {
+          date: '10/05',
+          time: '19:00 - 20:30',
+          place: 'Auditório 3, área II'
+        }
+      },
+      {
+        name: 'Matheus Dias Ferlin Moura',
+        institution: 'LG Lugar de Gente',
+        speaking: 'Depoimento sobre experiência como estagiário e desenvolvedor.',
+        description: `Aluno do 8o. período do curso de Engenharia de Computação, estagiário por 5 meses e Desenvolvedor há 10 meses na LG.
+        `,
+        subjectResume: `Daniel ministrará a palestra "Aprendizado direcionado ao mercado de TI", o qual levantará questionamentos, reflexões e buscará direcionar o público para a solução das seguintes dúvidas: “O que de fato estudar para o mercado de TI? O que eu estudo na faculdade é suficiente e aplicável?”, “Quando eu sei que estou pronto para iniciar no mercado de trabalho?”
+        `,
+        img: '/assets/img/speakers/Matheus_Dias.jpg',
+        customSize: '100%',
+        datentime: {
+          date: '10/05',
+          time: '19:00 - 20:30',
+          place: 'Auditório 3, área II'
+        }
+      },
+      {
+        name: 'Cinthia Gracielle Martins',
+        institution: 'LG Lugar de Gente',
+        speaking: 'Programa de Estágio na LG Lugar de Gente.',
+        description: `Cinthia Gracielle Martins é psicóloga, possui 10 anos de atuação com Recrutamento e Seleção e há 1 ano e 5 meses na LG como Tech Recruiter.
+        `,
+        subjectResume: `
+        `,
+        img: '/assets/img/speakers/Cinthia_Gracielle.jpg',
+        customSize: '100%',
+        datentime: {
+          date: '10/05',
+          time: '19:00 - 20:30',
+          place: 'Auditório 3, área II'
+        }
+      },
+      {
+        name: 'Ana Paula Santos Bernardo',
+        institution: 'LG Lugar de Gente',
+        speaking: 'Programa de Estágio na LG Lugar de Gente.',
+        description: `Ana Paula Santos Bernardo é psicóloga, possui 8 anos de experiência, 2 anos na LG como Supervisora de Atração e Seleção.
+        `,
+        subjectResume: `Cinthia, Ana Paula e Adrielly falarão sobre o Programa de Estágio na LG Lugar de Gente.`,
+        img: '/assets/img/speakers/Ana_Paula.jpg',
+        customSize: '100%',
+        datentime: {
+          date: '10/05',
+          time: '19:00 - 20:30',
+          place: 'Auditório 3, área II'
+        }
+      },
+      {
+        name: 'Adrielly Betania Alves Barbosa',
+        institution: 'LG Lugar de Gente',
+        speaking: 'Programa de Estágio na LG Lugar de Gente.',
+        description: `Adrielly Betania Alves Barbosa é graduanda do 7º período de psicologia pela UNIFAN. Atuação em RH desde 2020, atuando nas empresas Big Lar Utilidades e LG lugar de gente. Desde janeiro de 2021 atua como estagiária de Psicologia na LG lugar de gente realizando processos de Recrutamento e Seleção.
+        `,
+        subjectResume: `Cinthia, Ana Paula e Adrielly falarão sobre o Programa de Estágio na LG Lugar de Gente.`,
+        img: '/assets/img/speakers/Adrielly_Betania.jpg',
+        customSize: '100%',
+        datentime: {
+          date: '10/05',
+          time: '19:00 - 20:30',
+          place: 'Auditório 3, área II'
         }
       },
     ]

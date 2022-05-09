@@ -31,6 +31,7 @@ let Palestras = [
   {
     title: "Avaliação de Máquinas conforme NBR 14.653-5",
     instructor: "Ricardo Vitoy",
+    warning: "CANCELADA",
     institution: "PUC Goiás",
     desc: ``,
     date: "09/05",
@@ -286,10 +287,14 @@ let Palestras = [
       "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1651587943078?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2219202b0c-a430-4a6f-8eac-33d2cc220195%22%7d",
   },
   {
-    title: "Programa de Estágio LG Sistemas",
-    instructor: "",
-    institution: "LG Sistemas",
-    desc: `
+    title: "Como Começar sua carreira na tecnologia. Aprendizado direcionado ao mercado de TI. Depoimento sobre experiência como estagiário e desenvolvedor. Programa de Estágio na LG Lugar de Gente.",
+    instructor: "Cleber Margarida, Daniel Pinheiro, Matheus Dias Ferlin Moura, Cinthia Gracielle Martins, Ana Paula Santos Bernardo e Adrielly Betania Alves Barbosa",
+    institution: "LG Lugar de Gente",
+    desc: `* Cleber ministrará a palestra "Como Começar sua carreira na tecnologia", que irá abordar assuntos que todo o inciante em programação deve seguir para garantir sucesso no seu aprendizado. Etapas que evitem você travar ou se desmotivar no caminho. 
+    * Daniel ministrará a palestra "Aprendizado direcionado ao mercado de TI", o qual levantará questionamentos, reflexões e buscará direcionar o público para a solução das seguintes dúvidas: “O que de fato estudar para o mercado de TI? O que eu estudo na faculdade é suficiente e aplicável?”, “Quando eu sei que estou pronto para iniciar no mercado de trabalho?”
+    * Matheus irá dar seu depoimento sobre sua experiência como estagiário e desenvolvedor.
+    * Cinthia, Ana Paula e Adrielly falarão sobre o Programa de Estágio na LG Lugar de Gente.
+    
   `,
     date: "10/05",
     time: "19:00-20:30",
@@ -348,7 +353,7 @@ let Palestras = [
     institution: "PUC Goiás",
     desc: ``,
     date: "11/05",
-    time: "8:00-9:30",
+    time: "08:00-09:00",
     place: "Auditório 3, área II",
   },
   {
@@ -408,7 +413,7 @@ let Palestras = [
   {
     title: "Inovação em Fruticultura e Pós-Colheita",
     instructor: " Engª Agrônoma Daniela Mota Segantini",
-    institution: "Hortifrut",
+    institution: "Hortifrut - Odemira - Portugal",
     desc: `
   `,
     date: "11/05",
@@ -495,6 +500,21 @@ let Palestras = [
     time: "20:30-22:00",
     place: "YouTube",
     link: "https://www.youtube.com/watch?v=9Ye-Vn7vY7o&ab_channel=PUCGoi%C3%A1s"
+  },
+  {
+    title: "Mercado e competências dos profissionais de regulação do setor elétrico",
+    instructor: `Victor Honorato Cunha
+    `,
+    institution: "Norven",
+    desc: `Nesta palestra será abordada a estrutura do setor elétrico, os tipos de regulação existentes e o perfil do profissional desse setor. Ao final do evento os ouvintes serão capazes de responder as seguintes perguntas: 
+    1-Regulação o que é isso e por que é importante? 
+    2-Por que existe apenas uma concessionária de energia? 
+    3-Quais oportunidades existem nesse setor? 
+    4-Quais habilidades necessárias para aproveitar essas oportunidades?
+    `,
+    date: "11/05",
+    time: "09:00-10:00",
+    place: "Auditório 3, área II",
   },
 
   //===================================================
