@@ -27,6 +27,9 @@
                 {{ comp.desc }}
               </P>
               <h5 :title="comp.instructor">Instrutor: {{ comp.instructor }}</h5>
+              <h6 class="patrocinador" v-if="comp.patrocinador">
+                Patrocinador: {{ comp.patrocinador }}
+              </h6>
             </div>
           </div>
           <div class="info-h">
@@ -37,9 +40,11 @@
               <div>{{ comp.date }}</div>
               <div>{{ comp.time }}</div>
               <div>
-              {{ comp.place }}
-              <a v-if="comp.link":href="comp.link" target="_blank">{{ comp.place2 }}</a>
-              {{ comp.place3 }}
+                {{ comp.place }}
+                <a v-if="comp.link" :href="comp.link" target="_blank">{{
+                  comp.place2
+                }}</a>
+                {{ comp.place3 }}
               </div>
             </div>
             <hr />
@@ -174,6 +179,10 @@ svg {
 
 .competicoes {
   margin-bottom: 4rem;
+}
+
+.patrocinador {
+  text-align: right;
 }
 
 @media screen and (max-width: 425px) {
