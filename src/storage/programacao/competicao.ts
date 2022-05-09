@@ -25,9 +25,10 @@ A base de dados será sobre Transplantes de Rins no Estado de São Paulo, no
 período de 2000 a 2017, um problema real de modelagem para previsão do tempo de
 espera na fila, usando ciência dos dados
   `,
-  date: "09/05 - 13/05",
-  time: `Abertura dia 09/05 das 10h às 12h Apresentação dia 13/05 das 19h às 22h Premiação dia 14/05`,
-  place: "A definir",
+  date: "09/05 - 14/05",
+  time: `Abertura: 09/05 das 10h - 12h Apresentação: 13/05 das 19h - 22h Premiação: 14/05 às 09h`,
+  place: "Abertura: Auditório 1 , aréa II  Apresentação: Microsoft Teams Premiação: Auditório 3 , aréa II",
+  link: "https://teams.microsoft.com/l/team/19%3aHcrIGbRxMtaHnfgMUryabS_U EfdjPkoLxnMLYskgZ3k1%40thread.tacv2/conversations?groupId=9eb3658 f-e5d0-4b9a-afcf-dcfbf5a8d97e&tenantId=73319f42-8908-4b89-9f8d-558cf4d5d776",
   image: "assets/img/slider/logo-desafiodados.jpeg"
   },
 

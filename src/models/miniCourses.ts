@@ -14,7 +14,7 @@ let Courses = [
     title: "Criação de apresentações de trabalhos científicos",
     instructor: "Profa Luri Sabina Cosme da Silva Matos",
     institution: "PUC Goiás",
-    desc: ``,
+    desc: `O minicurso tem como objetivo apresentar o aplicativo CANVA como ferramenta para o desenvolvimento de trabalho acadêmico, enfatizar os tópicos mais relevantes para montar uma apresentação interessante e abordar sobre a postura adequada durante a explanação do trabalho.`,
     date: "09/05",
     time: "15:00-16:30",
     place: "Microsoft Teams",
