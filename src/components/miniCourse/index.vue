@@ -6,7 +6,7 @@
         :title="course.title"
         v-bind:id="'true' ? course.title === 'Palestra de Abertura da Jornada: AskBlue, dos 0 aos 500' : ''"
       >
-        {{ course.title }}
+        {{ course.title }} <font color="red">{{course.warning}}</font>
       </h3>
     </div>
 

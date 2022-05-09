@@ -31,6 +31,7 @@ let Palestras = [
   {
     title: "Avaliação de Máquinas conforme NBR 14.653-5",
     instructor: "Ricardo Vitoy",
+    warning: "CANCELADA",
     institution: "PUC Goiás",
     desc: ``,
     date: "09/05",
@@ -348,7 +349,7 @@ let Palestras = [
     institution: "PUC Goiás",
     desc: ``,
     date: "11/05",
-    time: "8:00-9:30",
+    time: "08:00-09:00",
     place: "Auditório 3, área II",
   },
   {
@@ -408,7 +409,7 @@ let Palestras = [
   {
     title: "Inovação em Fruticultura e Pós-Colheita",
     instructor: " Engª Agrônoma Daniela Mota Segantini",
-    institution: "Hortifrut",
+    institution: "Hortifrut - Odemira - Portugal",
     desc: `
   `,
     date: "11/05",
@@ -495,6 +496,21 @@ let Palestras = [
     time: "20:30-22:00",
     place: "YouTube",
     link: "https://www.youtube.com/watch?v=9Ye-Vn7vY7o&ab_channel=PUCGoi%C3%A1s"
+  },
+  {
+    title: "Mercado e competências dos profissionais de regulação do setor elétrico",
+    instructor: `Victor Honorato Cunha
+    `,
+    institution: "Norven",
+    desc: `Nesta palestra será abordada a estrutura do setor elétrico, os tipos de regulação existentes e o perfil do profissional desse setor. Ao final do evento os ouvintes serão capazes de responder as seguintes perguntas: 
+    1-Regulação o que é isso e por que é importante? 
+    2-Por que existe apenas uma concessionária de energia? 
+    3-Quais oportunidades existem nesse setor? 
+    4-Quais habilidades necessárias para aproveitar essas oportunidades?
+    `,
+    date: "11/05",
+    time: "09:00-10:00",
+    place: "Auditório 3, área II",
   },
 
   //===================================================

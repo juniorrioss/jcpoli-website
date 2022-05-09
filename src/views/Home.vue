@@ -611,7 +611,7 @@ Nivia tem estado continuamente envolvida na investigação acadêmica. Faz parte
       {
         name: "Profa Luri Sabina Cosme da Silva Matos",
         institution: "PUC Goiás",
-        speaking: `Criação de apresentações de trabalhos científicos 
+        speaking: `Uso da ferrramenta CANVA para apresentação de trabalho acadêmico 
         `,
         description: `Graduação em Arquitetura e Urbanismo pela Pontifícia Universidade Católica de Goiás e Design Gráfico pela Universidade Federal de Goiás, especialização e mestrado em Geotecnia e Construção Civil pela Universidade Federal de Goiás, MBA em Recursos Hídricos e Engenharia Sanitária. Trabalhou 12 anos no setor de obras da Pontifícia Universidade Católica de Goiás, foi professora substituta no Instituto Federal de Goiás - Campus Aparecida de Goiânia, foi Coordenadora de Projetos na Serpal Engenharia (SP), foi arquiteta na Navarrete Engenharia (GO), Coordenou o laboratório de Engenharia elétrica da PUC Goiás de 2018 a 2020. Atualmente é professora horista assistente na Pontifícia Universidade Católica de Goiás, assessora na Coordenação de Extensão da PUC Goiás (CDEX) e coordena a Comissão de Comunicação, gerencia as redes sociais dos programas de extensão.
         `,
@@ -788,6 +788,26 @@ Nivia tem estado continuamente envolvida na investigação acadêmica. Faz parte
           date: '11/05',
           time: '19:00 - 20:00',
           place: 'Microsoft Teams'
+        }
+      },
+      {
+        name: 'Victor Honorato Cunha ',
+        institution: 'Norven',
+        speaking: 'Mercado e competências dos profissionais de regulação do setor elétrico',
+        description: `Graduado em Engenharia Elétrica pela Pontifícia Universidade Católica de Goiás. Foi bolsista FAPEG como aluno de iniciação científica na área de planejamento de redes de telecomunicações e algoritmos genéticos. Fez seu estágio curricular no Instituto Senai de Tecnologia em Automação-Goiás, com foco na área de eletrônica e sistemas de controle. Realizou a transição da área técnica para gestão como estagiário na ORBIS Engenharia Clínica, desempenhando atividades gestão dos equipamentos de saúde. No setor elétrico iniciou suas atividades como estagiário na Setra Soluções, consultoria especializada na gestão da Base de Remuneração Regulatória (BRR) de distribuidoras de energia elétrica. Hoje, ainda na Setra soluções, segue como especialista de BRR realizando atividades de apoio na tomada de decisões estratégicas.     
+        `,
+        subjectResume: `Nesta palestra será abordada a estrutura do setor elétrico, os tipos de regulação existentes e o perfil do profissional desse setor. Ao final do evento os ouvintes serão capazes de responder as seguintes perguntas: 
+1-Regulação o que é isso e por que é importante? 
+2-Por que existe apenas uma concessionária de energia? 
+3-Quais oportunidades existem nesse setor? 
+4-Quais habilidades necessárias para aproveitar essas oportunidades?
+        `,
+        img: '/assets/img/speakers/Victor_Honorato.jpeg',
+        customSize: '100%',
+        datentime: {
+          date: '11/05',
+          time: '09:00 - 10:00',
+          place: 'Auditório 3, área II'
         }
       },
     ]
