@@ -810,6 +810,100 @@ Nivia tem estado continuamente envolvida na investigação acadêmica. Faz parte
           place: 'Auditório 3, área II'
         }
       },
+      {
+        name: 'Cleber Margarida',
+        institution: 'LG Lugar de Gente',
+        speaking: 'Como Começar sua carreira na tecnologia.',
+        description: `Desenvolvedor Backend .Net & Instrutor de Programação Avançada Daniel Pinheiro - Desenvolvedor Mobile, instrutor do modulo Mobile do programa de estágio da LG Lugar de Gente, Instrutor de TI e Estudante de Engenharia de Software.
+        `,
+        subjectResume: `Cleber ministrará a palestra "Como Começar sua carreira na tecnologia", que irá abordar assuntos que todo o inciante em programação deve seguir para garantir sucesso no seu aprendizado. Etapas que evitem você travar ou se desmotivar no caminho.
+        `,
+        img: '/assets/img/speakers/Cleber_Margarida.jpg',
+        customSize: '100%',
+        datentime: {
+          date: '10/05',
+          time: '19:00 - 20:30',
+          place: 'Auditório 3, área II'
+        }
+      },
+      {
+        name: 'Daniel Pinheiro',
+        institution: 'LG Lugar de Gente',
+        speaking: 'Aprendizado direcionado ao mercado de TI.',
+        description: `Desenvolvedor Mobile, instrutor do modulo Mobile do programa de estágio da LG Lugar de Gente, Instrutor de TI e Estudante de Engenharia de Software.
+        `,
+        subjectResume: `Daniel ministrará a palestra "Aprendizado direcionado ao mercado de TI", o qual levantará questionamentos, reflexões e buscará direcionar o público para a solução das seguintes dúvidas: “O que de fato estudar para o mercado de TI? O que eu estudo na faculdade é suficiente e aplicável?”, “Quando eu sei que estou pronto para iniciar no mercado de trabalho?”
+        `,
+        img: '/assets/img/speakers/Daniel_Pinheiro.jpg',
+        customSize: '100%',
+        datentime: {
+          date: '10/05',
+          time: '19:00 - 20:30',
+          place: 'Auditório 3, área II'
+        }
+      },
+      {
+        name: 'Matheus Dias Ferlin Moura',
+        institution: 'LG Lugar de Gente',
+        speaking: 'Depoimento sobre experiência como estagiário e desenvolvedor.',
+        description: `Aluno do 8o. período do curso de Engenharia de Computação, estagiário por 5 meses e Desenvolvedor há 10 meses na LG.
+        `,
+        subjectResume: `Daniel ministrará a palestra "Aprendizado direcionado ao mercado de TI", o qual levantará questionamentos, reflexões e buscará direcionar o público para a solução das seguintes dúvidas: “O que de fato estudar para o mercado de TI? O que eu estudo na faculdade é suficiente e aplicável?”, “Quando eu sei que estou pronto para iniciar no mercado de trabalho?”
+        `,
+        img: '/assets/img/speakers/Matheus_Dias.jpg',
+        customSize: '100%',
+        datentime: {
+          date: '10/05',
+          time: '19:00 - 20:30',
+          place: 'Auditório 3, área II'
+        }
+      },
+      {
+        name: 'Cinthia Gracielle Martins',
+        institution: 'LG Lugar de Gente',
+        speaking: 'Programa de Estágio na LG Lugar de Gente.',
+        description: `Cinthia Gracielle Martins é psicóloga, possui 10 anos de atuação com Recrutamento e Seleção e há 1 ano e 5 meses na LG como Tech Recruiter.
+        `,
+        subjectResume: `
+        `,
+        img: '/assets/img/speakers/Cinthia_Gracielle.jpg',
+        customSize: '100%',
+        datentime: {
+          date: '10/05',
+          time: '19:00 - 20:30',
+          place: 'Auditório 3, área II'
+        }
+      },
+      {
+        name: 'Ana Paula Santos Bernardo',
+        institution: 'LG Lugar de Gente',
+        speaking: 'Programa de Estágio na LG Lugar de Gente.',
+        description: `Ana Paula Santos Bernardo é psicóloga, possui 8 anos de experiência, 2 anos na LG como Supervisora de Atração e Seleção.
+        `,
+        subjectResume: `Cinthia, Ana Paula e Adrielly falarão sobre o Programa de Estágio na LG Lugar de Gente.`,
+        img: '/assets/img/speakers/Ana_Paula.jpg',
+        customSize: '100%',
+        datentime: {
+          date: '10/05',
+          time: '19:00 - 20:30',
+          place: 'Auditório 3, área II'
+        }
+      },
+      {
+        name: 'Adrielly Betania Alves Barbosa',
+        institution: 'LG Lugar de Gente',
+        speaking: 'Programa de Estágio na LG Lugar de Gente.',
+        description: `Adrielly Betania Alves Barbosa é graduanda do 7º período de psicologia pela UNIFAN. Atuação em RH desde 2020, atuando nas empresas Big Lar Utilidades e LG lugar de gente. Desde janeiro de 2021 atua como estagiária de Psicologia na LG lugar de gente realizando processos de Recrutamento e Seleção.
+        `,
+        subjectResume: `Cinthia, Ana Paula e Adrielly falarão sobre o Programa de Estágio na LG Lugar de Gente.`,
+        img: '/assets/img/speakers/Adrielly_Betania.jpg',
+        customSize: '100%',
+        datentime: {
+          date: '10/05',
+          time: '19:00 - 20:30',
+          place: 'Auditório 3, área II'
+        }
+      },
     ]
   }
 
