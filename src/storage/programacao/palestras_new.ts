@@ -349,7 +349,7 @@ let Palestras = [
     institution: "PUC Goiás",
     desc: ``,
     date: "11/05",
-    time: "08:00-09:30",
+    time: "08:00-09:00",
     place: "Auditório 3, área II",
   },
   {
