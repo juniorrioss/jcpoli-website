@@ -136,7 +136,7 @@ let Palestras = [
   },
 
   {
-    title: "Palestra de Abertura - AskBlue, dos 0 aos 500",
+    title: "Palestra de Abertura da Jornada: AskBlue, dos 0 aos 500",
     instructor: "Paulo Alexandre Bernardo dos Santos Nunes",
     institution: "Askblue",
     desc: `AskBlue, Uma breve história de sucesso; O processo de internacionalização; Visão para 2025.`,
@@ -317,6 +317,7 @@ let Palestras = [
     date: "10/05",
     time: "20:30-22:00",
     place: "YouTube",
+    link: "https://www.youtube.com/watch?v=ru1Hc-paQBw&ab_channel=PUCGoi%C3%A1s"
   },
   {
     title: "Domain-Driven Design - Principais Conceitos e algumas provocações",
@@ -493,6 +494,7 @@ let Palestras = [
     date: "09/05",
     time: "20:30-22:00",
     place: "YouTube",
+    link: "https://www.youtube.com/watch?v=9Ye-Vn7vY7o&ab_channel=PUCGoi%C3%A1s"
   },
 
   //===================================================
