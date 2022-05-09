@@ -611,7 +611,7 @@ Nivia tem estado continuamente envolvida na investigação acadêmica. Faz parte
       {
         name: "Profa Luri Sabina Cosme da Silva Matos",
         institution: "PUC Goiás",
-        speaking: `Criação de apresentações de trabalhos científicos 
+        speaking: `Uso da ferrramenta CANVA para apresentação de trabalho acadêmico 
         `,
         description: `Graduação em Arquitetura e Urbanismo pela Pontifícia Universidade Católica de Goiás e Design Gráfico pela Universidade Federal de Goiás, especialização e mestrado em Geotecnia e Construção Civil pela Universidade Federal de Goiás, MBA em Recursos Hídricos e Engenharia Sanitária. Trabalhou 12 anos no setor de obras da Pontifícia Universidade Católica de Goiás, foi professora substituta no Instituto Federal de Goiás - Campus Aparecida de Goiânia, foi Coordenadora de Projetos na Serpal Engenharia (SP), foi arquiteta na Navarrete Engenharia (GO), Coordenou o laboratório de Engenharia elétrica da PUC Goiás de 2018 a 2020. Atualmente é professora horista assistente na Pontifícia Universidade Católica de Goiás, assessora na Coordenação de Extensão da PUC Goiás (CDEX) e coordena a Comissão de Comunicação, gerencia as redes sociais dos programas de extensão.
         `,

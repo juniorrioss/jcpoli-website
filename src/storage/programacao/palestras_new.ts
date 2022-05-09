@@ -31,6 +31,7 @@ let Palestras = [
   {
     title: "Avaliação de Máquinas conforme NBR 14.653-5",
     instructor: "Ricardo Vitoy",
+    warning: "CANCELADA",
     institution: "PUC Goiás",
     desc: ``,
     date: "09/05",
@@ -348,7 +349,7 @@ let Palestras = [
     institution: "PUC Goiás",
     desc: ``,
     date: "11/05",
-    time: "8:00-9:30",
+    time: "08:00-09:30",
     place: "Auditório 3, área II",
   },
   {
@@ -408,7 +409,7 @@ let Palestras = [
   {
     title: "Inovação em Fruticultura e Pós-Colheita",
     instructor: " Engª Agrônoma Daniela Mota Segantini",
-    institution: "Hortifrut",
+    institution: "Hortifrut - Odemira - Portugal",
     desc: `
   `,
     date: "11/05",

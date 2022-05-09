@@ -719,7 +719,7 @@ Nivia tem estado continuamente envolvida na investigação acadêmica. Faz parte
       {
         name: 'Profa Luri Sabina Cosme da Silva Matos',
         institution: 'PUC Goiás',
-        speaking: `Criação de apresentações de trabalhos científicos
+        speaking: `Uso da ferrramenta CANVA para apresentação de trabalho acadêmico
         `,
         description: `
         `,
