@@ -185,6 +185,7 @@ let Palestras = [
   },
   {
     title: "A importância da Irrigação para a cultura da Cana de açúcar",
+    warning: "CANCELADA",
     instructor: "Cristiano Hilário de Paula",
     institution: "Jalles Machado",
     desc: `
