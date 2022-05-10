@@ -642,7 +642,7 @@ Nivia tem estado continuamente envolvida na investigação acadêmica. Faz parte
         datentime: {
           date: "11/05",
           time: "10:00-11:30",
-          place: "Auditório 2, área II",
+          place: "Auditório 1, área II",
         },
       },
       {
