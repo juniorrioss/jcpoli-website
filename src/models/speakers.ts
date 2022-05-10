@@ -694,27 +694,11 @@ Palestra sobre a situação atual dos transplantes no Brasil e em Goiás e sobre
     name: 'Cleber Margarida',
     institution: 'LG Lugar de Gente',
     speaking: 'Como Começar sua carreira na tecnologia.',
-    description: `Desenvolvedor Backend .Net & Instrutor de Programação Avançada Daniel Pinheiro - Desenvolvedor Mobile, instrutor do modulo Mobile do programa de estágio da LG Lugar de Gente, Instrutor de TI e Estudante de Engenharia de Software.
+    description: `Cleber Margarida é desenvolvedor Backend .Net & Instrutor de Programação Avançada na LG Lugar de Gente.
     `,
     subjectResume: `Cleber ministrará a palestra "Como Começar sua carreira na tecnologia", que irá abordar assuntos que todo o inciante em programação deve seguir para garantir sucesso no seu aprendizado. Etapas que evitem você travar ou se desmotivar no caminho.
     `,
     img: '/assets/img/speakers/Cleber_Margarida.jpg',
-    customSize: '100%',
-    datentime: {
-      date: '10/05',
-      time: '19:00 - 20:30',
-      place: 'Auditório 3, área II'
-    }
-  },
-  {
-    name: 'Daniel Pinheiro',
-    institution: 'LG Lugar de Gente',
-    speaking: 'Aprendizado direcionado ao mercado de TI.',
-    description: `Desenvolvedor Mobile, instrutor do modulo Mobile do programa de estágio da LG Lugar de Gente, Instrutor de TI e Estudante de Engenharia de Software.
-    `,
-    subjectResume: `Daniel ministrará a palestra "Aprendizado direcionado ao mercado de TI", o qual levantará questionamentos, reflexões e buscará direcionar o público para a solução das seguintes dúvidas: “O que de fato estudar para o mercado de TI? O que eu estudo na faculdade é suficiente e aplicável?”, “Quando eu sei que estou pronto para iniciar no mercado de trabalho?”
-    `,
-    img: '/assets/img/speakers/Daniel_Pinheiro.jpg',
     customSize: '100%',
     datentime: {
       date: '10/05',
