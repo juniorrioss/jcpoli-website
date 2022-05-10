@@ -473,7 +473,7 @@ let Palestras = [
     desc: ``,
     date: "11/05",
     time: "15:00-16:00",
-    place: "Teatro de Arena, área III",
+    place: "Estacionamento aberto, área II - em frente ao DCE",
   },
   {
     title: "Campus Party Goiás 2 – Reiniciando tudo em 3, 2, 1",
