@@ -483,7 +483,7 @@ let Palestras = [
     desc: `No final da palestra ocorrerá um sorteio de 15 ingressos para Campus Party Goiás 2.`,
     date: "11/05",
     time: "10:00-11:30",
-    place: "Auditório 2, área II",
+    place: "Auditório 1, área II",
   },
   {
     title: "Como a Incubadora PUC Goiás pode transformar a sua ideia em um projeto real",
