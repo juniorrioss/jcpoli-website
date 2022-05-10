@@ -750,7 +750,7 @@ Nivia tem estado continuamente envolvida na investigação acadêmica. Faz parte
         datentime: {
           date: '11/05',
           time: '10:00-11:30',
-          place: 'Auditório 2, área II'
+          place: 'Auditório 1, área II'
         }
       },
       {
@@ -881,7 +881,8 @@ Nivia tem estado continuamente envolvida na investigação acadêmica. Faz parte
       {
         name: 'Eng. Civil Paulo Rocha',
         institution: 'Geo Soluções',
-        speaking: 'Aplicação de software para análise de estabilidade de taludes',
+        speaking:
+          'Aplicação de software para análise de estabilidade de taludes',
         description: `Engenheiro Civil graduado pela Escola de Engenharia de São Carlos EESC USP, Pós Graduado em Gerenciamento de Projetos PMI, e aluno do programa de pós graduação da UFSCar
     
         Professor de Mecânica dos Solos, Obras de Terra, entre outras disciplinas de 2014 a 2019.
@@ -903,7 +904,8 @@ Nivia tem estado continuamente envolvida na investigação acadêmica. Faz parte
       {
         name: 'Victor Honorato Cunha ',
         institution: 'Norven',
-        speaking: 'Mercado e competências dos profissionais de regulação do setor elétrico',
+        speaking:
+          'Mercado e competências dos profissionais de regulação do setor elétrico',
         description: `Graduado em Engenharia Elétrica pela Pontifícia Universidade Católica de Goiás. Foi bolsista FAPEG como aluno de iniciação científica na área de planejamento de redes de telecomunicações e algoritmos genéticos. Fez seu estágio curricular no Instituto Senai de Tecnologia em Automação-Goiás, com foco na área de eletrônica e sistemas de controle. Realizou a transição da área técnica para gestão como estagiário na ORBIS Engenharia Clínica, desempenhando atividades gestão dos equipamentos de saúde. No setor elétrico iniciou suas atividades como estagiário na Setra Soluções, consultoria especializada na gestão da Base de Remuneração Regulatória (BRR) de distribuidoras de energia elétrica. Hoje, ainda na Setra soluções, segue como especialista de BRR realizando atividades de apoio na tomada de decisões estratégicas.     
         `,
         subjectResume: `Nesta palestra será abordada a estrutura do setor elétrico, os tipos de regulação existentes e o perfil do profissional desse setor. Ao final do evento os ouvintes serão capazes de responder as seguintes perguntas: 
@@ -939,7 +941,8 @@ Nivia tem estado continuamente envolvida na investigação acadêmica. Faz parte
       {
         name: 'Matheus Dias Ferlin Moura',
         institution: 'LG Lugar de Gente',
-        speaking: 'Depoimento sobre experiência como estagiário e desenvolvedor.',
+        speaking:
+          'Depoimento sobre experiência como estagiário e desenvolvedor.',
         description: `Aluno do 8o. período do curso de Engenharia de Computação, estagiário por 5 meses e Desenvolvedor há 10 meses na LG.
         `,
         subjectResume: `Daniel ministrará a palestra "Aprendizado direcionado ao mercado de TI", o qual levantará questionamentos, reflexões e buscará direcionar o público para a solução das seguintes dúvidas: “O que de fato estudar para o mercado de TI? O que eu estudo na faculdade é suficiente e aplicável?”, “Quando eu sei que estou pronto para iniciar no mercado de trabalho?”
@@ -997,7 +1000,7 @@ Nivia tem estado continuamente envolvida na investigação acadêmica. Faz parte
           time: '19:00 - 20:30',
           place: 'Auditório 3, área II'
         }
-      },
+      }
     ]
   }
 }
