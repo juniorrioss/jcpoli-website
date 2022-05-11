@@ -339,11 +339,11 @@ let Palestras = [
     title: "A Importância da Agronomia no Cenário do Agronegócio Brasileiro e os Desafios e perspectivas da Emater para Goiás",
     instructor: "João Asmar Junior",
     institution: "Emater Goiás",
-    desc: `
-  `,
+    desc: "",
     date: "11/05",
     time: "08:00-09:30",
-    place: "Auditório 2, área II",
+    place: "Microsoft Teams",
+    link: "https://teams.microsoft.com/l/meetup-join/19:dcb5856375ad4247a353459a1d1f6306@thread.tacv2/1651700766441?context=%7B%22Tid%22:%2273319f42-8908-4b89-9f8d-558cf4d5d776%22,%22Oid%22:%22ce648d29-1f69-4f22-9443-c0bd00685067%22%7D"
   },
   {
     title: "Teoria das restrições: desde a Meta até a Correte Crítica",

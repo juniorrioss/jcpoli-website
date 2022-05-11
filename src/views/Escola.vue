@@ -787,7 +787,7 @@ Nivia tem estado continuamente envolvida na investigação acadêmica. Faz parte
         datentime: {
           date: '11/05',
           time: '08:00 - 09:30',
-          place: 'Auditório 2, área II'
+          place: "Microsoft Teams",
         }
       },
       {
