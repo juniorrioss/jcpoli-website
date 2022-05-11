@@ -559,7 +559,7 @@ Palestra sobre a situação atual dos transplantes no Brasil e em Goiás e sobre
     datentime: {
       date: "11/05",
       time: "08:00 - 09:30",
-      place: "Auditório 2, área II",
+      place: "Microsoft Teams",
     },
   },
   {
