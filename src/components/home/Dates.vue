@@ -64,8 +64,8 @@ export default class Dates extends Vue {
       disabled: false
     },
     {
-      date: '06 a 15 de Maio',
-      event: 'Apresentação do artigos na I Jornada',
+      date: '06 a 15 de Junho',
+      event: 'Apresentação do artigo durante as apresentação de TCC',
       disabled: false
     }
   ]
