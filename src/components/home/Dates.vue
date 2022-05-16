@@ -54,7 +54,7 @@ export default class Dates extends Vue {
 
   private dates = [
     {
-      date: 'Até 26 de Junho',
+      date: 'Até 26 de Maio',
       event: 'Período para encaminhamento dos artigos',
       disabled: false
     },
@@ -65,7 +65,7 @@ export default class Dates extends Vue {
     },
     {
       date: '06 a 15 de Junho',
-      event: 'Apresentação do artigo durante as apresentação de TCC',
+      event: 'Apresentação do artigo durante as apresentações de TCC',
       disabled: false
     }
   ]
