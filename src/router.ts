@@ -90,6 +90,11 @@ const router = new Router({
         import(/* webpackChunkName: "egressos" */ "./views/Egressos.vue")
     },
     {
+      path: "/anais",
+      component: () =>
+        import(/* webpackChunkName: "egressos" */ "./views/Anais.vue")
+    },
+    {
       path: "*",
       component: () =>
         import(/* webpackChunkName: "ops" */ "./views/four04.vue")
