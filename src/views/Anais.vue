@@ -35,7 +35,7 @@ import { Anais } from '@/storage/programacao/anais'
   }
 })
 export default class anais extends Vue {
-  private all_competicoes: any
+  private all_anais: any
 
   private title = 'Anais'
 
