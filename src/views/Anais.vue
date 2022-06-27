@@ -34,11 +34,10 @@ import { Anais } from '@/storage/programacao/anais'
     Main
   }
 })
-export default class competicoes extends Vue {
+export default class anais extends Vue {
   private all_competicoes: any
 
-  private title = 'Competições'
-  private background = 'assets/img/slider/logo-maratona.jpg'
+  private title = 'Anais'
 
   constructor() {
     super()
