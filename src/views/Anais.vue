@@ -1,7 +1,7 @@
 <template>
   <div class="obs-page view">
     <Main>
-      <h3>Anais do último evento</h3>
+      <h3>Anais da IV Jornada Científica da ECEC</h3>
       <table>
         <tbody>
           <tr>
